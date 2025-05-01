@@ -33,7 +33,7 @@ jobs:
         run: ls -alh  # Проверяем, что файл tracks.json существует
 
       - name: Upload tracks.json as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v1
         with:
           name: tracks
           path: tracks.json  # Убедись, что файл создан и доступен для загрузки
