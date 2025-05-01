@@ -3,49 +3,61 @@ name: Generate Tracks
 on:
   push:
     branches:
-      - main  # Запускать workflow при пуше в главную ветку
-  workflow_dispatch:  # Позволяет запускать workflow вручную из интерфейса GitHub
+      - main
+  workflow_dispatch:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Запуск на Ubuntu
+    runs-on: ubuntu-latest
 
     steps:
-      # Проверка репозитория
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      # Установка Python
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      # Установка зависимостей
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # Устанавливаем зависимости
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      # Запуск скрипта для генерации tracks.json
       - name: Run generate_tracks.py
+        id: generate
         run: python scripts/generate_tracks.py
         env:
-          API_ID: ${{ secrets.API_ID }}  # API_ID из Secrets
-          API_HASH: ${{ secrets.API_HASH }}  # API_HASH из Secrets
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала из Secrets
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
 
-      # Проверим, что файл tracks.json был создан
       - name: Check generated file
-        run: ls -alh  # Просмотр содержимого директории
+        run: |
+          if [ ! -f tracks.json ]; then
+            echo "Ошибка: файл tracks.json не был создан"
+            exit 1
+          fi
+          echo "Файл tracks.json успешно создан"
+          ls -alh tracks.json
 
-      # Создание релиза и загрузка файла
       - name: Create GitHub Release
+        if: success()
         id: create_release
-        run: |
-          RELEASE_TAG=v1.0.0  # Можно использовать динамическую версию
-          gh release create $RELEASE_TAG tracks.json --title "Tracks JSON Release"
+        uses: softprops/action-gh-release@v1
+        with:
+          files: tracks.json
+          tag_name: v${{ github.run_number }}
+          name: Release v${{ github.run_number }}
+          body: |
+            Автоматически сгенерированный релиз
+            - Дата: ${{ github.event.repository.updated_at }}
+            - Номер сборки: ${{ github.run_number }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Отправка сообщения с релизом
       - name: Notify about new release
+        if: success()
         run: |
-          echo "Релиз $RELEASE_TAG создан и файл tracks.json загружен."
+          echo "Релиз v${{ github.run_number }} успешно создан"
+          echo "Файл tracks.json загружен в релиз"
