@@ -28,7 +28,7 @@ jobs:
 
       # Запуск скрипта для генерации tracks.json
       - name: Run generate_tracks.py
-        run: python generate_tracks.py
+        run: python scripts/generate_tracks.py
         env:
           API_ID: ${{ secrets.API_ID }}  # API_ID из Secrets
           API_HASH: ${{ secrets.API_HASH }}  # API_HASH из Secrets
