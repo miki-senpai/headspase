@@ -2,6 +2,8 @@ name: Generate tracks.json from Telegram
 
 on:
   workflow_dispatch:  # Позволяет запускать скрипт вручную
+  schedule:
+    - cron: '0 0 * * *'  # Каждый день в полночь (UTC)
 
 jobs:
   generate:
@@ -23,12 +25,15 @@ jobs:
       - name: Generate tracks.json
         run: python scripts/generate_tracks.py  # Запускаем скрипт
         env:
-          API_ID: ${{ secrets.API_ID }}  #  API ID
-          API_HASH: ${{ secrets.API_HASH }}  #  API HASH
+          API_ID: ${{ secrets.API_ID }}  # Твой API ID
+          API_HASH: ${{ secrets.API_HASH }}  # Твой API HASH
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала
+
+      - name: List files in the current directory
+        run: ls -alh  # Проверяем, что файл tracks.json существует
 
       - name: Upload tracks.json as artifact
         uses: actions/upload-artifact@v2
         with:
           name: tracks
-          path: tracks.json  # Загружаем созданный файл как артефакт
+          path: tracks.json  # Убедись, что файл создан и доступен для загрузки
