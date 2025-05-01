@@ -28,7 +28,7 @@ jobs:
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала
 
       - name: Upload tracks.json as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: tracks
           path: tracks.json  # Загружаем созданный файл как артефакт
