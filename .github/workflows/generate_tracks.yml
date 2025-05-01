@@ -1,39 +1,39 @@
 name: Generate tracks.json from Telegram
 
 on:
-  workflow_dispatch:  # Позволяет запускать скрипт вручную
+  workflow_dispatch:  # Позволяет запускать вручную
   schedule:
-    - cron: '0 0 * * *'  # Каждый день в полночь (UTC)
+    - cron: '0 0 * * *'  # Например, каждый день в полночь (UTC)
 
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Используем Ubuntu в качестве окружения
+    runs-on: ubuntu-latest  # Ubuntu для окружения
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Загружаем код из репозитория
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"  # Устанавливаем нужную версию Python
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
-          pip install telethon  # Устанавливаем библиотеку для работы с Telegram API
+          pip install telethon  # Устанавливаем telethon для работы с Telegram API
 
       - name: Generate tracks.json
-        run: python scripts/generate_tracks.py  # Запускаем скрипт
+        run: python scripts/generate_tracks.py  # Запуск скрипта
         env:
-          API_ID: ${{ secrets.API_ID }}  # Твой API ID
-          API_HASH: ${{ secrets.API_HASH }}  # Твой API HASH
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
 
       - name: List files in the current directory
-        run: ls -alh  # Проверяем, что файл tracks.json существует
+        run: ls -alh  # Смотрим, что есть в директории
 
       - name: Upload tracks.json as artifact
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2  # Загрузка артефакта
         with:
           name: tracks
-          path: tracks.json  # Убедись, что файл создан и доступен для загрузки
+          path: tracks.json  # Убедись, что файл существует
