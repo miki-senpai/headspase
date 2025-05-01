@@ -1,39 +1,51 @@
-name: Generate tracks.json from Telegram
+name: Generate Tracks
 
 on:
-  workflow_dispatch:  # Позволяет запускать скрипт вручную
-  schedule:
-    - cron: '0 0 * * *'  # Каждый день в полночь (UTC)
+  push:
+    branches:
+      - main  # Запускать workflow при пуше в главную ветку
+  workflow_dispatch:  # Позволяет запускать workflow вручную из интерфейса GitHub
 
 jobs:
   generate:
-    runs-on: ubuntu-latest  # Используем Ubuntu в качестве окружения
+    runs-on: ubuntu-latest  # Запуск на Ubuntu
 
     steps:
+      # Проверка репозитория
       - name: Checkout repository
-        uses: actions/checkout@v3  # Загружаем код из репозитория
+        uses: actions/checkout@v2
 
+      # Установка Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v3
         with:
-          python-version: "3.10"  # Устанавливаем нужную версию Python
+          python-version: "3.10"
 
+      # Установка зависимостей
       - name: Install dependencies
         run: |
-          pip install telethon  # Устанавливаем библиотеку для работы с Telegram API
+          pip install -r requirements.txt  # Устанавливаем зависимости
 
-      - name: Generate tracks.json
-        run: python scripts/generate_tracks.py  # Запускаем скрипт
+      # Запуск скрипта для генерации tracks.json
+      - name: Run generate_tracks.py
+        run: python generate_tracks.py
         env:
-          API_ID: ${{ secrets.API_ID }}  #  API ID
-          API_HASH: ${{ secrets.API_HASH }}  #  API HASH
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала
+          API_ID: ${{ secrets.API_ID }}  # API_ID из Secrets
+          API_HASH: ${{ secrets.API_HASH }}  # API_HASH из Secrets
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}  # ID канала из Secrets
 
-      - name: List files in the current directory
-        run: ls -alh  # Проверяем, что файл tracks.json существует
+      # Проверим, что файл tracks.json был создан
+      - name: Check generated file
+        run: ls -alh  # Просмотр содержимого директории
 
-      - name: Upload tracks.json as artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: tracks
-          path: tracks.json  # файл создан и доступен для загрузки
+      # Создание релиза и загрузка файла
+      - name: Create GitHub Release
+        id: create_release
+        run: |
+          RELEASE_TAG=v1.0.0  # Можно использовать динамическую версию
+          gh release create $RELEASE_TAG tracks.json --title "Tracks JSON Release"
+
+      # Отправка сообщения с релизом
+      - name: Notify about new release
+        run: |
+          echo "Релиз $RELEASE_TAG создан и файл tracks.json загружен."
