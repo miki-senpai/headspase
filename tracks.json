@@ -2,11 +2,29 @@
     {
         "title": "6:30",
         "performer": "Джизус",
-        "file_id": "CQACAgIAAyEGAASa9BkCAANJaCTyGIeqxrr-M5MTtgUhvbmVU6MAAryEAAL_EylJRzHjoEBJJmc2BA"
+        "album": "Близнецы: Eros",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASa9BkCAANTaCckhJ48_G5TjMKhfIjzJVpfanYAAsxwAAJh4ThJOO1bhDlwzdc2BA"
     },
     {
         "title": "TY NICHEGO NE PONYALA",
         "performer": "Джизус",
-        "file_id": "CQACAgIAAyEGAASa9BkCAANKaCTyGZMEQlgCTk_vMV6nkrP_U0UAAlZpAAJgSihJ3_1RwR-5sXI2BA"
+        "album": "TY NICHEGO NE PONYALA",
+        "genre": "Alternative& Rock& Indie Rock/Rock Pop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAANUaCckhmwHhjEhgf-onwABgEiCXMK_AALNcAACYeE4SSYlEBEtWZl4NgQ"
+    },
+    {
+        "title": "6:30",
+        "performer": "Джизус",
+        "album": "Близнецы: Eros",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASa9BkCAANVaCcliphTRw3CsKZG2dNUTOiHHBkAAt1wAAJh4ThJ6sVPYGUsvw82BA"
+    },
+    {
+        "title": "TY NICHEGO NE PONYALA",
+        "performer": "Джизус",
+        "album": "TY NICHEGO NE PONYALA",
+        "genre": "Alternative& Rock& Indie Rock/Rock Pop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAANWaCclixMnklGC35gTl1AzjgyrQx4AAuBwAAJh4ThJ-pjqSuUsmGY2BA"
     }
 ]
