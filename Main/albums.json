@@ -1,7 +1,93 @@
 [
     {
-        "album": "The Death of Slim Shady (Coup De Grâce)",
-        "performer": "Eminem",
-        "cover_file_id": "AgACAgIAAyEGAASa9BkCAANcaCcq2SgbCMhXV9Txtbkwon6pYiIAA_cxG2HhOEl5rasVbMPlxwEAAwIAA3kAAzYE"
+        "album": "10:13",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPiaCufQ23wiRGlE3dJAAEQqcgaL78ZAAKs9jEb-OFZSQy2BPH72JqqAQADAgADeQADNgQ",
+        "date": "2025-04-25"
+    },
+    {
+        "album": "PHREQUENCY",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAP4aCug_AnzEIKYg_od3mUx8gViKtcAArH2MRv44VlJVeNJdCqC2W0BAAMCAAN5AAM2BA",
+        "date": "2023-08-18"
+    },
+    {
+        "album": "PHILARMONIA",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBBWgroQwJvI8nExqfboTvK72y6XBQAAKy9jEb-OFZSRzPNFZl3RqQAQADAgADeQADNgQ",
+        "date": "2022-11-25"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBB2grpEgMhg7RbXitHiCI6u-jfe34AALB9jEb-OFZSS3knFSxRFeIAQADAgADeQADNgQ",
+        "date": "2021-03-19"
+    },
+    {
+        "album": "Правило",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCGgrpGENE9WfwJDoSw9ixQK2kzIXAALC9jEb-OFZSVIvVMxQodTzAQADAgADeQADNgQ",
+        "date": "2020-03-27"
+    },
+    {
+        "album": "PHUNERAL",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCWgrpHaJ5FIcQTHOKlqwWvMf2BbkAALE9jEb-OFZSV5mn-zIzjULAQADAgADeQADNgQ",
+        "date": "2018-08-23"
+    },
+    {
+        "album": "Pink Phloyd",
+        "performer": "Pharaoh",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCmgrpJBwhI-MW0IGpJddbys2IHbeAALF9jEb-OFZSQyVmezZpY-7AQADAgADeQADNgQ",
+        "date": "2017-07-08"
+    },
+    {
+        "album": "PHOSPHOR",
+        "performer": "Pharaoh",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBC2grpKl55iJxueiLvw2oM40omwjqAALG9jEb-OFZSbvU_3_L7xqYAQADAgADeQADNgQ",
+        "date": "2016-07-13"
+    },
+    {
+        "album": "DOLOR",
+        "performer": "Pharaoh",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBpWgrrlq-YeXLlXC46ug-eHJYogHVAAJl8zEbZ7ZgSXE9K03kudOgAQADAgADeQADNgQ",
+        "date": "2015-07-31"
+    },
+    {
+        "album": "Кондитерская",
+        "performer": "PHARAOH & LSP",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ",
+        "date": "2016"
+    },
+    {
+        "album": "PHLORA",
+        "performer": "Pharaoh",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBwmgrrq-3Ce2La2Qhn24SNjdWWPU4AALy7DEblnBgSdP-63D_-E6OAQADAgADeQADNgQ",
+        "date": "2014-01-01"
+    },
+    {
+        "album": "PHLORA",
+        "performer": "Pharaoh & CA$$XTTX",
+        "genre": "Alternative& Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBwmgrrq-3Ce2La2Qhn24SNjdWWPU4AALy7DEblnBgSdP-63D_-E6OAQADAgADeQADNgQ",
+        "date": "2014-01-01"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "performer": "Pharaoh",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAOMaCsup7GUJ50UocRUlMML5d1Ycx4AApLxMRv44VlJWCi2PSIhm7ABAAMCAAN5AAM2BA",
+        "date": "2014-01-01"
     }
 ]
