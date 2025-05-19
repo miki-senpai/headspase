@@ -1506,8 +1506,7 @@
         "file_id": "CQACAgIAAyEGAASa9BkCAAIB9Ggrr1Y4Po0kcjjDB9T7D5Ou0mKfAAJMagAClnBgSe41iks7GsThNgQ",
         "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPfaCuanwNDB-g_mbCCzDGsz9zgIK8AAoj2MRv44VlJlaPLFhJBLLEBAAMCAAN5AAM2BA",
         "date": "2017-11-25"
-    }
-
+    },
     {
         "album": "Кондитерская",
         "title": "Неон",
@@ -1600,5 +1599,151 @@
         "file_id": "CQACAgIAAyEGAASa9BkCAAIB22grrxJexX06QR8qdPIipJJQgvywAAI2agAClnBgSU_nL0PuDo6ANgQ",
         "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPfaCuanwNDB-g_mbCCzDGsz9zgIK8AAoj2MRv44VlJlaPLFhJBLLEBAAMCAAN5AAM2BA",
         "date": "2020"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Эми",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB9WgrvIffxszQYjqpIDLkTS3JdWAFAAJlagAClnBgSW2fd2lklUYFNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBB2grpEgMhg7RbXitHiCI6u-jfe34AALB9jEb-OFZSS3knFSxRFeIAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Чувствую",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB9mgrvIlPFuXVy5H-vi_ciCOOKk-iAAJmagAClnBgSUTXdSQyRlaKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCGgrpGENE9WfwJDoSw9ixQK2kzIXAALC9jEb-OFZSVIvVMxQodTzAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Семейные узы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB92grvIzss_sNVhVfbOe4XAQySKYHAAJQeAACLJhgSZBUf5MbUL4jNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCGgrpGENE9WfwJDoSw9ixQK2kzIXAALC9jEb-OFZSVIvVMxQodTzAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Pink Phloyd",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB-WgrvJMjnKZLTnWuBpm6gtiNmdCsAAJpagAClnBgSUwa5JSepK8BNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCmgrpJBwhI-MW0IGpJddbys2IHbeAALF9jEb-OFZSQyVmezZpY-7AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Проблемы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB-mgrvJTj75BP8L5qLa_7AjXwkcg9AAJqagAClnBgSbmf2ogNVW_sNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCmgrpJBwhI-MW0IGpJddbys2IHbeAALF9jEb-OFZSQyVmezZpY-7AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Дико, например",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB-2grvJWi097MeN2hatXXsNLz00w2AAJragAClnBgSRlkQCnJgfl7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCmgrpJBwhI-MW0IGpJddbys2IHbeAALF9jEb-OFZSQyVmezZpY-7AQADAgADeQADNgQ"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Фосфор",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB_GgrvJaQWu4KPMwZrZ2-LYynLf87AAJsagAClnBgSTH0mDODh2_4NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBC2grpKl55iJxueiLvw2oM40omwjqAALG9jEb-OFZSbvU_3_L7xqYAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Max Payne",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB_WgrvJpRg2T2r5y5YeeJB9cUrWrqAAJtagAClnBgSTURmUk9FCWXNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBlGgrrhGD7SBdVeJPDiEtWX7LnlsvAALu7DEblnBgSfRuT6RRv3uLAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Сюр",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB_mgrvJvTlIwHYdYSWJmp_XNfY1cMAAJuagAClnBgSTMSOHEQym22NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBlGgrrhGD7SBdVeJPDiEtWX7LnlsvAALu7DEblnBgSfRuT6RRv3uLAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "From Dusk Till Dawn",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAIB_2grvJyPOHaJNyiaS2kBKghCC82nAAJvagAClnBgSY1AQ891AYtlNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBnGgrrkfnFTEYEvC6ok7LuA4SLK3RAALv7DEblnBgSeT6P3AJn4bpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Клуб 18. До тла",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICAAFoK7ycXLcjoY5n56OYCOgy3yIcDAACcGoAApZwYEl85uURp1ZW3TYE",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBpWgrrlq-YeXLlXC46ug-eHJYogHVAAJl8zEbZ7ZgSXE9K03kudOgAQADAgADeQADNgQ"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Беги от меня",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICAWgrvJ2R2ZIXBNh9VNjSKey7om3vAAJxagAClnBgSUeKk_FL5HYGNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBpWgrrlq-YeXLlXC46ug-eHJYogHVAAJl8zEbZ7ZgSXE9K03kudOgAQADAgADeQADNgQ"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Новая эра",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICAmgrvKECU52FiVO7r5NayS_X7JmZAAJyagAClnBgSX2YLMWXtBcgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBpWgrrlq-YeXLlXC46ug-eHJYogHVAAJl8zEbZ7ZgSXE9K03kudOgAQADAgADeQADNgQ"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Листопад",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICA2grvKL3klLF4lOf2qM40FMQsq_kAAJzagAClnBgScdJJVbfNLBxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBwmgrrq-3Ce2La2Qhn24SNjdWWPU4AALy7DEblnBgSdP-63D_-E6OAQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Ликантропия",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICBGgrvKPrPSOl3kXdUMpJWIE25nDvAAJ0agAClnBgSYKau10tdc5HNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAOMaCsup7GUJ50UocRUlMML5d1Ycx4AApLxMRv44VlJWCi2PSIhm7ABAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Правило",
+        "title": "Из-за тебя",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICBWgrvXilj6_65tgVYuWHvnZKuat8AAJ3agAClnBgSdBAsIwPdfi7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBCGgrpGENE9WfwJDoSw9ixQK2kzIXAALC9jEb-OFZSVIvVMxQodTzAQADAgADeQADNgQ"
+    },
+    {
+        "album": "сингл headspase",
+        "title": "Unplugged (Interlude)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICBmgrvypU-CnTeL0U1x4lIyy7k7haAAJ5agAClnBgSU7DoHExPzMTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPfaCuanwNDB-g_mbCCzDGsz9zgIK8AAoj2MRv44VlJlaPLFhJBLLEBAAMCAAN5AAM2BA",
+        "date": "2017-02-27"
+    },
+    {
+        "album": "сингл headspase",
+        "title": "Blood Oceans (How Many?)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop, Rock, Indie Rock/Rock Pop",
+        "file_id": "CQACAgIAAyEGAASa9BkCAAICB2grv7VAIIxZTsV0D7VMNO4mppw9AAJ6agAClnBgSWdLeqk-mUk_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPfaCuanwNDB-g_mbCCzDGsz9zgIK8AAoj2MRv44VlJlaPLFhJBLLEBAAMCAAN5AAM2BA",
+        "date": "2018-05-03"
     }
 ]
