@@ -110,5 +110,82 @@
         "genre": "Alternative, Rap/Hip Hop",
         "cover_file_id": "AgACAgIAAyEGAASa9BkCAAPfaCuanwNDB-g_mbCCzDGsz9zgIK8AAoj2MRv44VlJlaPLFhJBLLEBAAMCAAN5AAM2BA",
         "date": ""
+    },
+    {
+        "album": "KRAZY",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICCGgscexEuKjaczRkcIVRmmnvb4DgAAI78TEblnBgSfx_MfsNFcaEAQADAgADeQADNgQ",
+        "date": "2021-08-27"
+    },
+    {
+        "album": "Hate love",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICDmgscfMJgHe6QOjt4MSZuvKGHN6PAAI98TEblnBgScfFSth_v7KpAQADAgADeQADNgQ",
+        "date": "2017-04-08"
+    },
+    {
+        "album": "NO LOVE",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICH2gsci3jEXHVK50roYsLxDg1jHHdAAIv9TEbZ7ZoSUggLnQnwEwwAQADAgADeQADNgQ",
+        "date": "2017-09-10"
+    },
+    {
+        "album": "Пути неисповедимы",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICKmgscjsUHPKOxrl3M5XRCBAuZTo1AAIx9TEbZ7ZoSQoY7lV-BuaKAQADAgADeQADNgQ",
+        "date": "2018-09-03"
+    },
+    {
+        "album": "SLIME",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICMmgsco-z4d83GUkWFahO91yeHDGkAAJD8TEblnBgSWXy_EZ3eI0EAQADAgADeQADNgQ",
+        "date": "2019-02-01"
+    },
+    {
+        "album": "12",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICO2gscxH-yx5jaIocSo7Lgd919cIkAAJG8TEblnBgSeNilphF-RFuAQADAgADeQADNgQ",
+        "date": "2019-10-01"
+    },
+    {
+        "album": "Искренний",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICR2gscx5gsuBfcR2y7t9T44MFkHKEAAJH8TEblnBgSeiUOa6SLbA5AQADAgADeQADNgQ",
+        "date": "2021-04-08"
+    },
+    {
+        "album": "Ничего хорошего",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICUGgsczz02QABpgAB9NBhL3p6SsMMEBAAAkjxMRuWcGBJvH2hdBy6N9cBAAMCAAN5AAM2BA",
+        "date": "2023-09-01"
+    },
+    {
+        "album": "Бог репа",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICWWgsc0nroCEzKOSgJ5BKrRc0nQIhAAJJ8TEblnBgSeVfhoUxgmr2AQADAgADeQADNgQ",
+        "date": "2024-06-07"
+    },
+    {
+        "album": "Slime",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICMmgsco-z4d83GUkWFahO91yeHDGkAAJD8TEblnBgSWXy_EZ3eI0EAQADAgADeQADNgQ",
+        "date": "2019-01-31"
+    },
+    {
+        "album": "Синглы",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICZGgsdVju8DAKUbCWPCja4oU5HHoTAAJT8TEblnBgSVylIDWA6rndAQADAgADeQADNgQ",
+        "date": ""
     }
 ]
