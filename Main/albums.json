@@ -1,4 +1,4 @@
-[   
+[
     {
         "album": "Кондитерская",
         "performer": "PHARAOH",
@@ -180,5 +180,47 @@
         "genre": "Rap/Hip Hop",
         "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICZGgsdVju8DAKUbCWPCja4oU5HHoTAAJT8TEblnBgSVylIDWA6rndAQADAgADeQADNgQ",
         "date": ""
+    },
+    {
+        "album": "ПРОКЛЯТАЯ ПЕЧАТЬ",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICj2g1qKvTLQcItZQ4FPmgSdn8GjvAAALp7TEbYJWxSU5Kd3WyWjuNAQADAgADeQADNgQ",
+        "date": "2015-10-30"
+    },
+    {
+        "album": "MAYHEM",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIClmg1qMujGG7eGpiXaZyROsFev4ueAALr7TEbYJWxSWybmgPXaDcbAQADAgADeQADNgQ",
+        "date": "2016-06-12"
+    },
+    {
+        "album": "PLAYBOY",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICmmg1qNqyaz-wyjUeG7IvrF3phs5UAAJ77jEbC5CwSQtoMkYmMSHoAQADAgADeQADNgQ",
+        "date": "2016-07-24"
+    },
+    {
+        "album": "Жизнь удалась",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICn2g1qO3uIJDyDCLlX0O1PHgpImxFAAJ97jEbC5CwST8Plj7EjsDBAQADAgADeQADNgQ",
+        "date": "2021-02-26"
+    },
+    {
+        "album": "Варвар",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICpGg1qQTOk0-YSjKFdCjukjB_YzfoAAJ-7jEbC5CwSfIYf9kvwS5yAQADAgADeQADNgQ",
+        "date": "2021-03-19"
+    },
+    {
+        "album": "REVENGE",
+        "performer": "FACE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICq2g1qSofpZ-Y5P06g4ZtaWSypg3qAAJ_7jEbC5CwSXDPk52fYhsBAQADAgADeQADNgQ",
+        "date": "2017-01-13"
     }
 ]
