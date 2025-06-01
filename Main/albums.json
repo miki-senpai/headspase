@@ -1,3 +1,114 @@
 [
-    
+    {
+        "album": "10 13",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA",
+        "date": "2025-04-25"
+    },
+    {
+        "album": "DOLOR",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA",
+        "date": "2015-07-31"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA",
+        "date": "2021-03-19"
+    },
+    {
+        "album": "Paywall",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA",
+        "date": "2015-01-05"
+    },
+    {
+        "album": "PHILARMONIA",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA",
+        "date": "2022-11-25"
+    },
+    {
+        "album": "PHLORA",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA",
+        "date": "2014-01-01"
+    },
+    {
+        "album": "PHOSPHOR",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA",
+        "date": "2016-07-13"
+    },
+    {
+        "album": "PHREQUENCY",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA",
+        "date": "2023-08-18"
+    },
+    {
+        "album": "PHUNERAL",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA",
+        "date": "2018-08-23"
+    },
+    {
+        "album": "Pink Phloyd",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA",
+        "date": "2017-07-08"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA",
+        "date": "2015-10-18"
+    },
+    {
+        "album": "Кондитерская",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ",
+        "date": "2016"
+    },
+    {
+        "album": "Плакшери",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA",
+        "date": "2016-02-24"
+    },
+    {
+        "album": "Правило",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ",
+        "date": "2020-03-27"
+    },
+    {
+        "album": "Синглы",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": ""
+    },
+    {
+        "album": "УАДЖЕТ",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ",
+        "date": "2014-01-01"
+    }
 ]
