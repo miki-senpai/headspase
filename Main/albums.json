@@ -110,5 +110,40 @@
         "genre": "Alternative, Rap/Hip Hop",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ",
         "date": "2014-01-01"
+    },
+    {
+        "album": "I",
+        "performer": "Cigarettes After Sex",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBXWg96lqf__EgGJ-t5_GjNQ2k4ipKAAI7-DEbucTwSV9lR-PGim19AQADAgADeQADNgQ",
+        "date": "2012-07-21"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Cigarettes After Sex",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMSaDxBlyjZFeHyZCJC-pUrk3ZEY1UAAmPwMRtCC-FJS314yxk0HmgBAAMCAAN5AAM2BA",
+        "date": ""
+    },
+    {
+        "album": "Cigarettes After Sex",
+        "performer": "Cigarettes After Sex",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBdWg96p8z4PhjTVa-wVSnI_uOliA0AAI8-DEbucTwSR9xEYR15ULPAQADAgADeQADNgQ",
+        "date": "2017-06-09"
+    },
+    {
+        "album": "Cry",
+        "performer": "Cigarettes After Sex",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBgGg96qr1clz4NOSilfrV95zM70kCAAI--DEbucTwSYircn2NdxxhAQADAgADeQADNgQ",
+        "date": "2019-10-25"
+    },
+    {
+        "album": "X's",
+        "performer": "Cigarettes After Sex",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMGaDxBffwdu_knITT1pAj6cgYTtMwAAmHwMRtCC-FJLqkQcYgTSO4BAAMCAAN5AAM2BA",
+        "date": "2024-07-12"
     }
 ]
