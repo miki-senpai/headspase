@@ -1,0 +1,382 @@
+[
+    {
+        "album": "Blonde",
+        "title": "Nikes",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIB_mg-GKSv_l1RaPeOXvQa9BPhmmfuAAJ5fgACucTwSdvUwuA7kIaYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Ivy",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIB_2g-GKbPPvloemiCWimiakroUHe8AAJ6fgACucTwSZghAoVoY42hNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Pink + White",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICAAFoPhioElYgVHaxCTcF4KRkTPrSpwACe34AArnE8En2DGn2NG-UDjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Be Yourself",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICAWg-GKmAKtLt4YopKd6G585WDhjRAAIadAAC7vrxSTDR0fYvSBwBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Solo",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICAmg-GKtwxfe-GWxuqr3yRwygJ7bHAAJ8fgACucTwSdWTDMvhXD-3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Skyline To",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICA2g-GK0-kx7FzPSmz72fT5ZRDqPOAAJ-fgACucTwSaIYhuYfYR1QNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Self Control",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICBGg-GK9DLGl-d7luWJ0qZcaLaouFAAJ_fgACucTwSYwqs5h1sHNnNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Good Guy",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICBWg-GLDVgXjlTEIuDFeKKGB-fwErAAKAfgACucTwSaTIRaMCRe7XNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Nights",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICBmg-GLL3MDfCOI_jaRujdpQ6FKSWAAKBfgACucTwSRCaMDyvpdPpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Solo (Reprise)",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICB2g-GLM1Pk4_dhmkZCzczcc_-CRhAAKCfgACucTwSa9h6WhBQEA6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Pretty Sweet",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICCGg-GLQDEh1Il2aIFb-7xViNIo00AAKDfgACucTwSYV8cZF69vhtNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Facebook Story",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICCWg-GLXxiF7HptfyXQUmDDidEt1OAAKEfgACucTwSffRmIulsHd6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Close To You",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICCmg-GLbUUm229SKk87AGcXQjgwm-AAIcdAAC7vrxSfGbgevQXQOINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "White Ferrari",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICC2g-GLduiYhNLuNj4ZgXM_EiK-Y4AAKFfgACucTwSWjE5Du7Eq-CNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Seigfried",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICDGg-GLpkwq2TJ19bWpafP2fiiDRUAAIddAAC7vrxSXpik8Z1gyoYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Godspeed",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICDWg-GLuVyobB8jUpq97uePEPZUlJAAKGfgACucTwSbguXGYR8R8sNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Blonde",
+        "title": "Futura Free",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICDmg-GL75KUSbe3P3_M1Rcy3kj_xHAAKHfgACucTwSf9GMvB3w_4LNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Thinkin Bout You",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICEGg-GN2RpybhYbfYP3F_ClgmrgblAAKIfgACucTwSdGNJPBzCxgsNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Fertilizer",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICEWg-GN4XfpZTz2_-foaSoV1PoLuhAAKJfgACucTwSbkywrg1xwm2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Sierra Leone",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICEmg-GN_93maPVobrpJTTwx55xGzkAAKKfgACucTwSf5vl9XAfuLHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Sweet Life",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICE2g-GOHtBr4t8L0BPAaDDbcmhyK3AAKLfgACucTwSbwnOYBrYDUUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Not Just Money",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICFGg-GOI_bZ0oygdrgF-L5YeDS9cuAAKMfgACucTwSQQD4nOdMaFqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Pilot Jones",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICFmg-GOtWIuhZ3y5JqJ_5R43mcYJQAAKOfgACucTwSaxUFrQsg4kQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Crack Rock",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICF2g-GOxzbTzaQBcf9N1DQ9CQUCWfAALRZgACapv5SaxVuhaCzz7WNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Pyramids",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICGGg-GPGJTTdn2Mw8HuUmGIS9Ru8IAAKPfgACucTwSWpk6chOEiWYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Lost",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICGWg-GPPqxVjCV1SdMpourW_b2PkRAAKQfgACucTwSUZNVcKGZ__3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "White",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICGmg-GPQHOBq08icGUie90K8MnE6pAAKRfgACucTwSUV6qW87VvBgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Monks",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICG2g-GPZgYqCYJBn2io3KEA2LHGFCAAKSfgACucTwSRio53LP7GK5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Bad Religion",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICHGg-GPiRIxLLsE83fioSO1oeiXAPAAKTfgACucTwSUDq1m2Kka4oNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Pink Matter",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICHWg-GPyR7WQNUDG9nkvNUDtnw6LmAAKUfgACucTwSSPAbJ8KMWwxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Forrest Gump",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICHmg-GP88D8S_NqF6xZ33Tn8L9bLcAAKVfgACucTwScqUhYXNP0MLNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "End",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICH2g-GQIAAQLqWjPfxUge1KTPLA8LCwACln4AArnE8EnkjJzzT9vo4jYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Синглы",
+        "title": "Biking (Solo)",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICIWg-GQhxFJlC1MBKzq1Za_iIdAm8AAKYfgACucTwSQ3WujkSs8qJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "Синглы",
+        "title": "Chanel",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICImg-GQ_45Gmo6IC9TiNdCrDGHJUhAAKZfgACucTwSXzKD3ddVrzoNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "Синглы",
+        "title": "Dear April (Side A - Acoustic)",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICI2g-GQ_J87aca9cgK5UREGhHgpQ5AAKafgACucTwSScfMAICLPSlNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2020"
+    },
+    {
+        "album": "Синглы",
+        "title": "In My Room",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICJWg-GShtjQ5-A62r9-epe-1-HNSSAAKdfgACucTwScWm9_U7E3OpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2019"
+    },
+    {
+        "album": "Синглы",
+        "title": "Moon River",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICJmg-GT5hKiBZQ1JENkdgSH5IKe4rAAKgfgACucTwScfyEaOqGfBmNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "Синглы",
+        "title": "Novacane (Explicit Version)",
+        "performer": "Frank Ocean",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICJ2g-GT_PLuUkx_jdqppWxH4vPf80AAKhfgACucTwScPZGIcfr1jINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Синглы",
+        "title": "Provider",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICKGg-GUCpcThMm1ebNApUovD-Hy6eAAKkfgACucTwSXvru0fPDauANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "Синглы",
+        "title": "Swim Good",
+        "performer": "Frank Ocean",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICKWg-GUHNtSh3mTe3hJxXhGUvTrT0AAKlfgACucTwSY1mMMt8aYA6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2011-10-18"
+    },
+    {
+        "album": "Синглы",
+        "title": "Thinkin Bout You",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICK2g-GURMva6jHBsOIDUzhYs8nUvFAAKnfgACucTwSQUHysFAO-t1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2012"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Start",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICLGg-Gkf_vA82TppMjgABZTUj0tbeqAACsX4AArnE8EmWpjdkLKmlfzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "channel ORANGE",
+        "title": "Super Rich Kids",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICLWg-GkncTml6rPntdUtk7rRZKNL7AAKyfgACucTwSf2SfeTka1rZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Синглы",
+        "title": "Cayendo (Side A - Acoustic)",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICLmg-Gkp_DTHDt2dvAkAunEQd-zfWAAKzfgACucTwSTY3fVxgb8rZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2020"
+    },
+    {
+        "album": "Синглы",
+        "title": "DHL",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICL2g-GkuSrKtdIiXVx_GPuWe8GDoyAAK0fgACucTwSZYNahZACAtxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2019-10-19"
+    },
+    {
+        "album": "Синглы",
+        "title": "Lens",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICMGg-GkyevedjY6JnRhFmr3yEsPKQAAK1fgACucTwSWB4Ms_U--NqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": "2017"
+    }
+]

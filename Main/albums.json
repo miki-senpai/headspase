@@ -145,5 +145,26 @@
         "genre": "Alternative",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAMGaDxBffwdu_knITT1pAj6cgYTtMwAAmHwMRtCC-FJLqkQcYgTSO4BAAMCAAN5AAM2BA",
         "date": "2024-07-12"
+    },
+    {
+        "album": "Blonde",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBt2g97jGQ8rJa2a9pQYZkbrYLtO81AAJf-DEbucTwSSmCg6nJiSFWAQADAgADeQADNgQ",
+        "date": "2016"
+    },
+    {
+        "album": "channel ORANGE",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBpmg97fM4jh1nJBGGdU-hXXmxbs6QAAJb-DEbucTwSTGaDeXOWNNNAQADAgADeQADNgQ",
+        "date": "2012"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Frank Ocean",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
+        "date": ""
     }
 ]
