@@ -166,5 +166,54 @@
         "genre": "Pop",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBmWg97eSLpY8yka9v1xmzA7mEybTvAAJa-DEbucTwSYR45sWmvthVAQADAgADeQADNgQ",
         "date": ""
+    },
+    {
+        "album": "Синглы",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Electro, Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE",
+        "date": "2002"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ",
+        "date": "2007"
+    },
+    {
+        "album": "This Is War",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ",
+        "date": "2010-11-22"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ",
+        "date": "2013"
+    },
+    {
+        "album": "AMERICA",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ",
+        "date": "2023"
     }
 ]
