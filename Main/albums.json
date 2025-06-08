@@ -425,5 +425,75 @@
         "genre": "Rap/Hip Hop",
         "cover_file_id": "AgACAgIAAyEGAASa9BkCAAICq2g1qSofpZ-Y5P06g4ZtaWSypg3qAAJ_7jEbC5CwSXDPk52fYhsBAQADAgADeQADNgQ",
         "date": "2017-01-13"
+    },
+    {
+        "album": "Синглы",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAID2mhF-JmfjkqAdK69ATn7DI3Ab5wpAALY9DEbg0AxSnOk54F7A85AAQADAgADeAADNgQ",
+        "date": ""
+    },
+    {
+        "album": "House Of Balloons",
+        "performer": "The Weeknd",
+        "genre": "Soul, Funk, R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAID9WhF-OEKaMbeX3Y4EqXSTCjGzbnwAALc9DEbg0AxSkrerkILIcGXAQADAgADeAADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Echoes Of Silence",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEAmhF-gr6JnQX-kXoBIMP97Xpgwy5AALj9DEbg0AxSk_2R2w6tOcjAQADAgADeQADNgQ",
+        "date": "2021-12-21"
+    },
+    {
+        "album": "Trilogy",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEDGhF-hqwQ28dJQRJy5HxYvpGd836AALk9DEbg0AxSnOrg9oa87-4AQADAgADeQADNgQ",
+        "date": "2023"
+    },
+    {
+        "album": "Kiss Land",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEKGhF-pzu22a5gn6BkPqIQ9BnDTgnAAIT-TEbFRswSgp_OAMoJ1T0AQADAgADeQADNgQ",
+        "date": "2013"
+    },
+    {
+        "album": "Beauty Behind The Madness",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIENGhF-vYYZWK_N5kN-D-oZg3Pfk1OAALt9DEbg0AxSsM82lGLtFPYAQADAgADeQADNgQ",
+        "date": "2015"
+    },
+    {
+        "album": "My Dear Melancholy",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEQ2hF-yauOLWHmUopnOJIYU5hDuURAALu9DEbg0AxSqh2Om3lBUdtAQADAgADeQADNgQ",
+        "date": "2019"
+    },
+    {
+        "album": "Dawn FM",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIES2hF-1YuL_5kXCEhFKl4L1qtCggHAALy9DEbg0AxSuvp1BaOf9IxAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Starboy",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEZGhF-7bFRF0TRZb82wj5kw-wcPRcAAIf9TEbg0AxSjp3i7lk-tryAQADAgADeQADNgQ",
+        "date": "2023"
+    },
+    {
+        "album": "After Hours",
+        "performer": "The Weeknd",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEgWhF_tOwJ4Atm7eVu5vdOMl2M6F8AAIr9TEbg0AxSs9BK0P1jQ8vAQADAgADeQADNgQ",
+        "date": "2020"
     }
 ]
