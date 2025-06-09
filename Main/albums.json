@@ -488,5 +488,75 @@
         "genre": "Unknown Genre",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEemhF--LhgsVcvLQu9PZaxR9l9Ln_AAIh9TEbg0AxSjF1DDKp0eiOAQADAgADeQADNgQ",
         "date": "2025-01-31"
+    },
+    {
+        "album": "Ultraviolence",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEtGhGxroCamaLY46IfnOkve-q_0uoAAKS7zEbg0A5SoWn3RppRbv7AQADAgADeQADNgQ",
+        "date": "2014"
+    },
+    {
+        "album": "Honeymoon",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEw2hGxwlPWoq-SM2GUY2B-a4Zoa1UAAKW7zEbg0A5Sgcs4EsEbD3EAQADAgADeQADNgQ",
+        "date": "2015"
+    },
+    {
+        "album": "Lust For Life",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIE0WhGxzrZJTWDhTBGpM-SyJrxqHE2AAKY7zEbg0A5Sj4BVkkCd9H-AQADAgADeQADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "Norman Fucking Rockwell!",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIE4mhGx08jMbhe-LhuoirhXrce6qxNAAKi7zEbg0A5Sg8uP28sfvbMAQADAgADeQADNgQ",
+        "date": "2019"
+    },
+    {
+        "album": "Chemtrails Over The Country Club",
+        "performer": "Lana Del Rey",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIE8GhGx48BrfkWFsPE1OAuhx4jEG0VAAKk7zEbg0A5SmbzjchpWeTGAQADAgADeQADNgQ",
+        "date": "2021"
+    },
+    {
+        "album": "Blue Banisters",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIE-2hGx-PFxhVfdZvhbjBvMiKW4wipAAKo7zEbg0A5SrnEjmp2nFbRAQADAgADeQADNgQ",
+        "date": "2021-10-22"
+    },
+    {
+        "album": "Did you know that there's a tunnel under Ocean Blvd",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFC2hGyAafOuD7AVKO3qO75xcWsRFCAAKp7zEbg0A5SvS2WiZjj2Z4AQADAgADeQADNgQ",
+        "date": "2023"
+    },
+    {
+        "album": "Buddy's Rendezvous",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFG2hGyEYwJp_lNotG1CtwulHYjF3bAAJt7zEbFRs4StHhbJV_Xkd4AQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Lana Del Rey",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFImhGyHMUzCDsNpYHsRENkpRtnrlCAAKq7zEbg0A5Sm4HKnEN19yOAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Born To Die",
+        "performer": "Lana Del Rey",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFM2hGyTMlAoPBwyNFAqJJDUksLDFhAAKv7zEbg0A5SoV-T4iR07zoAQADAgADeQADNgQ",
+        "date": "2012-11-16"
     }
 ]
