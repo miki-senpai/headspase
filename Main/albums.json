@@ -558,5 +558,68 @@
         "genre": "Pop",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFM2hGyTMlAoPBwyNFAqJJDUksLDFhAAKv7zEbg0A5SoV-T4iR07zoAQADAgADeQADNgQ",
         "date": "2012-11-16"
+    },
+    {
+        "album": "Graveyard Whistling",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFV2hG7vQR-wRd7LVv9R5mrIW5Hbc3AALG8DEbg0A5St0bgFeOs1d3AQADAgADeQADNgQ",
+        "date": "2014-07-18"
+    },
+    {
+        "album": "Urchin",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative & Indie Pop & Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFXGhG7xGWxQyL2cLk3bXLyZCRDd0lAALH8DEbg0A5ShSNZ1-sRoLPAQADAgADeQADNgQ",
+        "date": "2015-10-16"
+    },
+    {
+        "album": "What  Did You Think When You Made Me This Way",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFYWhG7yQMnnN7-VShTGptfWteXr8bAALJ8DEbg0A5SnCHNqCVzQ0qAQADAgADeQADNgQ",
+        "date": "2018-10-19"
+    },
+    {
+        "album": "Moral Panic II",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative & Indie Pop & Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFZmhG7yqUNKinUSTOW6F_Q1qAmhAOAALK8DEbg0A5SmCRXg4wUqa0AQADAgADeQADNgQ",
+        "date": "2021"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFbGhG7zOut2AFmg-YkhjaiwABD28BVwACzPAxG4NAOUqSTnYXV7oP9AEAAwIAA3kAAzYE",
+        "date": ""
+    },
+    {
+        "album": "Nothing But Thieves",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative & Indie Pop & Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFdmhG7z_O6Cpk5ZuDiXI7OPvIGJzMAALO8DEbg0A5SnLzYPrJLwkAAQEAAwIAA3kAAzYE",
+        "date": "2015-10-16"
+    },
+    {
+        "album": "Broken Machine",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative & Indie Pop & Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFhmhG73epv9SY6kd7cxq7ImGOFqLjAALP8DEbg0A5SixtLfjNo58-AQADAgADeQADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "Moral Panic",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFlWhG77LYemrsR7iJ08IELEQAAcS9IwAC0PAxG4NAOUqg5OZLy6GyLwEAAwIAA3kAAzYE",
+        "date": "2020-10-23"
+    },
+    {
+        "album": "Dead Club City",
+        "performer": "Nothing But Thieves",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFpmhG7-yprdm4prZ9KkbZ3Mly1D-pAALU8DEbg0A5SlXvuvmPJW7BAQADAgADeQADNgQ",
+        "date": "2023-06-30"
     }
 ]
