@@ -459,7 +459,7 @@
         "performer": "The Weeknd",
         "genre": "R&B",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEQ2hF-yauOLWHmUopnOJIYU5hDuURAALu9DEbg0AxSqh2Om3lBUdtAQADAgADeQADNgQ",
-        "date": "2019"
+        "date": "2018"
     },
     {
         "album": "Dawn FM",
@@ -473,7 +473,7 @@
         "performer": "The Weeknd",
         "genre": "R&B",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEZGhF-7bFRF0TRZb82wj5kw-wcPRcAAIf9TEbg0AxSjp3i7lk-tryAQADAgADeQADNgQ",
-        "date": "2023"
+        "date": "2016"
     },
     {
         "album": "After Hours",
@@ -481,5 +481,12 @@
         "genre": "R&B",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEgWhF_tOwJ4Atm7eVu5vdOMl2M6F8AAIr9TEbg0AxSs9BK0P1jQ8vAQADAgADeQADNgQ",
         "date": "2020"
+    },
+    {
+        "album": "Hurry Up Tomorrow",
+        "performer": "The Weeknd",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIEemhF--LhgsVcvLQu9PZaxR9l9Ln_AAIh9TEbg0AxSjF1DDKp0eiOAQADAgADeQADNgQ",
+        "date": "2025-01-31"
     }
 ]
