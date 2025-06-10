@@ -621,5 +621,61 @@
         "genre": "Alternative, Indie Pop, Indie Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFpmhG7-yprdm4prZ9KkbZ3Mly1D-pAALU8DEbg0A5SlXvuvmPJW7BAQADAgADeQADNgQ",
         "date": "2023-06-30"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFvmhIB6b13yhO3CwXetViJRf5aV1RAAL1BjIb1dlASrUeu9i1RVcXAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Twenty One Pilots",
+        "performer": "Twenty One Pilots",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIFxWhIB80_FGoRwNbnn2JqfvXXaPR9AAL4BjIb1dlASu4M7Bj4rO-OAQADAgADeQADNgQ",
+        "date": "2009-12-29"
+    },
+    {
+        "album": "Vessel",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIF02hICIeE4CDU--aFA7dWGVxy5BaPAAICBzIb1dlASm1jcWYqGMA_AQADAgADeQADNgQ",
+        "date": "2012-12-26"
+    },
+    {
+        "album": "Blurryface",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIF4GhICSzC1ahb4-oO0WI22z4f4fuTAAIQBzIb1dlASuKQqJCOfdbqAQADAgADeQADNgQ",
+        "date": "2015"
+    },
+    {
+        "album": "Trench",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIF72hICYIqfqhqxplH3aVlaDGEw3lGAAIVBzIb1dlASuv-yFpo8sKGAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "Scaled And Icy",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIF_WhICftmTDJ8BvxNk_N8m_AlYFVtAAIcBzIb1dlASsJ3JVqPV3rhAQADAgADeQADNgQ",
+        "date": "2021"
+    },
+    {
+        "album": "MTV Unplugged",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGCWhICkHigY5-fwgWIgaAQYGYdbPbAAIfBzIb1dlASk-h9tcBj_YaAQADAgADeQADNgQ",
+        "date": "2023"
+    },
+    {
+        "album": "Clancy",
+        "performer": "Twenty One Pilots",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGD2hICqSZc63el8Al5L9NVBGA--BgAAIjBzIb1dlASo3wgDWGXlcZAQADAgADeQADNgQ",
+        "date": "2024"
     }
 ]
