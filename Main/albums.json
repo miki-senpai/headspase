@@ -677,5 +677,54 @@
         "genre": "Alternative",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGD2hICqSZc63el8Al5L9NVBGA--BgAAIjBzIb1dlASo3wgDWGXlcZAQADAgADeQADNgQ",
         "date": "2024"
+    },
+    {
+        "album": "Висхолдинг",
+        "performer": "Три дня дождя",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGQ2hKqYjKYZdkUMPf9GIkJ_C29fpoAAK_9jEbiLNZSh_flAptHqVKAQADAgADeQADNgQ",
+        "date": "2025-04-18"
+    },
+    {
+        "album": "melancholia",
+        "performer": "Три дня дождя",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGUmhKqZrXqJ7n-lJhIshOWa3WIuXhAALB9jEbiLNZSvPElybACqjiAQADAgADeQADNgQ",
+        "date": "2023-10-20"
+    },
+    {
+        "album": "Байполар",
+        "performer": "Три дня дождя",
+        "genre": "Pop & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGXGhKqc4_TV0hF-AL3IwqYisBMJKTAALD9jEbiLNZSqWKmJtNihjdAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Любовь, аддикция и марафоны",
+        "performer": "Три дня дождя",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGamhKqgRNd3Psk9OqEXFa2ztVHk0NAAI-8DEbLlZZSjFnLsV8thCkAQADAgADeQADNgQ",
+        "date": "2020-02-21"
+    },
+    {
+        "album": "Пепел",
+        "performer": "Три дня дождя",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGdWhKqigSq9Mo7cwCNAbYX8DJ1JuEAALI9jEbiLNZSvGcYEVDj0D-AQADAgADeQADNgQ",
+        "date": "2020-10-28"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Три дня дождя",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGfGhKqqpalSnBKk94xtRkZwypj06PAALL9jEbiLNZSkpKWJkssUP_AQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Когда ты откроешь глаза",
+        "performer": "Три дня дождя",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGjGhKq7t1gK_6FO5jt7LlWEEXMvKcAALT9jEbiLNZSju5Ekk_g0ogAQADAgADeQADNgQ",
+        "date": "2021-06-04"
     }
 ]
