@@ -726,5 +726,68 @@
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGjGhKq7t1gK_6FO5jt7LlWEEXMvKcAALT9jEbiLNZSju5Ekk_g0ogAQADAgADeQADNgQ",
         "date": "2021-06-04"
+    },
+    {
+        "album": "Дак Теилс 3",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ",
+        "date": "2023-06-02"
+    },
+    {
+        "album": "Новая рок звезда",
+        "performer": "Lida",
+        "genre": "Dance, Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ",
+        "date": "2022-12-16"
+    },
+    {
+        "album": "Музло из гаражей",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ",
+        "date": "2021-02-19"
+    },
+    {
+        "album": "Юность 2020",
+        "performer": "Lida",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ",
+        "date": "2020-01-17"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ",
+        "date": "2022-09-16"
+    },
+    {
+        "album": "Легкий способ бросить долги",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ",
+        "date": "2022-04-29"
+    },
+    {
+        "album": "МОЕ ИМЯ ЛИДА",
+        "performer": "Lida",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ",
+        "date": "2021-11-12"
+    },
+    {
+        "album": "Жабы атаковали планету Земля",
+        "performer": "Lida",
+        "genre": "Rock, Hard Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ",
+        "date": "2019-12-03"
     }
 ]
