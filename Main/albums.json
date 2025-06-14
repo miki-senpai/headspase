@@ -789,5 +789,355 @@
         "genre": "Rock, Hard Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ",
         "date": "2019-12-03"
+    },
+    {
+        "album": "8 способов как бросить дрочить",
+        "performer": "Пошлая Молли",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHMmhNqOKtFcim8W8HMrukf-hnRKgnAALT7zEbuDhxSu0Qbdsl-5wfAQADAgADeQADNgQ",
+        "date": "2018-06-06"
+    },
+    {
+        "album": "PAYCHECK",
+        "performer": "Пошлая Молли",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHOWhNqUNSC_Obj6Cga0MQRtLrzX03AALW7zEbuDhxSsMha6J2ryYcAQADAgADeAADNgQ",
+        "date": "2020-02-18"
+    },
+    {
+        "album": "RATT#WHORE",
+        "performer": "Пошлая Молли",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHQGhNqUzoMP8Dv4e69fE80HKNrfuXAALX7zEbuDhxSp8sMTreKsJ7AQADAgADeQADNgQ",
+        "date": "2024-10-11"
+    },
+    {
+        "album": "Грустная девчонка с глазами как у собаки",
+        "performer": "Пошлая Молли",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHIGhNn4TJdk9PwkbDnLTrDC2oGp6WAAKe7zEbuDhxStpa3Tnl_Rv2AQADAgADeQADNgQ",
+        "date": "2018-01-12"
+    },
+    {
+        "album": "ОЧЕНЬ СТРАШНАЯ МОЛЛИ 3, Ч.1",
+        "performer": "Пошлая Молли",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHS2hNqeppiUxbPfmrPr0ql5peROMxAALZ7zEbuDhxSiRGgCCBKpDjAQADAgADeQADNgQ",
+        "date": "2018-11-23"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Пошлая Молли",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHUWhNqiGySvM5ATMgbDeyNm1UPkcfAALb7zEbuDhxSpcZXj9k0WcmAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "НЕ ЦЕЛУЮ, ПЛОХОЙ ТЕБЕ НОЧИ",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHZWhNtdS8SDAxYT1WzJXiIL9TAtACAAJD8DEbuDhxSowcNyvZbgk3AQADAgADeQADNgQ",
+        "date": "2021-09-02"
+    },
+    {
+        "album": "ПЕРЕСТРЕЛКА БАБОЧЕК В РАЙОНЕ ЖИВОТА",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHamhNtfXhDmY8HPwEq_Fc5o8430R8AAJE8DEbuDhxSsgmONZkSfLlAQADAgADeQADNgQ",
+        "date": "2021-09-09"
+    },
+    {
+        "album": "ДУРА, ЗВЕЗДЫ НА НЕБЕ",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHb2hNthcVyX0GiW6xCjQft39qz7WpAAJF8DEbuDhxSmhGZIl3H3scAQADAgADeQADNgQ",
+        "date": "2021-09-16"
+    },
+    {
+        "album": "Синглы",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHdGhNtjT7wfuqlKTsbvWUtD30YhmtAAJI8DEbuDhxSm9Al0xLwQgTAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Плейлист для драки с матерью",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHf2hNtuXT3Mhe0w8ib5Y2aNC1_p4lAAJL8DEbuDhxSu_RaeyWFLIpAQADAgADeQADNgQ",
+        "date": "2019-10-31"
+    },
+    {
+        "album": "ПАЛАТА НОМЕР 7",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHimhNt59PhD_xXqsAAdHhk07tSlx_WQACou8xG7oncUpvt-clcrY4BgEAAwIAA3gAAzYE",
+        "date": "2018-04-12"
+    },
+    {
+        "album": "1+1=11",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHkGhNuBXDuaODOQSG2Hzo9uXGyzj6AAJT8DEbuDhxSqVPqRuYDUd4AQADAgADeQADNgQ",
+        "date": "2020-10-16"
+    },
+    {
+        "album": "ТЕсеБЯсяЛЮсюБЛЮсю",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHoWhNuI5aj6x3aOwNy8q66R7dPYOpAAJW8DEbuDhxSvTmqq1hVyYEAQADAgADeQADNgQ",
+        "date": "2023-02-10"
+    },
+    {
+        "album": "КОСМОС НАС НЕ ЖДЁТ, Часть 1",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHrmhNuRRmRstp6R80OxMGxJiky-0uAAJY8DEbuDhxSq8m4ZpkCexKAQADAgADeQADNgQ",
+        "date": "2024-02-28"
+    },
+    {
+        "album": "КОСМОС НАС НЕ ЖДЁТ, Часть 2",
+        "performer": "КОСМОНАВТОВ НЕТ",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHt2hNuUt3kuQtkosauUVZJMBy-olDAAJZ8DEbuDhxSs_TG79aHHZeAQADAgADeQADNgQ",
+        "date": "2025-01-31"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIHzWhNvHrUMl_oyIEj-dqPOAl_YopRAAJr8DEbuDhxSiBL2bER9_RvAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Pretty. Odd",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIH0GhNvK89e3laEp20aK0FLCl9gH4bAAJs8DEbuDhxShn-ynJEBWhJAQADAgADeQADNgQ",
+        "date": "2008-03-21"
+    },
+    {
+        "album": "Vices & Virtues",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIH32hNvXpiFDM9EtpKZBqLiFnhny10AAJz8DEbuDhxSs6S-vhC3rGyAQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Too Weird to Live, To Rare to Die",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIH5mhNvj1hQvNVmJxjRcT-sm2iJ7eCAAJ38DEbuDhxSjhH-CG8PPARAQADAgADeQADNgQ",
+        "date": "2013"
+    },
+    {
+        "album": "Death of a Bachelor",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIH72hNvvIR0sDx6EoUlZT48dfRdbdeAAJ88DEbuDhxSoPesRPU8B8QAQADAgADeQADNgQ",
+        "date": "2016"
+    },
+    {
+        "album": "Pray for the Wicked",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIH-mhNv4-GLcLuAAFfEqogTuL75yZMmgACg_AxG7g4cUpP-5F-vfagmQEAAwIAA3kAAzYE",
+        "date": "2018"
+    },
+    {
+        "album": "A Fever You Can't Sweat Out",
+        "performer": "Panic! At The Disco",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIF2hNymBW3G-cU7fgbxiPcUv5dZRyAALR8DEbuDhxSrpho2oczgmUAQADAgADeQADNgQ",
+        "date": "2005"
+    },
+    {
+        "album": "Viva Las Vengeance",
+        "performer": "Panic! At The Disco",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIJGhNyweaaB4Js75sH-dRiJgGCZEkAALV8DEbuDhxSnnv8_IQLpFxAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Вечный двигатель",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIOmhNzQ7CpYIoTOT3tl7gIvGeD4_CAALm8DEbuDhxSuA2mIQ9iyuPAQADAgADeAADNgQ",
+        "date": "2025-01-31"
+    },
+    {
+        "album": "Необратимые последствия",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIQWhNzYS7m_EDVCOosrbU4QY8Fo-5AAI78DEbuidxSoTWSUF00DrSAQADAgADeQADNgQ",
+        "date": "2025-03-21"
+    },
+    {
+        "album": "Дисторшн",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIITGhNzk6EBX9kaE5o97X4l5fOTpoRAALs8DEbuDhxSouJcKRuTxGHAQADAgADeQADNgQ",
+        "date": "2017-11-16"
+    },
+    {
+        "album": "Синглы",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIU2hNzr37WaXSnCnBK0lWtPACoR7eAALw8DEbuDhxSkq4VyTfM7QdAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Кости",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIV2hNzzoc_Ps_ZpSdYxysZtfPn0k_AALy8DEbuDhxSo8RJHZ7wdRPAQADAgADeQADNgQ",
+        "date": "2014-04-12"
+    },
+    {
+        "album": "Центр циклона",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIXWhNz9SZpE9O3Xzuns7dcBzpbklWAAL28DEbuDhxSn75JPvl15nPAQADAgADeQADNgQ",
+        "date": "2014-09-02"
+    },
+    {
+        "album": "#Fckswg x Trillogy",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIZGhN0GNn41dSCs9lnGvGU6i4by3xAAL38DEbuDhxSqHLArGLcUCIAQADAgADeQADNgQ",
+        "date": "2015-02-11"
+    },
+    {
+        "album": "Марабу",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIcGhN0T5uyMMcqVk8M2YLVKuen6iaAAL_8DEbuDhxStc9sQxl0KjJAQADAgADeAADNgQ",
+        "date": "2015-11-04"
+    },
+    {
+        "album": "Карма х Кома",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIe2hN0gSfSVUboHvB9QHgv2l3mZ17AAIG8TEbuDhxSgyiQ4wlVsIoAQADAgADeQADNgQ",
+        "date": "2016-09-25"
+    },
+    {
+        "album": "Лимб",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIhmhN0pizk4tyY8nzlRiNkcsxkIKiAAJT8DEbuidxSrYSLadbo5lsAQADAgADeQADNgQ",
+        "date": "2017-03-22"
+    },
+    {
+        "album": "Кривой эфир",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIkGhN05x-6EMSjxPSsvzmKvL6LGvcAAIN8TEbuDhxSpIfQtWuMX8QAQADAgADeQADNgQ",
+        "date": "2019-12-13"
+    },
+    {
+        "album": "Радио Апокалипсис",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIoGhN1G2jfma2zBBWhqcsBSoKiZOwAAIR8TEbuDhxSoWokBwXWSJAAQADAgADeQADNgQ",
+        "date": "2021-11-26"
+    },
+    {
+        "album": "Скальпель",
+        "performer": "ATL",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIIr2hN1YOK6Fr7KmknbmtN04pM_CdhAAIX8TEbuDhxSpDnMVYHoMOqAQADAgADeQADNgQ",
+        "date": "2024-11-29"
+    },
+    {
+        "album": "Gremlin",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAII22hN2MEmc5YW6tMuhhPV64BKyhu5AAIs8TEbuDhxSuUjmIcfesrgAQADAgADeQADNgQ",
+        "date": "2023-07-28"
+    },
+    {
+        "album": "SAY NO MO",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAII4WhN2NBsUook_I05zpWgRpCSsPpbAAIt8TEbuDhxSl8AAV3g5rkwCgEAAwIAA3kAAzYE",
+        "date": "2019-12-27"
+    },
+    {
+        "album": "Long Way Up",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAII52hN2OAL-XkCQjGMRqx_kVStuwfeAAIu8TEbuDhxSqKfSDtZpkICAQADAgADeQADNgQ",
+        "date": "2016-03-20"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAII62hN2OWGiylX2lCm0lbPDiC5B_eHAAIw8TEbuDhxSlmUmvR74_2QAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Яд",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJDGhN2bucyxtzMSDfbUab0-oeR0P6AAI38TEbuDhxStFcdDWTrOQ9AQADAgADeQADNgQ",
+        "date": "2017-11-03"
+    },
+    {
+        "album": "Назад в будущее",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJHmhN2voV5GL90kUIVA3IP7G2JOxxAAI-8TEbuDhxSrYqbBLrB0pkAQADAgADeQADNgQ",
+        "date": "2018-09-20"
+    },
+    {
+        "album": "Karmageddon",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJKWhN28HZeP0z6cwtT09bChQu6dHTAAJE8TEbuDhxShRE6spBTUNGAQADAgADeQADNgQ",
+        "date": "2019-08-15"
+    },
+    {
+        "album": "BORN TO TRAP",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJOGhN3JoifrBhhy62NqvQ_u_C8afkAAJJ8TEbuDhxSlRt_-imkF0mAQADAgADeQADNgQ",
+        "date": "2020-11-13"
+    },
+    {
+        "album": "BANDANA I",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJR2hN3cymFFC2FxUt7jqXNAt3Fph4AAJO8TEbuDhxSsGQGG-PZa9KAQADAgADeQADNgQ",
+        "date": "2021-10-22"
+    },
+    {
+        "album": "First Day Out",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJVWhN3pJzyFAeihzE9PNf7DrW3ZsDAAJR8TEbuDhxSsBcGnVMFSThAQADAgADeAADNgQ",
+        "date": "2022-07-01"
+    },
+    {
+        "album": "Тебя любят там где меня нет",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJXmhN3xCVj_k1kVTYWBS_mOPycJWFAAJc8TEbuDhxSmCo6SsJLWm7AQADAgADeQADNgQ",
+        "date": "2022-11-18"
+    },
+    {
+        "album": "QUAZIMODO",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJamhN35c7vWPua9swuTngpjd3c_PpAAJg8TEbuDhxSvmDLyEbikj9AQADAgADeQADNgQ",
+        "date": "2024-07-19"
+    },
+    {
+        "album": "Mas Fuerte",
+        "performer": "Kizaru",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJm2hN5BfCDOekv8IznZRE_5xY7T7tAAJ08TEbuDhxSmziQjIdIS4WAQADAgADeQADNgQ",
+        "date": "2016-10-12"
     }
 ]
