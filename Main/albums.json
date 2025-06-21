@@ -1412,5 +1412,1230 @@
         "genre": "Rap/Hip Hop",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAILR2hS4kg5_WLXjHBpZr3K9VS12Sg4AALg-TEbz2WZSrOU_o8nXsZ-AQADAgADeQADNgQ",
         "date": "2023"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative, Electro",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILUGhS5VA7u1BBJ_v-an1C80xAJ3ODAAL1-TEbz2WZShbCP0xNjVDOAQADAgADeAADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Solar Eclipse",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative, Indie Rock, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILXWhS5cCvsoGIxpaOL41bZfhR0r0sAAIB-jEbz2WZShI7oMqKGCe0AQADAgADeAADNgQ",
+        "date": "2024-11-20"
+    },
+    {
+        "album": "All Good",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative, Indie Rock, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILYmhS5eX0ipGGu_0eMzPamyo7JwKDAAIL-jEbz2WZSi8Ga4XQf7ZcAQADAgADeAADNgQ",
+        "date": "2025-02-19"
+    },
+    {
+        "album": "Dream, Ivory",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative & Rock & Indie Rock/Rock Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILaGhS5hNc-4g2uqbJHDIHP93RctcFAAIX-jEbz2WZSnsjte2XFmZZAQADAgADeAADNgQ",
+        "date": "2017"
+    },
+    {
+        "album": "About a Boy",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILcWhS5j0BOX9Xqgg2JDyFcISWQtSOAAId-jEbz2WZStFrqvHLxCfXAQADAgADeQADNgQ",
+        "date": "2022-09-30"
+    },
+    {
+        "album": "About a Boy (Naked)",
+        "performer": "Dream, Ivory",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILfmhS5oHJu0Rgi2gmofwl4QGedZUtAAIg-jEbz2WZSm2BSrC9kspOAQADAgADeAADNgQ",
+        "date": "2022-09-30"
+    },
+    {
+        "album": "Я НЕ КОММЕРЦИЯ",
+        "performer": "Дора",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ",
+        "date": "2019-01-19"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Дора",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Младшая сестра",
+        "performer": "Дора",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ",
+        "date": "2019-11-08"
+    },
+    {
+        "album": "Боже, храни кьют-рок",
+        "performer": "Дора",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE",
+        "date": "2020-12-18"
+    },
+    {
+        "album": "LOVESONGS",
+        "performer": "Дора",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ",
+        "date": "2024-10-18"
+    },
+    {
+        "album": "MISS",
+        "performer": "Дора",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Bring Me The Horizon",
+        "genre": "Alternative & Indie Pop & Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIL22hS9oxhCf77TVVKfh_Khx3GuV_mAAKF-jEbz2WZSmZ7DLQt5XUYAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Count Your Blessings",
+        "performer": "Bring Me The Horizon",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIL6GhS9zz4xeLN0tVdM99GNtLbz1uAAAKQ-jEbz2WZSpKP7TlI2M4FAQADAgADeQADNgQ",
+        "date": "2006-10-30"
+    },
+    {
+        "album": "Suicide Season",
+        "performer": "Bring Me The Horizon",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIL82hS94GJ78q1krrS1Ol-2NotLppLAAKS-jEbz2WZSswKQIR7UwlSAQADAgADeQADNgQ",
+        "date": "2008-01-01"
+    },
+    {
+        "album": "There Is a Hell, Believe Me I’ve Seen It. There Is a Heaven, Let’s Keep It a Secret",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock, Heavy Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIL_WhS-EwenENWWHXtXX40C65MOGQiAAKc-jEbz2WZStbJ87DiWX2ZAQADAgADeQADNgQ",
+        "date": "2017-11-24"
+    },
+    {
+        "album": "Sempiternal",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMCWhS-L-xKoenpMWlPSUQ3rfy7C53AAKe-jEbz2WZSh42XsDqfjRDAQADAgADeQADNgQ",
+        "date": "2013-04-01"
+    },
+    {
+        "album": "That’s the Spirit",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMF2hS-Vj81thkHHntQMhfCVL-jkqyAAKj-jEbz2WZSj2oNpQmZJyTAQADAgADeQADNgQ",
+        "date": "2015"
+    },
+    {
+        "album": "amo",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMJGhS-aAfWJ3Wph9H4gXzhz-jGqrhAAKm-jEbz2WZSt3orQABsYM1GgEAAwIAA3kAAzYE",
+        "date": "2019"
+    },
+    {
+        "album": "This Is What the Edge of Your Seat Was Made For",
+        "performer": "Bring Me The Horizon",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMMWhS-gvjLiaraqDie4Aj32OiIacbAAKo-jEbz2WZSl7a5dw6qIG_AQADAgADeQADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "Music to Listen To",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMNWhS-lOKpk84bySaYe4tphFK-nyEAAKr-jEbz2WZSoczedwIubdIAQADAgADeQADNgQ",
+        "date": "2019-12-27"
+    },
+    {
+        "album": "Post Human  Survival Horror",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMPWhS-vqTEDMQy171C6LT2RUP7j5zAAKz-jEbz2WZSkZT9k9GPkbGAQADAgADeQADNgQ",
+        "date": "2020-10-30"
+    },
+    {
+        "album": "Post Human  Nex Gen",
+        "performer": "Bring Me The Horizon",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMRmhS-06VJ9rwO9UfcBmuz2Z84Aj6AAK2-jEbz2WZShupYuz6d4xeAQADAgADeQADNgQ",
+        "date": "2024"
+    },
+    {
+        "album": "Синглы",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMbWhS_QJhrjnOXC28OcrZuRLpkrQsAALO-jEbz2WZSphoBc-TMnf-AQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Чернь",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMcGhS_RJZHV4UrXi1KcpO_kwNHExOAALP-jEbz2WZSg-Jl2Vu1KjaAQADAgADeQADNgQ",
+        "date": "2010-07-01"
+    },
+    {
+        "album": "О'дно",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMgGhS_f2Jo-jbmvmWsIBH3KgGyCjzAALV-jEbz2WZSoU3gXPsMvqBAQADAgADeQADNgQ",
+        "date": "2012-06-19"
+    },
+    {
+        "album": "Вонючие рифмы",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMlWhS_rB7syBXgdKfOfa2GDGvftrsAALd-jEbz2WZSv2bL8rQ4llcAQADAgADeQADNgQ",
+        "date": "2015-05-29"
+    },
+    {
+        "album": "Нитки",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMpWhS_xJ1fzXwbE7haqXQnO-1gxDDAALj-jEbz2WZSpuC-AWsHUJjAQADAgADeQADNgQ",
+        "date": "2016-01-01"
+    },
+    {
+        "album": "Чёрная кассета",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMtWhS_1qFw1q1aFmQ94IFAAEfvlmznQAC5_oxG89lmUp4XW4Uz3-8awEAAwIAA3kAAzYE",
+        "date": "2019-01-15"
+    },
+    {
+        "album": "Неизданное",
+        "performer": "УННВ",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIMwWhS_6xR7izdxCv86asKjPHVfw7LAALo-jEbz2WZSpTAhKiu0TdNAQADAgADeQADNgQ",
+        "date": "2021-04-16"
+    },
+    {
+        "album": "The Car",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIM72hTARo4sCCvNY4TE7SDtyJ5Kg0cAAL0-jEbz2WZStdj4881JghkAQADAgADeQADNgQ",
+        "date": "2022-10-21"
+    },
+    {
+        "album": "Tranquility Base Hotel & Casino",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIM-mhTAVkr4U3HZFDHF_SBlaPOOxFCAAL1-jEbz2WZSmgBOG7DcXmSAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "AM",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINBWhTAenr7T9y6zMPGm4WgL-KIWlDAAL2-jEbz2WZSm3NzgU9DNyxAQADAgADeQADNgQ",
+        "date": "2013"
+    },
+    {
+        "album": "Suck It and See",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINE2hTAi8gYq9TRsOEMzqxU7C9CzWgAAL5-jEbz2WZSvxvY66kOza0AQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Humbug",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINIGhTAnS5dL6APpDEeMHLcgMgc0WfAAL6-jEbz2WZSkI6wrN3K4ndAQADAgADeQADNgQ",
+        "date": "2009"
+    },
+    {
+        "album": "Favourite Worst Nightmare",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINKmhTAumQdAfm8BrBz9bKYpP8pIVMAALm9DEb5VyZSom2Qkvc9wWbAQADAgADeQADNgQ",
+        "date": "2007"
+    },
+    {
+        "album": "Whatever People Say I Am, That's What I'm Not",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINN2hTAz1tglyDY6WbJx4VerCDGuRmAAIB-zEbz2WZStLGpK_fKMFlAQADAgADeAADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "Leave Before The Lights Come On",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINRGhTA6eKKmDAxn0AAapMbjYUtQPnaQACAvsxG89lmUoa-0KDDXV_wAEAAwIAA3kAAzYE",
+        "date": "2006"
+    },
+    {
+        "album": "Who The F    Are Arctic Monkeys",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINSGhTA9JTkFs_EnkGUYC4sTDbDJroAAIE-zEbz2WZSjaWxxZLNynlAQADAgADeQADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "When The Sun Goes Down",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINTWhTA_aJAzO1bxMJ9qQiirQXwez1AAIG-zEbz2WZSn2U2zhp7jjTAQADAgADeQADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "I Bet You Look Good On The Dancefloor",
+        "performer": "Arctic Monkeys",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINUmhTBAXVCnlm6dX95HyO3fgdg9d-AAIH-zEbz2WZSmCYY59Q2j4XAQADAgADeQADNgQ",
+        "date": "2005-10-17"
+    },
+    {
+        "album": "Up Next",
+        "performer": "Mobbu",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ",
+        "date": "2024-09-06"
+    },
+    {
+        "album": "from the heart",
+        "performer": "Mobbu",
+        "genre": "Singer & Songwriter",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ",
+        "date": "2024-10-18"
+    },
+    {
+        "album": "midnight era",
+        "performer": "Mobbu",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ",
+        "date": "2024-12-06"
+    },
+    {
+        "album": "Faster",
+        "performer": "Mobbu",
+        "genre": "Alternative, Indie Pop, Indie Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ",
+        "date": "2025-06-06"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Mobbu",
+        "genre": "R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "old dog, new tricks",
+        "performer": "Mobbu",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ",
+        "date": "2025-04-25"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Katanacss",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINnGhTDNo904-LuQ6qlzN-riBokyRjAAI--zEbz2WZSrNp_DE-66yYAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "русский сериал",
+        "performer": "Katanacss",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINrmhTDUB1HFTol4EQBMawgQ9yR-pHAAJG-zEbz2WZSrED0dzKHmorAQADAgADeQADNgQ",
+        "date": "2021-05-28"
+    },
+    {
+        "album": "Тебе прикольно ещё жить",
+        "performer": "Katanacss",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINt2hTDW85eMUjYcTtTSgw6Ipom8lxAAJH-zEbz2WZSrOh2axGraBNAQADAgADeQADNgQ",
+        "date": "2018-07-09"
+    },
+    {
+        "album": "черви в черепе",
+        "performer": "Katanacss",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINwGhTDauho31EYhy69zmeQTTGNYV7AAJJ-zEbz2WZSnn9C4FMJyaDAQADAgADeQADNgQ",
+        "date": "2019-03-29"
+    },
+    {
+        "album": "ломки",
+        "performer": "Katanacss",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINyWhTDgJ-laU3FN5eogG3Lxbif4CzAAJK-zEbz2WZSki-4dInuxWPAQADAgADeQADNgQ",
+        "date": "2019-07-26"
+    },
+    {
+        "album": "что от меня останется",
+        "performer": "Katanacss",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIN02hTDjDXXXQ2q2oHBdcz4kZxjZGBAAJM-zEbz2WZSppP5MDV1TyWAQADAgADeQADNgQ",
+        "date": "2020-02-14"
+    },
+    {
+        "album": "ВСПД",
+        "performer": "Katanacss",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIN3WhTDmWujaYBsEAKgy6krMCnGo7dAAJO-zEbz2WZSnqWfbMJA-lYAQADAgADeQADNgQ",
+        "date": "2022-05-26"
+    },
+    {
+        "album": "Подвох",
+        "performer": "Katanacss",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIN5WhTDpD6-Z9XIeS39A5DFEeX0ZwMAAJQ-zEbz2WZSkDy2vWNuqiUAQADAgADeQADNgQ",
+        "date": "2023-10-06"
+    },
+    {
+        "album": "Ливнесток",
+        "performer": "Katanacss",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIN82hTDvAWAZeI9BbuvLdiAAEU9i6e6AACVPsxG89lmUpwRc6vEDisEAEAAwIAA3kAAzYE",
+        "date": "2025-03-28"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Imagine Dragons",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOBGhTEEwSh8vVINQadURUAAESwXFrkQACW_sxG89lmUq6gzt4W_m2ugEAAwIAA3kAAzYE",
+        "date": ""
+    },
+    {
+        "album": "Night Visions",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOC2hTEHM07AABi2TlJqV3eKFo-f3xgAACsvgxGyK_mUrng3XBbd_44QEAAwIAA3kAAzYE",
+        "date": "2013"
+    },
+    {
+        "album": "Smoke + Mirrors",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOIGhTEPzFtwABcRF6Uhqh58enwWwYPQACXfsxG89lmUrPBwuj5WwfOAEAAwIAA3kAAzYE",
+        "date": "2015-10-30"
+    },
+    {
+        "album": "Evolve",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIONmhTEZUusDwBhr1RkoxOBnHKPR8cAAJe-zEbz2WZSrLWVs_N5kWHAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "Origins",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOQ2hTEelmc80-LWdI1tHlk2nwCaoHAAJf-zEbz2WZSrwuzGYCZ7hPAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "Mercury - Acts 1 & 2",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOU2hTEk0NA3Lb-DulwNjUzZAK8-m5AAJg-zEbz2WZShFsFvhsl52wAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "LOOM",
+        "performer": "Imagine Dragons",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOdGhTExUyjW0ZSC30KEZocWmRhdPFAAJl-zEbz2WZSrfMVIMnebbGAQADAgADeQADNgQ",
+        "date": "2024"
+    },
+    {
+        "album": "Нежно-розовый",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Лето и одиночество",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ",
+        "date": "2021-08-06"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ",
+        "date": "2023-04-14"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE",
+        "date": "2024-04-26"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop, R&B",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ",
+        "date": "2021-12-10"
+    },
+    {
+        "album": "моими глазами",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ",
+        "date": "2023-08-18"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ",
+        "date": "2024-09-27"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Adderall",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ",
+        "date": "2023-06-09"
+    },
+    {
+        "album": "Slipknot",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ",
+        "date": "2008-06-01"
+    },
+    {
+        "album": "Iowa",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ",
+        "date": "2005"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ",
+        "date": "2004"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ",
+        "date": "2008-08-22"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ",
+        "date": "2014-10-15"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "performer": "Slipknot",
+        "genre": "Rock& Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ",
+        "date": "2019-08-09"
+    },
+    {
+        "album": "The End, So Far",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Синглы",
+        "performer": "The Pretty Reckless",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPZWhTHhzo6T7HK9GQiEo1_JzaDQLQAAK6-zEbz2WZSpMkiivJjBlNAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Hit Me Like A Man",
+        "performer": "The Pretty Reckless",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPamhTHks8qD4IkErS1Y65iJ8FiJywAAK7-zEbz2WZSor5f6kDS7Q9AQADAgADeQADNgQ",
+        "date": "2012-01-01"
+    },
+    {
+        "album": "Death by Rock and Roll",
+        "performer": "The Pretty Reckless",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPcGhTHm-cLDPSOuHRLtHEIL281fxWAAK9-zEbz2WZSv9-ki3KV8rKAQADAgADeQADNgQ",
+        "date": "2021-02-12"
+    },
+    {
+        "album": "Who You Selling For",
+        "performer": "The Pretty Reckless",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPfWhTHu2gUmn_kMvS65I_cQbX2bE2AALC-zEbz2WZSlQ35VNulrDqAQADAgADeQADNgQ",
+        "date": "2016-10-21"
+    },
+    {
+        "album": "Going to Hell",
+        "performer": "The Pretty Reckless",
+        "genre": "Rock, Rock & Roll/Rockabilly",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPiWhTH2gzxiYKd2H3nVdZMwUIo-bSAALD-zEbz2WZSi_cQ8naQICnAQADAgADeQADNgQ",
+        "date": "2014-03-12"
+    },
+    {
+        "album": "Light Me Up",
+        "performer": "The Pretty Reckless",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPkmhTIA-Wfc9TYrRKrGeK2pA8_lWOAAI69jEb5VyZSjTCHyEEPvLAAQADAgADeQADNgQ",
+        "date": "2010"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Хаски",
+        "genre": "Electro",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Синглы",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPvGhT8fjUHm0jdlnrnjjuaF0d_PUGAAKq8jEbwpqhSpfpcLtXTDA9AQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "PUSSY SULTAN",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIP1GhT8pxrHxDh5ZzWTMcJLJonMTjkAAKy8jEbwpqhSmUlauvyS1bLAQADAgADeQADNgQ",
+        "date": "2018-01-28"
+    },
+    {
+        "album": "TURBO",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIP3GhT8uOqISyHXatR0D3q4Xy0GBaMAAKz8jEbwpqhSsfgD4q6SVyYAQADAgADeQADNgQ",
+        "date": "2019-04-18"
+    },
+    {
+        "album": "BODY LANGUAGE",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIP6WhT8ywJPbSxZJwzfjdp8M44m0TGAAK18jEbwpqhSh0hYoXFM6igAQADAgADeQADNgQ",
+        "date": "2020-06-12"
+    },
+    {
+        "album": "FLOWJOB",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIP-WhT84KYCKXMr7tbYKf1ewyS_3z2AAK38jEbwpqhSsGl-gJZartgAQADAgADeQADNgQ",
+        "date": "2021-11-19"
+    },
+    {
+        "album": "2 BOYZ NO CAP",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQCWhT89PnjjjUdFn6_riSx1Ibz4a4AAK48jEbwpqhStz0KC70clr0AQADAgADeQADNgQ",
+        "date": "2022-11-25"
+    },
+    {
+        "album": "OUT OF BOUNDS",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQFmhT9BMn46CUQSPZ91r8fLPJEUFpAAK78jEbwpqhSpSA-8F8h3WWAQADAgADeQADNgQ",
+        "date": "2023-10-06"
+    },
+    {
+        "album": "GENERATION ПЫХ",
+        "performer": "SQWOZ BAB",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQJGhT9FmXrFwxPo9kuwM5cXKyM9lTAAKx9zEbjxqgSmDzY0pDm5IRAQADAgADeQADNgQ",
+        "date": "2024-11-29"
+    },
+    {
+        "album": "Клуб Без Танцев",
+        "performer": "Mnogoznaal",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQMmhT-R6lHKRV6Ka80EGN9IYO47JYAALy8jEbwpqhSvKMPEiwzoKoAQADAgADeQADNgQ",
+        "date": "2023-11-17"
+    },
+    {
+        "album": "Круг Ветров",
+        "performer": "Mnogoznaal",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQQmhT-WkgOEIgBLNwoU7A_dh-C9FdAAL08jEbwpqhSs065v6miW3KAQADAgADeQADNgQ",
+        "date": "2020-04-24"
+    },
+    {
+        "album": "Гостиница Космос",
+        "performer": "Mnogoznaal",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQT2hT-akROeo_BV-0ez1cv2KsiIwzAAL38jEbwpqhSv5JK2G-HF-0AQADAgADeQADNgQ",
+        "date": "2018-01-18"
+    },
+    {
+        "album": "Ночной ловец солнца",
+        "performer": "Mnogoznaal",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQW2hT-f-1B-1Z5dZv40Ty2aYaNpTzAAIB-DEbjxqgSjHDITAjAcXKAQADAgADeQADNgQ",
+        "date": "2016-10-07"
+    },
+    {
+        "album": "Иферус  Белые долины",
+        "performer": "Mnogoznaal",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQZ2hT-kDROE7asnaoiFeq9JuSWrqFAAL-8jEbwpqhSssAAUbkls0KlAEAAwIAA3kAAzYE",
+        "date": "2015-09-16"
+    },
+    {
+        "album": "Марш слонов",
+        "performer": "Mnogoznaal",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQdWhT-n_cEJ4GqOTOtjpayIeYBJ7lAAIG-DEbjxqgSu2gQwxJbsQiAQADAgADeQADNgQ",
+        "date": "2014-03-27"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Mnogoznaal",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQfWhT-qXALzuxe0AssERzEKiMHPmXAALv8TEb5VyhSoJQ7gZnA_dEAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Never Let Me Go",
+        "performer": "Placebo",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQiGhT_wOTivHAkvArPg6spdVEIAuIAAIl8zEbwpqhSlphi8CUUd5xAQADAgADeQADNgQ",
+        "date": "2022-03-25"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Placebo",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQlmhT_8nL6iExHZbkOLPwbku12WGBAAIp8zEbwpqhSm4fQYRkFQbqAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Life's What You Make It",
+        "performer": "Placebo",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQmWhT_9ov7C5WVp6KRjhQPpbdUcQXAAIs8zEbwpqhShZc-ywnUTYSAQADAgADeQADNgQ",
+        "date": "2016-10-07"
+    },
+    {
+        "album": "Placebo",
+        "performer": "Placebo",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQn2hUAAFXsVFP6lDWMDtO6d12252u7wACNPMxG8KaoUrkP1VWvmP6oAEAAwIAA3kAAzYE",
+        "date": "1996"
+    },
+    {
+        "album": "Without You I'm Nothing",
+        "performer": "Placebo",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQq2hUAAGnCzX9Glwneue-8GsuvJd1wgACPPMxG8KaoUq_mIo5eWDJzwEAAwIAA3kAAzYE",
+        "date": "1998-10-12"
+    },
+    {
+        "album": "Black Market Music",
+        "performer": "Placebo",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQtmhUATHeERQfIZJUzAf2SMMDD6NtAAJD8zEbwpqhSv8XT75_YNSvAQADAgADeQADNgQ",
+        "date": "2000-10-04"
+    },
+    {
+        "album": "Covers",
+        "performer": "Placebo",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQxWhUAba7ktBsW4npD80ntUev69_DAAJM8zEbwpqhStJXj3SghXLNAQADAgADeQADNgQ",
+        "date": "2003-03-24"
+    },
+    {
+        "album": "Sleeping With Gosts",
+        "performer": "Placebo",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQz2hUAie6Oe6WqZZ1YUb70aZWopNaAAJN8zEbwpqhSlsAAVqBQr6BiAEAAwIAA3kAAzYE",
+        "date": "2003"
+    },
+    {
+        "album": "Meds",
+        "performer": "Placebo",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQ22hUApmIieVdeH6zCIAhTva1tQ4ZAAJU8zEbwpqhSvbPj77fhWVTAQADAgADeQADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "Battle for the Sun",
+        "performer": "Placebo",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIQ52hUA3KkBq4LJI9vPH8cWOCS7ktHAAJX8zEbwpqhSrWMZiygpPtRAQADAgADeQADNgQ",
+        "date": "2009-06-03"
+    },
+    {
+        "album": "Loud Like Love",
+        "performer": "Placebo",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRCmhUCNPxZoD8XzgmQ46rRwe_JFaIAAJk7TEbwpqpSkY-XufDloZlAQADAgADeQADNgQ",
+        "date": "2013-09-13"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Джизус",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRF2hWjMgeOor7MxBKi2c4fP7PXwsOAAJE8jEb_9CxSg-OA782rhLuAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Возрождение",
+        "performer": "Джизус",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRJ2hWjVbXpuNnOCsn95L6O1G19wrCAAJc7jEbVLW5SqlVqJJhu_ZYAQADAgADeQADNgQ",
+        "date": "2017-11-09"
+    },
+    {
+        "album": "TEEN SOUL",
+        "performer": "Джизус",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIROWhWjbMsCi0nR4lb5FJYqFOLHw1uAAJk7jEbVLW5SuR-Fu2RsqaLAQADAgADeQADNgQ",
+        "date": "2017-11-10"
+    },
+    {
+        "album": "ПСИХО - НЕВРОЛОИЧЕСКИЕ ЗАБОЛЕВАНИЯ С ВИДИМОСТЬЮ НЕВИДИМЫХ СУЩЕСТВ",
+        "performer": "Джизус",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRQWhWjeDadS_Oufyd4afwP4fxdbNFAAJn7jEbVLW5SrYFdMKI5LZ9AQADAgADeQADNgQ",
+        "date": "2018-10-17"
+    },
+    {
+        "album": "НОГА В НОГУ С ЭТОЙ СТРАНОЙ",
+        "performer": "Джизус",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRUmhWjinV_AoLcighaS5oMYSPIEheAAJs7jEbVLW5SiTVQrN-3kUzAQADAgADeQADNgQ",
+        "date": "2019-02-01"
+    },
+    {
+        "album": "НАЧАЛО НОВОЙ ЭРЫ",
+        "performer": "Джизус",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRX2hWjmI2U7VZSedmNXA4MZlJm-05AAJu7jEbVLW5SrxGjUpg5ylmAQADAgADeQADNgQ",
+        "date": "2019-12-13"
+    },
+    {
+        "album": "47  Revolution and World",
+        "performer": "Джизус",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRb2hWjsf590-F4ykTVrKPv7FLRBOZAAJx7jEbVLW5SkoSlG_CYcXhAQADAgADeQADNgQ",
+        "date": "2020-11-27"
+    },
+    {
+        "album": "Альбом без названия",
+        "performer": "Джизус",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRgWhWjyoUuWHAfsxD21M3HvXkA0NWAAJd8TEbh-G5SgqwMQ_YTP-HAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Господин Никто",
+        "performer": "Джизус",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRomhWkB3p8YKlxcbpWDSq8I729rUGAAJ77jEbVLW5Sm4EjKF4IhQuAQADAgADeQADNgQ",
+        "date": "2022-11-11"
+    },
+    {
+        "album": "Дух Мира",
+        "performer": "Джизус",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRsmhWkKETeSgOXok4NbmAAsnMChwGAAJ97jEbVLW5SjZfT2JzSt1VAQADAgADeQADNgQ",
+        "date": "2023-05-26"
+    },
+    {
+        "album": "Близнецы  Eros",
+        "performer": "Джизус",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRwGhWkSRbykGNOqNb8gORZvHcH1BNAAKA7jEbVLW5SmiIFU0781TmAQADAgADeQADNgQ",
+        "date": "2024-03-01"
+    },
+    {
+        "album": "Близнецы  Thanatos",
+        "performer": "Джизус",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIRzGhWkWXKAAHekfFJa2Q4DWAgJ6nwKAACg-4xG1S1uUpeOYeZnhy4cAEAAwIAA3kAAzYE",
+        "date": "2024-03-15"
+    },
+    {
+        "album": "Проводник",
+        "performer": "Джизус",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR2GhWkaY4QsYrSKSHel-Bl0kaqOhmAAKG7jEbVLW5SiIcrD5E63sxAQADAgADeQADNgQ",
+        "date": "2025-02-14"
+    },
+    {
+        "album": "The Mad Gear And Missile Kid",
+        "performer": "My Chemical Romance",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ",
+        "date": "2010-11-22"
+    },
+    {
+        "album": "Синглы",
+        "performer": "My Chemical Romance",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "I Brought You My Bullets, You Brought Me Your Love",
+        "performer": "My Chemical Romance",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ",
+        "date": "2015-10-09"
+    },
+    {
+        "album": "Three Cheers for Sweet Revenge",
+        "performer": "My Chemical Romance",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ",
+        "date": "2004"
+    },
+    {
+        "album": "The Black Parade",
+        "performer": "My Chemical Romance",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ",
+        "date": "2006-10-23"
+    },
+    {
+        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+        "performer": "My Chemical Romance",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE",
+        "date": "2010-11-05"
+    },
+    {
+        "album": "Half Hour Of Power",
+        "performer": "Sum 41",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISRWhWmGJMLslcXNorsNM2IVlwDV4aAALZ7jEbVLW5Sj_4btx0SOvZAQADAgADeQADNgQ",
+        "date": "2000-06-27"
+    },
+    {
+        "album": "All Killer, No Filler",
+        "performer": "Sum 41",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISUWhWmJxR0refv-YQeO8jG-91SiR-AALa7jEbVLW5SmE-qOg_vMPoAQADAgADeQADNgQ",
+        "date": "2001"
+    },
+    {
+        "album": "Does This Look Infected",
+        "performer": "Sum 41",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISX2hWmNynEnmr15YuHAsXy7feeVMeAALc7jEbVLW5StQOuP1eS_fSAQADAgADeQADNgQ",
+        "date": "2002-11-25"
+    },
+    {
+        "album": "Chuck",
+        "performer": "Sum 41",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISbGhWmRwX7be9u6prJ0YGmuaUTqD1AALh7jEbVLW5SopCDrPp4xjXAQADAgADeQADNgQ",
+        "date": "2019"
+    },
+    {
+        "album": "Underclass Hero",
+        "performer": "Sum 41",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISe2hWmXJMdqchOX3kZTsmfUSsQMw9AALj7jEbVLW5Skl7plnyGCkjAQADAgADeQADNgQ",
+        "date": "2007-01-01"
+    },
+    {
+        "album": "Screaming Bloody Murder",
+        "performer": "Sum 41",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISiGhWmeJLY1JYVQZQ_R2FVIGpZgumAALo7jEbVLW5SuZ3ryCMFVKaAQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "13 Voices",
+        "performer": "Sum 41",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISmGhWmjgu7JWT0MFi3zLznjIaQjt8AALp7jEbVLW5SnBGDYVADr8WAQADAgADeQADNgQ",
+        "date": "2016-10-07"
+    },
+    {
+        "album": "Order In Decline",
+        "performer": "Sum 41",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISo2hWmpoqWh36Wh4TgOJZ8B25n0VaAALu7jEbVLW5SporeeTZ770UAQADAgADeQADNgQ",
+        "date": "2019"
+    },
+    {
+        "album": "Heaven x Hell",
+        "performer": "Sum 41",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISrmhWmt7waz8AATLVo8BxPy0qAkRn-wAC-e4xG1S1uUpHgoY7ePRDaQEAAwIAA3kAAzYE",
+        "date": "2024"
+    },
+    {
+        "album": "Bleached Serpent",
+        "performer": "Call Me Karizma",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISx2hWnMZFttM4JTjbAAHkxOvdVul__AACvfExG4fhuUrT8FKUurycqAEAAwIAA3kAAzYE",
+        "date": "2021-09-24"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Call Me Karizma",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISzWhWnOtsUxp2nS3RDzktbd2mUisQAAIN7zEbVLW5SvW3LyGbNKCXAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Dance With The Devil",
+        "performer": "Call Me Karizma",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIS6mhWnaR0ennUF-OUb64CloAP3gABhAACFe8xG1S1uUrHkRzdUxtSygEAAwIAA3kAAzYE",
+        "date": "2025-04-25"
+    },
+    {
+        "album": "The Gloomy Tapes, Vol. 2",
+        "performer": "Call Me Karizma",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIS7mhWnbX7eQJ4WE5RPKZCEyzu67n4AAIX7zEbVLW5SnPsXlMPbOAeAQADAgADeQADNgQ",
+        "date": "2019-07-26"
+    },
+    {
+        "album": "To Hell With Hollywood",
+        "performer": "Call Me Karizma",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIS92hWnd7tGgnrECHSB4g064Un6xnwAAIa7zEbVLW5Shq3dQ-di5pHAQADAgADeQADNgQ",
+        "date": "2020-12-10"
+    },
+    {
+        "album": "Francis",
+        "performer": "Call Me Karizma",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITBmhWnj7bprpXhaDz9W3mzpHqRVCTAAIc7zEbVLW5Sj4sMhhOcyJwAQADAgADeQADNgQ",
+        "date": "2022-09-16"
+    },
+    {
+        "album": "Синглы",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Break These Chains",
+        "performer": "The Rasmus",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITImhWn3IV3oaGfa2s3tjvCtCIDqyvAAIl7zEbVLW5Sq-jt_BiIJ8qAQADAgADeQADNgQ",
+        "date": "2025-05-16"
+    },
+    {
+        "album": "Peep",
+        "performer": "The Rasmus",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ",
+        "date": "1996-04-29"
+    },
+    {
+        "album": "Playboys",
+        "performer": "The Rasmus",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ",
+        "date": "1996-04-29"
+    },
+    {
+        "album": "Hell Of A Tester",
+        "performer": "The Rasmus",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ",
+        "date": "1996-04-29"
+    },
+    {
+        "album": "Into",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ",
+        "date": "2001-01-01"
+    },
+    {
+        "album": "Dead Letters",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ",
+        "date": "2003-03-17"
+    },
+    {
+        "album": "Hide from the Sun",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ",
+        "date": "2005-09-12"
+    },
+    {
+        "album": "Black Roses",
+        "performer": "The Rasmus",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA",
+        "date": "2008-09-22"
+    },
+    {
+        "album": "The Rasmus",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ",
+        "date": "2012-04-18"
+    },
+    {
+        "album": "Dark Matters",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ",
+        "date": "2017-10-06"
+    },
+    {
+        "album": "Rise",
+        "performer": "The Rasmus",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ",
+        "date": "2022-09-23"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Мэйби Бэйби",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+        "date": ""
+    },
+    {
+        "album": "МЭЙБИЛЭНД",
+        "performer": "Мэйби Бэйби",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ",
+        "date": "2022-08-19"
+    },
+    {
+        "album": "SHAWTY",
+        "performer": "Мэйби Бэйби",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ",
+        "date": "2023-11-17"
+    },
+    {
+        "album": "ТОЛЬКО ЕСЛИ В ЩЕЧКУ",
+        "performer": "ФРЕНДЗОНА",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT_WhWqwOGxyw8BMs_S3gBdf_VN4ePAAJ07zEbVLW5SgrHi7E4GVglAQADAgADeQADNgQ",
+        "date": "2018-07-24"
+    },
+    {
+        "album": "Синглы",
+        "performer": "ФРЕНДЗОНА",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUA2hWq03MaXWcuJhqkRiMucGoWQlPAAJ27zEbVLW5StjhNxbqgjb9AQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "Флирт на вписке",
+        "performer": "ФРЕНДЗОНА",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUDWhWq8YoB47DuHFN61VNZ74mqGmaAAJ37zEbVLW5Sp3v6s32pQuqAQADAgADeQADNgQ",
+        "date": "2018-04-27"
+    },
+    {
+        "album": "НЕ РАЗЛЕЙ ВОДА",
+        "performer": "ФРЕНДЗОНА",
+        "genre": "Alternative, Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUFGhWrE4kT9kdROn5rpTotihR6Xt5AAJ47zEbVLW5SnTbSFngvMwhAQADAgADeQADNgQ",
+        "date": "2020-04-17"
+    },
+    {
+        "album": "АЛЬБОМБА",
+        "performer": "ФРЕНДЗОНА",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUG2hWrT5wJvT8u1q3HT4hvR3tn3n2AAIi8jEbh-G5SuvLk9bLBeEQAQADAgADeQADNgQ",
+        "date": "2021-09-17"
+    },
+    {
+        "album": "#РЕЙВЫЭТОМОЯЖИСЬ",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUNGhWrtEMhsNorsRCer4crY2S93i9AAKL7zEbVLW5ShzqX1XbZSnmAQADAgADeQADNgQ",
+        "date": "2018-07-20"
+    },
+    {
+        "album": "Синглы",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUOmhWrwHtn0cDMDCtGYRMM9MyNL8mAAKO7zEbVLW5SpnDThfCviqjAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "ТУРБО ПУШКА",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUT2hWr89wvzvhzoxtnYo5VrhJpgN_AAKV7zEbVLW5Sq-guN2VN6mTAQADAgADeQADNgQ",
+        "date": "2018-07-12"
+    },
+    {
+        "album": "13 СПОСОБОВ КАК НАЧАТЬ",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUWmhWsCKB_i2xFBjePLn6IKNWep9LAAKY7zEbVLW5SqQtoyb4rjDqAQADAgADeQADNgQ",
+        "date": "2018-12-13"
+    },
+    {
+        "album": "FIRE",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUZmhWsMHgPRNkuSotuQ2jvFUoHti2AAKd7zEbVLW5SoNNBqDI39nWAQADAgADeQADNgQ",
+        "date": "2019-09-06"
+    },
+    {
+        "album": "FANAT",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Dance, Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUbmhWsUPqD3SLBxj7xXIwwIjWhIByAAKj7zEbVLW5Sg8KBxd3bLNSAQADAgADeQADNgQ",
+        "date": "2020-06-01"
+    },
+    {
+        "album": "КАЧАЕТ",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUfmhWsgUvCTGvB1URgHLuonpBG7fyAAKm7zEbVLW5Sj49Lc9ZqqTbAQADAgADeQADNgQ",
+        "date": "2021-08-06"
+    },
+    {
+        "album": "THERAPIA",
+        "performer": "ДЕТИ RAVE",
+        "genre": "Electro, Dance",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUimhWsowdPyEhBmvSg2Ro0fgw5phkAAKo7zEbVLW5SnpKIeYcM9mkAQADAgADeQADNgQ",
+        "date": "2022-06-01"
     }
 ]
