@@ -2363,7 +2363,7 @@
         "performer": "Sum 41",
         "genre": "Alternative",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAISbGhWmRwX7be9u6prJ0YGmuaUTqD1AALh7jEbVLW5SopCDrPp4xjXAQADAgADeQADNgQ",
-        "date": "2019"
+        "date": "2004"
     },
     {
         "album": "Underclass Hero",
@@ -2637,5 +2637,96 @@
         "genre": "Electro, Dance",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUimhWsowdPyEhBmvSg2Ro0fgw5phkAAKo7zEbVLW5SnpKIeYcM9mkAQADAgADeQADNgQ",
         "date": "2022-06-01"
+    },
+    {
+        "album": "Please Please Me",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUqmhYPoKUSlu8546kFzFMsIJE7B5vAAIp7zEbB1DISl0LPVZ_s2OQAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "With The Beatles",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUuGhYPwhP2ur3k7j_fLTwlclVPu7AAAIs7zEbB1DISkSr7MHZN2BaAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "A Hard Day's Night",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUxmhYP8BXkQrkTJYau5VQ4eX5zhJFAAIu7zEbB1DISqt4jRiquF5cAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Beatles For Sale",
+        "performer": "The Beatles",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIU1WhYQDlo6nF9CkhWUCR_Zz-cJ7w1AAIw7zEbB1DISmYulsepgIO6AQADAgADeQADNgQ",
+        "date": "1964-12-04"
+    },
+    {
+        "album": "Help!",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIU5GhYQUm7eKhFFJarT0IAAYJt6KNztQACQu8xGwdQyEoVotxbpHuucQEAAwIAA3kAAzYE",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Rubber Soul",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIU82hYQeYAAYBgWN79VSMiJ7llsBnuWwAC8_QxG8WfwUqYoGrq7w8-zwEAAwIAA3kAAzYE",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Revolver",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVAmhYQn-PG_fPVc__KvVVssqFiR7fAAJV7zEbB1DISrYko29m2LbcAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Sgt. Pepper’s Lonely Hearts Club Band",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVEWhYQzO9kFeMRcjxfClug_iOMCZPAAJa7zEbB1DISu3WBowrWBS6AQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Magical Mystery Tour",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVG2hYRBXOhoLp3ruv83Pubaqf72YwAAJe7zEbB1DISrbw_zZAF0nfAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "The Beatles",
+        "performer": "The Beatles",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVKGhYRLaDmss9i6Ty7SPO8YKokY5IAAJo7zEbB1DISlLSN9scDEsDAQADAgADeQADNgQ",
+        "date": "1968-11-22"
+    },
+    {
+        "album": "Yellow Submarine",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVR2hYRxwhOgNU_DUi1HKvMU7LrG1DAAKX7zEbB1DISrdL-Sj1pvsTAQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Abbey Road",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVVWhYR9gVieYpvT71MOzMm50vPlE0AAKc7zEbB1DISn0DCn_sdYn2AQADAgADeQADNgQ",
+        "date": "2015-12-24"
+    },
+    {
+        "album": "Let It Be",
+        "performer": "The Beatles",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVZmhYSKtvhGI0EwIOrPKMrZOrFdhJAAKk7zEbB1DISp1CIJKZXQ63AQADAgADeQADNgQ",
+        "date": "2015-12-24"
     }
 ]
