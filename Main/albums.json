@@ -2728,5 +2728,313 @@
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVZmhYSKtvhGI0EwIOrPKMrZOrFdhJAAKk7zEbB1DISp1CIJKZXQ63AQADAgADeQADNgQ",
         "date": "2015-12-24"
+    },
+    {
+        "album": "Развлечение",
+        "performer": "Стрыкало",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVk2hccqMfmya1UAU_l631EUWpZG_4AAK0AAEyG92a4EqW-eWyeoyqoQEAAwIAA3kAAzYE",
+        "date": "2016-10-13"
+    },
+    {
+        "album": "Часть чего-то большего",
+        "performer": "Стрыкало",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVm2hcc3IvgyluuiibyIYfYqzpGsT3AAK2AAEyG92a4ErcD499Jz9x1AEAAwIAA3kAAzYE",
+        "date": "2013-10-20"
+    },
+    {
+        "album": "Смирись и расслабься",
+        "performer": "Стрыкало",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVq2hcc9iMeRQSRYhK-2Vp25ECwcDaAAK3AAEyG92a4ErnhuT_OS2xgwEAAwIAA3kAAzYE",
+        "date": "2014-11-12"
+    },
+    {
+        "album": "Pressure Machine",
+        "performer": "The Killers",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVxmhcdXvcRwAByILgal6B_FYeKizRxAACvwABMhvdmuBK9ItiPFN9M-0BAAMCAAN5AAM2BA",
+        "date": "2021"
+    },
+    {
+        "album": "Imploding The Mirage",
+        "performer": "The Killers",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIV0Whcdf7xs-SrhSE-NgYpU-nimkfrAALFAAEyG92a4ErEAyWzpsil0gEAAwIAA3kAAzYE",
+        "date": "2020"
+    },
+    {
+        "album": "Wonderful Wonderful",
+        "performer": "The Killers",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIV3GhcdkwinH33Gk1QgcBOGlFeh7UaAALHAAEyG92a4Eqz9g4T2PSWNAEAAwIAA3kAAzYE",
+        "date": "2017"
+    },
+    {
+        "album": "Battle Born",
+        "performer": "The Killers",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIV6mhcdsYUfHNSgoSaShRmbociwzjCAALKAAEyG92a4ErFYxc8PJRxpAEAAwIAA3kAAzYE",
+        "date": "2012"
+    },
+    {
+        "album": "Day & Age",
+        "performer": "The Killers",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIV-Whcd0bXy5umAvTSeckAASzOT0FdxwACzgABMhvdmuBKNnUzF9zmZowBAAMCAAN5AAM2BA",
+        "date": "2008-11-24"
+    },
+    {
+        "album": "Sam's Town",
+        "performer": "The Killers",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWBWhceEpl3EFocmNjBkojE4sORORiAALPAAEyG92a4EqLB9en9yWHaAEAAwIAA3kAAzYE",
+        "date": "2006-10-12"
+    },
+    {
+        "album": "Hot Fuss",
+        "performer": "The Killers",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWEmhceLtU8dtBemxx3-3yTbmvqwkaAALRAAEyG92a4Eq-DXOtnfFWKQEAAwIAA3kAAzYE",
+        "date": "2009"
+    },
+    {
+        "album": "ONE MORE TIME",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWL2hceuY_6NPmrsDRkxKBno3t7c5iAALcAAEyG92a4EqEt09J_LRa3AEAAwIAA3kAAzYE",
+        "date": "2024"
+    },
+    {
+        "album": "NINE",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWS2hce3dDzvNSR6KgcETKWcdlsqiAAALeAAEyG92a4EplRjiHtaCtXAEAAwIAA3kAAzYE",
+        "date": "2019"
+    },
+    {
+        "album": "California",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWW2hce80IsaW-4UbIvRpDHUE02JU4AALgAAEyG92a4EofnsxdNgiQggEAAwIAA3kAAzYE",
+        "date": "2017"
+    },
+    {
+        "album": "Neighborhoods",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWeGhcfH02Dcd9SqsawZHUou6qOgx2AALiAAEyG92a4Eo-GS0IRIGzxwEAAwIAA3kAAzYE",
+        "date": "2011"
+    },
+    {
+        "album": "blink-182",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWh2hcfQg493Qsui05IglEIqO8hD8RAALjAAEyG92a4ErVysUXLMOagQEAAwIAA3kAAzYE",
+        "date": "2016"
+    },
+    {
+        "album": "Take Off Your Pants and Jacket",
+        "performer": "blink-182",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWmGhcfXTXlYAkvBgdDdJbzavJu9irAALkAAEyG92a4EqFFYYHgp2tQAEAAwIAA3kAAzYE",
+        "date": "2004"
+    },
+    {
+        "album": "Enema of the State",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWpmhcfdl9pF2Nc5nzvTFo-mek9m-wAALlAAEyG92a4EosTuqHppbMxwEAAwIAA3kAAzYE",
+        "date": "2018"
+    },
+    {
+        "album": "Dude Ranch",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWs2hcfh13KXqr5vB7dCibreIsYVplAALmAAEyG92a4ErR61HqK8MTWgEAAwIAA3kAAzYE",
+        "date": "1997-06-17"
+    },
+    {
+        "album": "Cheshire Cat",
+        "performer": "blink-182",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIWw2hcfnxfWSTeIYluvi_FgWc0JxWbAALnAAEyG92a4Epacon8NVS4sAEAAwIAA3kAAzYE",
+        "date": "1994-01-01"
+    },
+    {
+        "album": "Saviors",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIW3mhdLjinp7RMgRhWMoXGj_aCN5MBAALm7TEbATbpSsNbHMHLWuSfAQADAgADeQADNgQ",
+        "date": "2024"
+    },
+    {
+        "album": "Father of All Motherfuckers",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIW7mhdLpP0CULzVDMOJyY0nXTCHuDoAALo7TEbATbpShwVuMJ6ERAEAQADAgADeQADNgQ",
+        "date": "2020-02-07"
+    },
+    {
+        "album": "Revolution Radio",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIW-WhdLsloSm_78UlUB6x5Tim5tgWKAALq7TEbATbpSl1VEGonkehMAQADAgADeQADNgQ",
+        "date": "2016"
+    },
+    {
+        "album": "¡Tré!",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXBWhdLyOD_zNP8LrtMDWcdvod4yatAALu7TEbATbpSu0-QZKTcrgrAQADAgADeQADNgQ",
+        "date": "2012-12-04"
+    },
+    {
+        "album": "¡Dos!",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXEmhdL8d6VnyYcCGkbCGE1pdNdcOQAAL17TEbATbpStWjFiw-ZSQbAQADAgADeQADNgQ",
+        "date": "2012"
+    },
+    {
+        "album": "¡Uno!",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXIGhdMBQlKCFoUlPAVWeQWzWQt7vtAAL77TEbATbpSglFqb7okYECAQADAgADeQADNgQ",
+        "date": "2012-09-18"
+    },
+    {
+        "album": "21st Century Breakdown",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXLWhdMGRwngkH7MFwKWRHCwOFR7BNAAL-7TEbATbpStJMrcHyIbsIAQADAgADeQADNgQ",
+        "date": "2009"
+    },
+    {
+        "album": "American Idiot",
+        "performer": "Green Day",
+        "genre": "Unknown Genre",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXQGhdMTtUHF9JvCgRZtSOzr_xW_Z-AAIF7jEbATbpStOLpRu_k19AAQADAgADeQADNgQ",
+        "date": "2004-09-21"
+    },
+    {
+        "album": "Warning",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXTGhdMoOi0l1tqJ_ZaZHbHoLL6FOIAAIQ7jEbATbpSstBuoZ7xlEyAQADAgADeQADNgQ",
+        "date": "2000-09-19"
+    },
+    {
+        "album": "Nimrod",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXWGhdMunYx2BWq43DDnYEc_GqOwAB1QACFu4xGwE26UrYKDgKTFZtVwEAAwIAA3gAAzYE",
+        "date": "1997-10-14"
+    },
+    {
+        "album": "Insomniac",
+        "performer": "Green Day",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXbGhdM1X_MwGlkHPEmOOSrnhxREWoAAIc7jEbATbpSoJrPnZvhDB5AQADAgADeQADNgQ",
+        "date": "1995-09-29"
+    },
+    {
+        "album": "Dookie",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXe2hdM8ZW4FHidqwHdWAAAXoLf8NxqgACIu4xGwE26Up8Hy40QWSQKgEAAwIAA3kAAzYE",
+        "date": "1994-01-28"
+    },
+    {
+        "album": "Kerplunk!",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXimhdNEYnJAJeys98fiYPqGqhQmD9AAIj7jEbATbpSl8X9iPTtH5cAQADAgADeQADNgQ",
+        "date": "1991-12-17"
+    },
+    {
+        "album": "39 Smooth",
+        "performer": "Green Day",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXnGhdNJ8ylbV9PypZxuZeLu8dGIpTAAIl7jEbATbpSpeN11roFDROAQADAgADeQADNgQ",
+        "date": "1991-07-01"
+    },
+    {
+        "album": "Unreal Unearth",
+        "performer": "Hozier",
+        "genre": "Folk",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIXxWhdN6Cqk6skarpASKDZRvGE4pzkAAI17jEbATbpStl7_PLx4KI0AQADAgADeQADNgQ",
+        "date": "2024-12-06"
+    },
+    {
+        "album": "Wasteland, Baby!",
+        "performer": "Hozier",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIX3mhdOKWeUrxL2Fo8NtoS6hIAAfAsvQACPe4xGwE26Uo4wj6OeY89bwEAAwIAA3kAAzYE",
+        "date": "2019"
+    },
+    {
+        "album": "Hozier",
+        "performer": "Hozier",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIX7GhdOSaNMeV_LzIZphX-hAwN1LWcAAJm8jEbD2HoSlM3VrG1E7O5AQADAgADeQADNgQ",
+        "date": "2014"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Hozier",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIX92hdOd8Smk4m585hoWwa88X43-wpAAJT7jEbATbpSgABg0dH_0kVeQEAAwIAA3kAAzYE",
+        "date": ""
+    },
+    {
+        "album": "EXPLOSIONS",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ",
+        "date": "2022"
+    },
+    {
+        "album": "Outsider",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ",
+        "date": "2018"
+    },
+    {
+        "album": "Human",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ",
+        "date": "2015"
+    },
+    {
+        "album": "Transit of Venus",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ",
+        "date": "2012"
+    },
+    {
+        "album": "Life Starts Now",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ",
+        "date": "2009-11-27"
+    },
+    {
+        "album": "One-X",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ",
+        "date": "2006"
+    },
+    {
+        "album": "Three Days Grace",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ",
+        "date": "2003-04-19"
     }
 ]

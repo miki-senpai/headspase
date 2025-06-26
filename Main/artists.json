@@ -174,5 +174,29 @@
     {
         "name": "The Beatles",
         "file_id": "AgACAgIAAyEGAASavGeAAAIUqWhYPn-EdVESGmQ1hBJz4FHGGPVWAAIo7zEbB1DISvYp0Le1ne7BAQADAgADeAADNgQ"
+    },
+    {
+        "name": "Стрыкало",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIVkmhccp_SFA9KNWT0VRlhM7mnMxfCAAKzAAEyG92a4ErOxiI_8WA4mgEAAwIAA3gAAzYE"
+    },
+    {
+        "name": "The Killers",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIVxWhcdXmbAAE0KFHLPkBRoYjvkKtcMAACvgABMhvdmuBKsBg4KwX04_gBAAMCAAN4AAM2BA"
+    },
+    {
+        "name": "blink-182",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIWLmhceuTNy3KDXQT0d-cBv2gRVPKzAALbAAEyG92a4Eq-O6mEWa2EVwEAAwIAA3gAAzYE"
+    },
+    {
+        "name": "Green Day",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIW3WhdLjbrtYGmlltBBz4Fs1pd9XOGAALl7TEbATbpSnHbnZBZ3v2qAQADAgADeAADNgQ"
+    },
+    {
+        "name": "Hozier",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIXxGhdN561dfPioNm6-OS_AVZKZw0YAAI07jEbATbpSsOP2_VIFR5NAQADAgADeAADNgQ"
+    },
+    {
+        "name": "Three Days Grace",
+        "file_id": "AgACAgIAAyEGAASavGeAAAIYB2hdPAGC71rlBqdZgn_n6Qn2YAw3AAJ_8jEbD2HoSpAVBP020VkCAQADAgADeAADNgQ"
     }
 ]
