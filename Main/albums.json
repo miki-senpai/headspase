@@ -2643,21 +2643,21 @@
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUqmhYPoKUSlu8546kFzFMsIJE7B5vAAIp7zEbB1DISl0LPVZ_s2OQAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1963"
     },
     {
         "album": "With The Beatles",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUuGhYPwhP2ur3k7j_fLTwlclVPu7AAAIs7zEbB1DISkSr7MHZN2BaAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1963"
     },
     {
         "album": "A Hard Day's Night",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIUxmhYP8BXkQrkTJYau5VQ4eX5zhJFAAIu7zEbB1DISqt4jRiquF5cAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1964"
     },
     {
         "album": "Beatles For Sale",
@@ -2671,35 +2671,35 @@
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIU5GhYQUm7eKhFFJarT0IAAYJt6KNztQACQu8xGwdQyEoVotxbpHuucQEAAwIAA3kAAzYE",
-        "date": "2015-12-24"
+        "date": "1965"
     },
     {
         "album": "Rubber Soul",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIU82hYQeYAAYBgWN79VSMiJ7llsBnuWwAC8_QxG8WfwUqYoGrq7w8-zwEAAwIAA3kAAzYE",
-        "date": "2015-12-24"
+        "date": "1965"
     },
     {
         "album": "Revolver",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVAmhYQn-PG_fPVc__KvVVssqFiR7fAAJV7zEbB1DISrYko29m2LbcAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1966"
     },
     {
         "album": "Sgt. Pepper’s Lonely Hearts Club Band",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVEWhYQzO9kFeMRcjxfClug_iOMCZPAAJa7zEbB1DISu3WBowrWBS6AQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1967"
     },
     {
         "album": "Magical Mystery Tour",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVG2hYRBXOhoLp3ruv83Pubaqf72YwAAJe7zEbB1DISrbw_zZAF0nfAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1967"
     },
     {
         "album": "The Beatles",
@@ -2713,21 +2713,21 @@
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVR2hYRxwhOgNU_DUi1HKvMU7LrG1DAAKX7zEbB1DISrdL-Sj1pvsTAQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1969"
     },
     {
         "album": "Abbey Road",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVVWhYR9gVieYpvT71MOzMm50vPlE0AAKc7zEbB1DISn0DCn_sdYn2AQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1969"
     },
     {
         "album": "Let It Be",
         "performer": "The Beatles",
         "genre": "Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVZmhYSKtvhGI0EwIOrPKMrZOrFdhJAAKk7zEbB1DISp1CIJKZXQ63AQADAgADeQADNgQ",
-        "date": "2015-12-24"
+        "date": "1970"
     },
     {
         "album": "Развлечение",
@@ -3036,5 +3036,488 @@
         "genre": "Pop, Rock",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ",
         "date": "2003-04-19"
+    },
+    {
+        "album": "Revival",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYcGhejAplZq4RvcG9rR288YvFSLQ9AAJQ8zEbATb5Ss49L95A5ezHAQADAgADeQADNgQ",
+        "date": "2025-06-20"
+    },
+    {
+        "album": "Gloomjoy",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYgWhejDKN6IZJwR2IZK3YthCnvC3oAAJR8zEbATb5SvPmLMwLey1gAQADAgADeQADNgQ",
+        "date": "2025-04-18"
+    },
+    {
+        "album": "Stereo",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYi2hejFh4fYCWeT0mNUIObPuZpn1vAAJV8zEbATb5SnBfalzRsSSkAQADAgADeQADNgQ",
+        "date": "2024-07-26"
+    },
+    {
+        "album": "Half Life",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYmGhejIoLiytADqYdvcJH5Yi3c2nZAAJY8zEbATb5SsoFIw0oR02tAQADAgADeQADNgQ",
+        "date": "2022-07-27"
+    },
+    {
+        "album": "Melodrama",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYpWhejKdmLqcqUla-O8Az4Z4nQ9ZoAAJZ8zEbATb5SpiuuXm7mQLJAQADAgADeQADNgQ",
+        "date": "2020-10-16"
+    },
+    {
+        "album": "VHS",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative, Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYsGhejNUqU4lFHUv1Y_sodwkCPe33AAJb8zEbATb5SpagkUaLUGaVAQADAgADeQADNgQ",
+        "date": "2018-03-28"
+    },
+    {
+        "album": "CASTLEBEAT",
+        "performer": "CASTLEBEAT",
+        "genre": "Alternative & Indie",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYu2hejOtKAcAEgK238BoHyK7xk1bJAAJc8zEbATb5SojNuGn6JoUhAQADAgADeAADNgQ",
+        "date": "2016-07-23"
+    },
+    {
+        "album": "Конфетти",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYy2hoDY54pCTHIWS-zEJER_Cc7gG6AAKv8jEb0cpBS5GaDKUcQT6TAQADAgADeQADNgQ",
+        "date": "2015-06-19"
+    },
+    {
+        "album": "Делаю любовь",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIY1WhoDdMdHTbMb0HCiqqsWeHWCappAAKz8jEb0cpBS-vGtHGZWEjVAQADAgADeQADNgQ",
+        "date": "2017-05-02"
+    },
+    {
+        "album": "Гори",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIY4WhoDh8EbM38_CBWNdf3UcJiraDVAAK48jEb0cpBS7ubmtlP3BMrAQADAgADeQADNgQ",
+        "date": "2017-11-04"
+    },
+    {
+        "album": "Боюсь остыть",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIY62hoDle34x2llke2lSdXetwtaQoIAALA8jEb0cpBS0qhlMM0t6zJAQADAgADeQADNgQ",
+        "date": "2018-03-16"
+    },
+    {
+        "album": "Тебе прикольно ещё жить",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIY92hoDqIzvWGY3emX8COPVZKV5ZP8AAKr-zEby7NBSzyHSeWdE9YbAQADAgADeQADNgQ",
+        "date": "2018-07-09"
+    },
+    {
+        "album": "фикционализм",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZAAFoaA7xXrXwTshxdJm86-xhbYHmEwACrvsxG8uzQUscr4PFbukOXAEAAwIAA3kAAzYE",
+        "date": "2018-11-01"
+    },
+    {
+        "album": "не навсегда",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZCGhoDys1pNnMwlypb2KnSV64BmCnAALM8jEb0cpBS-BEDq9G_qyfAQADAgADeQADNgQ",
+        "date": "2019-02-06"
+    },
+    {
+        "album": "черви в черепе",
+        "performer": "Aikko",
+        "genre": "Alternative, Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZEGhoD2asmo4c6wTvNR5yVijt7W0pAALU8jEb0cpBS0ee-reW4eVlAQADAgADeQADNgQ",
+        "date": "2019-03-29"
+    },
+    {
+        "album": "мои друзья не должны умирать",
+        "performer": "Aikko",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZG2hoD71af3WuBWv_iGexvU3nBN7aAALZ8jEb0cpBS6Z4f6v4D5IgAQADAgADeQADNgQ",
+        "date": "2020-07-03"
+    },
+    {
+        "album": "Тёмные делишки",
+        "performer": "Aikko",
+        "genre": "Alternative, Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZK2hoECi_rW9blQfrjn5IJQEXx2-tAALg8jEb0cpBS8u6K3z5hcqmAQADAgADeQADNgQ",
+        "date": "2021-09-03"
+    },
+    {
+        "album": "преданные",
+        "performer": "Aikko",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZNmhoEGt_zmPl4iNtculoIcIOrHbiAALo8jEb0cpBS7XPj9TsPG4FAQADAgADeAADNgQ",
+        "date": "2023-03-10"
+    },
+    {
+        "album": "Подвох",
+        "performer": "Aikko",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZP2hoEJpO5W_9cjVbQ-hWRHP2dDeEAALs8jEb0cpBSzqkvFwWHOoYAQADAgADeQADNgQ",
+        "date": "2023-10-06"
+    },
+    {
+        "album": "неприязнь",
+        "performer": "Aikko",
+        "genre": "Rap/Hip Hop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYzWhoDZ8E0hEGR5KfPiqgjnC3V9SgAAKw8jEb0cpBSzAsUSKhxPaQAQADAgADeQADNgQ",
+        "date": "2021-12-16"
+    },
+    {
+        "album": "Синглы",
+        "performer": "Aikko",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYyGhoCserGW9X_fJBFJfFw0TAj2MyAAKT8jEb0cpBS1lWrQY4ddFpAQADAgADeQADNgQ",
+        "date": ""
+    },
+    {
+        "album": "The Rolling Stones",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZdmhoFt53Zrgw4alPV-RkEFkFlPEPAAIX8zEb0cpBS93kZlGbFgkbAQADAgADeQADNgQ",
+        "date": "1964-04-17"
+    },
+    {
+        "album": "12 × 5",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZg2hoFx5JRmDPH_Tb0lV68PkiU7osAAIY8zEb0cpBS4Uo6RqY48_lAQADAgADeQADNgQ",
+        "date": "1964-10-23"
+    },
+    {
+        "album": "The Rolling Stones No. 2",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZkGhoF2DlmslsGJ-A1eF5oL7Ti9Q5AAIb8zEb0cpBS0zSMibrW1WCAQADAgADeQADNgQ",
+        "date": "1965-01-15"
+    },
+    {
+        "album": "The Rolling Stones, Now!",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZnGhoF8B_sTNvRGr0SEiaMgXKfBhAAAIg8zEb0cpBS73srtpmvBCRAQADAgADeQADNgQ",
+        "date": "1965-02-12"
+    },
+    {
+        "album": "Out of Our Heads",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZqWhoGAPJfaC03dPZl8B1ctrkdNvxAAIj8zEb0cpBSwJPYiEfnaDVAQADAgADeAADNgQ",
+        "date": "1965-07-30"
+    },
+    {
+        "album": "December’s Children (And Everybody’s)",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZtmhoGES50kAFcNaL08g89T3U7xVpAAIm8zEb0cpBS7e8c-S3VTYPAQADAgADeQADNgQ",
+        "date": "1965-12-03"
+    },
+    {
+        "album": "Aftermath",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZw2hoGIKcXZiZuJnMXpGFLpeU7NPAAAIn8zEb0cpBSxsuGSe-JQvrAQADAgADeQADNgQ",
+        "date": "1966-04-15"
+    },
+    {
+        "album": "Between the Buttons",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZz2hoGNGCZSZ11aTg2ChloeM-S0oIAAIp8zEb0cpBS7gAAVmmSZkZTgEAAwIAA3kAAzYE",
+        "date": "1967-01-20"
+    },
+    {
+        "album": "Their Satanic Majesties Request",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZ3GhoGSFXo87SUuxH9tB7hERfPJ6uAAIv8zEb0cpBS8_kHEYvOcmQAQADAgADeQADNgQ",
+        "date": "1967-12-08"
+    },
+    {
+        "album": "Beggars Banquet",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZ52hoGWt4GxIomAuBXy4fpsx28Sk4AALb9TEbvV5BS3b6SJ8r517BAQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Let It Bleed",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZ8mhoGb3S6Cjrxiel5ZWncHxbAafxAAIy8zEb0cpBS720arC-EeIxAQADAgADeQADNgQ",
+        "date": "2011"
+    },
+    {
+        "album": "Sticky Fingers",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIZ_GhoGhDd85uHRd4svQ9xc-7-WL2rAAI18zEb0cpBSxJozS_OvRw8AQADAgADeQADNgQ",
+        "date": "2009"
+    },
+    {
+        "album": "Exile on Main Street",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaBmhoGn5BfTQoX9O6c1ISNTHWQGDoAAI28zEb0cpBS8kR_4PFm6T8AQADAgADeQADNgQ",
+        "date": "2010-01-01"
+    },
+    {
+        "album": "Goats Head Soup",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaGmhoGvpgt1F01oZ519Ku06xdBkWvAAI_8zEb0cpBS6q76NcCDkWmAQADAgADeQADNgQ",
+        "date": "2008"
+    },
+    {
+        "album": "It’s Only Rock ’n’ Roll",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaJWhoG1nXLO24EJKBQu61XrEXnQrYAAJD8zEb0cpBS7dJZq4--iGxAQADAgADeQADNgQ",
+        "date": "1974-10-16"
+    },
+    {
+        "album": "Black and Blue",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaMGhoG8R-XfHn7yTp6te2mwvhTtG6AAJI8zEb0cpBSwTM0_Bv1EsFAQADAgADeQADNgQ",
+        "date": "2009-01-01"
+    },
+    {
+        "album": "Some Girls",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaOGhoHDa6szwTT_-2b1N8hpviPmFqAAJQ8zEb0cpBS1TbbW2PoN_3AQADAgADeQADNgQ",
+        "date": "1978-06-09"
+    },
+    {
+        "album": "Emotional Rescue",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaQ2hoHIK5IFNAmcchH1bmQEpo39XUAAJS8zEb0cpBS32fEaGMeEUWAQADAgADeQADNgQ",
+        "date": "1980-06-23"
+    },
+    {
+        "album": "Tattoo You",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaTWhoHP3mZOjfZjQFBnGQIq-YOYiQAAJZ8zEb0cpBSzPwOfcrHrD0AQADAgADeQADNgQ",
+        "date": "2009"
+    },
+    {
+        "album": "Undercover",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaWWhoHW-sWUp_bykJ-mAMc_GpBwO-AAJj8zEb0cpBS2Eysk2xWoE9AQADAgADeAADNgQ",
+        "date": "1983-11-07"
+    },
+    {
+        "album": "Dirty Work",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaYWhoHmBYV94NdWTS0wIb220Z1LKHAAJt8zEb0cpBS72VozM8w-aOAQADAgADeAADNgQ",
+        "date": "1986-01-01"
+    },
+    {
+        "album": "Steel Wheels",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIaa2hoHyeOusH4gDKoiV5NILFbOtLEAAJw8zEb0cpBS0ZwbF88sjijAQADAgADeAADNgQ",
+        "date": "1989-08-01"
+    },
+    {
+        "album": "Voodoo Lounge",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIadmhoICmR8UKMOhLsk1R8p1F6-PseAAJ88zEb0cpBS6IW0v0N0Yr8AQADAgADeQADNgQ",
+        "date": "2009"
+    },
+    {
+        "album": "Bridges to Babylon",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIahmhoIJ6qWaLHBpoQcxGBGQWEynOFAAJ_8zEb0cpBS_hN77Ln4TOyAQADAgADeQADNgQ",
+        "date": "1997-09-27"
+    },
+    {
+        "album": "A Bigger Bang",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIalGhoIRmfA9QSt0eUNM-ib3pSK-n5AAKD8zEb0cpBS2RPAS2tCTEXAQADAgADeQADNgQ",
+        "date": "2005-06-09"
+    },
+    {
+        "album": "Blue and Lonesome",
+        "performer": "The Rolling Stones",
+        "genre": "Rock, Blues",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIapWhoIaW1uFgvwvUKBrARPBIwehdiAAKG8zEb0cpBS2YzOiOZATCVAQADAgADeQADNgQ",
+        "date": "2016-12-02"
+    },
+    {
+        "album": "Hackney Diamonds",
+        "performer": "The Rolling Stones",
+        "genre": "Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIasmhoIhZPWwWrGAziif0PZvTQMJgpAAKI8zEb0cpBS5fgQffrlTfAAQADAgADeQADNgQ",
+        "date": "2023-10-20"
+    },
+    {
+        "album": "#000000 & #FFFFFF",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIa2mhpPFma_0BPAAGYL1hFxix2G9l9IQACk_kxGwABP0lLlfHyjI4SUCwBAAMCAAN5AAM2BA",
+        "date": "2014-11-28"
+    },
+    {
+        "album": "Синглы",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIa62hpPPAO21GbAfqnSDPil_nIOK0aAAKU-TEbAAE_SUtgqqIaV5vmLQEAAwIAA3kAAzYE",
+        "date": ""
+    },
+    {
+        "album": "I'm Sorry",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIa8GhpPQv2NJP9SQEQ5JnyKegvqZqpAAKV-TEbAAE_SUsyfs-KU5uZ9QEAAwIAA3kAAzYE",
+        "date": "2012"
+    },
+    {
+        "album": "I Love You",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIa9mhpPSobO_8HSxkLTLmY34tpNzKeAAKW-TEbAAE_SUuxM4v9zDC5JQEAAwIAA3kAAzYE",
+        "date": "2013"
+    },
+    {
+        "album": "Wiped Out!",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbAAFoaT2ik6nvFkB1HO1Rbxzh-c4hHwACmfkxGwABP0lLexCPW1Dp0pYBAAMCAAN5AAM2BA",
+        "date": "2015-10-30"
+    },
+    {
+        "album": "The Neighbourhood",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbDGhpPjBDrDmoTbST0GyHxWC0bp5kAAKu-TEbAAE_SUsCLMVJBX0ueAEAAwIAA3kAAzYE",
+        "date": "2018"
+    },
+    {
+        "album": "Chip Chrome & The Mono-Tones",
+        "performer": "The Neighbourhood",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbImhpPr-WA10puU39vgOeXutyt6aRAAKx-TEbAAE_SUt1CGq-pW7v_AEAAwIAA3kAAzYE",
+        "date": "2020-12-11"
+    },
+    {
+        "album": "No Pads, No Helmets… Just Balls",
+        "performer": "Simple Plan",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbOWhpP6d7oglk7J3faD69z8990nhZAAKz-TEbAAE_SUvTYae6Hd1ovgEAAwIAA3kAAzYE",
+        "date": "2002"
+    },
+    {
+        "album": "Still Not Getting Any",
+        "performer": "Simple Plan",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbSmhpQCU2Y4jlRew0jgQEVLlV0UB4AALA-TEbAAE_SUtyrEtBOulz9gEAAwIAA3kAAzYE",
+        "date": "2004-10-26"
+    },
+    {
+        "album": "Simple Plan",
+        "performer": "Simple Plan",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbVmhpQHRFnnq7Jk7CRTHXb9BcVQh8AALJ-TEbAAE_SUu3JEWF1G9AiAEAAwIAA3kAAzYE",
+        "date": "2008"
+    },
+    {
+        "album": "Get Your Heart On!",
+        "performer": "Simple Plan",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbYmhpQMmpZ_-i1tVCnEY8VwdSmhdqAALL-TEbAAE_SUuwaSeEWDsF4QEAAwIAA3kAAzYE",
+        "date": "2011-06-14"
+    },
+    {
+        "album": "Taking One for the Team",
+        "performer": "Simple Plan",
+        "genre": "Pop",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbcWhpQUTcAeunLF3uS-j2bc-Marf3AALO-TEbAAE_SUvjUTY6_i1DvwEAAwIAA3kAAzYE",
+        "date": "2016-02-19"
+    },
+    {
+        "album": "Harder Than It Looks",
+        "performer": "Simple Plan",
+        "genre": "Alternative & Rock",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbgGhpQlGPK8aBmf3T5BeRrs-oI1XeAALX-TEbAAE_SUtgEjZokQK6NgEAAwIAA3kAAzYE",
+        "date": "2022"
+    },
+    {
+        "album": "From Zero",
+        "performer": "Linkin Park II",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbkmhpRAUEHUgKAiyMgsrgcGHudWgQAALJ7jEbnuFIS-0Keyg0mdnlAQADAgADeQADNgQ",
+        "date": "2024-11-15"
+    },
+    {
+        "album": "The Hunting Party",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbomhpRKjudBKJuC4selbcoP-MeQIeAAL3-TEbAAE_SUsth1n05hmBNgEAAwIAA3kAAzYE",
+        "date": "2014"
+    },
+    {
+        "album": "A Thousand Suns",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbr2hpRSgyNvLIgAl66rDXzQS0n8YQAAL5-TEbAAE_SUv6JA36VRapIgEAAwIAA3kAAzYE",
+        "date": "2010"
+    },
+    {
+        "album": "Minutes to Midnight",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbvmhpRYrZYM7i66uogUirR36inGeEAAL7-TEbAAE_SUtqhsE5mmeGOgEAAwIAA3kAAzYE",
+        "date": "2007"
+    },
+    {
+        "album": "Meteora",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIbzGhpRdljlmDpM3t2Km_MUvHJ4UgCAAL8-TEbAAE_SUsvuIjlcVwlEwEAAwIAA3kAAzYE",
+        "date": "2003"
+    },
+    {
+        "album": "Hybrid Theory",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIb2mhpRhz_wFttqNqippjeZAeZPqQCAAL9-TEbAAE_SUsFnUgqv-gXhQEAAwIAA3kAAzYE",
+        "date": "2003"
+    },
+    {
+        "album": "Living Things",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIb6WhpRnCAdVmkXEBcF3DEjHT51O6cAAL_-TEbAAE_SUvMZXxb7weNSAEAAwIAA3gAAzYE",
+        "date": "2012"
+    },
+    {
+        "album": "One More Light",
+        "performer": "Linkin Park",
+        "genre": "Alternative",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIb9mhpRrQcvg3_LE3QTmXhYMm050V2AAIC-jEbAAE_SUtSlO27BK2pzwEAAwIAA3kAAzYE",
+        "date": "2017"
     }
 ]
