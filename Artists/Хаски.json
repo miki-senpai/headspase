@@ -1,155 +1,130 @@
 [
     {
-        "album": "Синглы",
-        "title": "House Party",
+        "album": "Хошхоног",
+        "title": "Птицы",
         "performer": "Хаски",
-        "genre": "Electro",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPqmhT79h0xeGF3uwvzFY8iVfFm_2BAAKheAACwpqhSgOeoX7OILE7NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2025-04-25"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIelWh-JLvkwlLH93odA7sTU-WGedEMAAIPfwAC1E3xS8g7uucICMH2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "ПЛАЦКАРТ",
+        "album": "Хошхоног",
+        "title": "Outro",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPq2hT792UHFYX31GRdsHxjfwlF7NfAAKieAACwpqhSnNmimFqBGpxNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2021-12-14"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIelmh-JL3rr5AVwl6_AyARI28rjsZrAAIQfwAC1E3xS_5-_GaviO5BNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "ЛУНА",
+        "album": "Хошхоног",
+        "title": "Бесконечный магазин",
         "performer": "Хаски",
-        "genre": "Pop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPrGhT7-STrUBbN_W7B_CIfnncBBs-AAKkeAACwpqhSqWs34a5QhV7NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2021-08-16"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIel2h-JMAo2n6wKuDcAAFlSQLSEDiNQwACEX8AAtRN8Ut_uFcWvFI8KzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Хахаха",
+        "album": "Хошхоног",
+        "title": "Владыка слов",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPrWhT7-rlrFEbEeMpIuKxa8wT76TdAAKleAACwpqhSg9jF5WWpwqHNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2023-11-10"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIemGh-JMRLqST7zZEXA_6uEPMXNs2GAAISfwAC1E3xSyuEZ2rjDaKvNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Шансон 2",
+        "album": "Хошхоног",
+        "title": "На что я дрочу",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPrmhT7-6NgPkRj-8SpaoP0PjBHzVnAAJHdQAC5VyhSjaiGc-WAAGjhjYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2024-11-01"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIemWh-JMkyaqDZwHQaOt2q45VyyAO5AAITfwAC1E3xSyAAAXEO6N1Y5jYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "За Байкалом",
+        "album": "Хошхоног",
+        "title": "Реванш",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPr2hT7_TObbb00BHlS1FL1MzYot3sAAKmeAACwpqhSuqLqhoDn71ONgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2021-03-26"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIemmh-JMzjh1HcOeH_izukwZvtuph_AAIUfwAC1E3xS1y81-0GjE_6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "NPC",
+        "album": "Хошхоног",
+        "title": "Частушки",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPsGhT7_lxytHWHKGqcpl2gebUU3n5AAKneAACwpqhSjL_Pymm_cpdNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2021-05-06"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIem2h-JNDdD-gL_sweduUgGEoAASMO7gACFX8AAtRN8UuRBg47i4HctzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Невидимка",
+        "album": "Хошхоног",
+        "title": "Комната скомкана",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPsWhT7_8B5jzMP9P2eT1IarCPtOYWAAKoeAACwpqhSsnokEh7-i9sNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2021-06-18"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIenGh-JNLGCulUcQABBM9xKXP1-VnjvwACFn8AAtRN8Uvr1TW6KQ56_TYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Песня для К",
+        "album": "Хошхоног",
+        "title": "Никогда-нибудь",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPsmhT8AVUluVMZ1LNa2_VEA1JICPPAAKpeAACwpqhSkfpVslybyb4NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2022-05-06"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIenWh-JNWbIOpo5IJaveJ397s33M-PAAIXfwAC1E3xS8EdXrMK9sXYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Бог войны",
+        "album": "Хошхоног",
+        "title": "Старуха",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPs2hT8AvAatPyeimDdqEXTeV6CterAAKqeAACwpqhSlkQ-rrUKJ5YNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2022-09-30"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIenmh-JNlcMnC5_doFK1zjVYbN2KacAAJCcwACoxDwS43UWDoaVc66NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Ноктюрн",
+        "album": "Хошхоног",
+        "title": "Ода Ничему",
         "performer": "Хаски",
-        "genre": "Pop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPtGhT8BEp26XgAmmPozqnvfvIbRIIAAKreAACwpqhSl91f1FBhlRONgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2022-10-14"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIen2h-JNwuZ5DoIJ1c8YscrQ3fV5xhAAIZfwAC1E3xSwVQO1RyR9F0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "О любви",
+        "album": "Хошхоног",
+        "title": "Мир мух",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPtWhT8BWCpODrIg4gzYJ2eVwsxB19AAKteAACwpqhSv-ubY_R30-_NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2023-04-21"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIeoGh-JOGuarZhRkcNNGgRzwUN0SlcAAIafwAC1E3xS9X446z7DmCINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Мамба",
+        "album": "Хошхоног",
+        "title": "Аферист",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPtmhT8B373EYMDCLvSiBPkkwny6ryAAKveAACwpqhSuotUnO98nDJNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2023-08-25"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIeoWh-JOS-KOUKDw7HVvY304-iaYuyAAIbfwAC1E3xS6i1ritxP37DNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Сказки",
+        "album": "Хошхоног",
+        "title": "Люцифер",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPt2hT8CPkD1zqofDkZfqLPDuPx-QQAAKweAACwpqhSjX9InD6ycHDNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2024-03-01"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIeomh-JOfDmMP5wUN2DM5CYLkn6014AAIcfwAC1E3xS3ZGlLTBFFqWNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Молодой русский",
+        "album": "Хошхоног",
+        "title": "Шаг влево, шаг вправо",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPuGhT8Chad0COzPgRa9vloboivWOLAAKxeAACwpqhSnYQ7jXKP-y2NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2024-04-05"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIeo2h-JOpLjS2mYJ8PPq1E-wPXtLqJAAIdfwAC1E3xSzy03sMukHXBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     },
     {
-        "album": "Синглы",
-        "title": "Сколько стоят деньги?",
+        "album": "Хошхоног",
+        "title": "Intro",
         "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPuWhT8C0veh2tw2oShbenDG-wjaX2AAJGdQACjxqgSijunw2SRIpXNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2024-06-07"
-    },
-    {
-        "album": "Синглы",
-        "title": "Громко",
-        "performer": "Хаски",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIPumhT8DRKv52Di7Qe-EVRpFuh5RsPAAKyeAACwpqhSkTgoLp_UVXtNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPqWhT79IBBH6kHH90C1vpTDW-2ik9AAKa8jEbwpqhSlv2d5tPgNzKAQADAgADeQADNgQ",
-        "date": "2024-08-02"
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIepGh-JO74qdksMUC8PB5kMyUdaly_AAIffwAC1E3xS3_ahPfyJmsjNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ"
     }
 ]
