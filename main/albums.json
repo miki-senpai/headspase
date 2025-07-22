@@ -1,12 +1,5 @@
 [
     {
-        "album": "Хошхоног",
-        "performer": "Хаски",
-        "genre": "Unknown Genre",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIelGh-JLhMpYVl_6DdwNS9JUWjAVyJAAKb_DEb1E3xS3V8Jy8IYqFiAQADAgADeAADNgQ",
-        "date": "2020"
-    },
-    {
         "album": "10:13",
         "performer": "PHARAOH",
         "genre": "Rap/Hip Hop",
@@ -3736,19 +3729,5 @@
         "genre": "Pop",
         "cover_file_id": "AgACAgIAAyEGAASavGeAAAIeMWhzmFPD01UCLjRI5RVxq_IamGk_AALc9zEb1fCZS164nohU1lkSAQADAgADeQADNgQ",
         "date": "2020-04-30"
-    },
-    {
-        "album": "Мёртвые цветы",
-        "performer": "МУККА",
-        "genre": "Rock",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIeaWh5Zcivg9dzUdbonLoSYO9zYrVXAALC9DEb00vISxGh4xn4YwGdAQADAgADeQADNgQ",
-        "date": "2022-12-23"
-    },
-    {
-        "album": "Пижама с динозаврами",
-        "performer": "МУККА",
-        "genre": "Rock",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIec2h5Zf0aYbPvydiaRHILjn10Eh4-AALE9DEb00vISzhBA3WIxfqaAQADAgADeQADNgQ",
-        "date": "2021-02-25"
     }
 ]
