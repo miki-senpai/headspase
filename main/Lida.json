@@ -1,0 +1,919 @@
+{
+    "albums": [
+        {
+            "album": "Дак Теилс 3",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ",
+            "date": "2023-06-02"
+        },
+        {
+            "album": "Новая рок звезда",
+            "genre": "Dance, Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ",
+            "date": "2022-12-16"
+        },
+        {
+            "album": "Музло из гаражей",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ",
+            "date": "2021-02-19"
+        },
+        {
+            "album": "Юность 2020",
+            "genre": "Rap/Hip Hop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ",
+            "date": "2020-01-17"
+        },
+        {
+            "album": "Синглы",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": ""
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ",
+            "date": "2022-09-16"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ",
+            "date": "2022-04-29"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ",
+            "date": "2021-11-12"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "genre": "Rock, Hard Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ",
+            "date": "2019-12-03"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "Дак Теилс 3",
+            "title": "Танцуй или умри",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGo2hLO-itm3dXVIaQxoW9-TElwZRrAAJqeQACiLNZSqsav9UOXHmJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Фотки",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGpGhLO-nCTAs1TInGJloAAWGJWI6IzAACa3kAAoizWUqeMeZHkaWw2zYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Аниме музончик",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGpWhLO-oUNVVDnB5lqU15Gy_v-NMAA2x5AAKIs1lKVkYCcT_VDgc2BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Дура и придурок",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGpmhLO-1kGesO4N8YgeHAVJ5KPUVvAAJteQACiLNZSnq7nQ0RI5UQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Дождь",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGp2hLO-47iM_BKOXUVsw9kRRvqPX2AAJ7hgACxQtYSlPEXyPA3_dxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Я люблю бухать",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGqGhLO-_GMofGxphoZcWuDx_hSMRNAAJueQACiLNZSh_OXjbY5kwMNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "BDSM",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGqWhLO_D9WWrumiAQixyfG7kfcI3hAAJveQACiLNZSghHsrK7_iqNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Дак Теилс 3",
+            "title": "Лида навсегда",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGqmhLO_F7YyhvRLNtykW280v9pkoyAAJ8hgACxQtYSkEQmtv5nvdpNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGomhLO-dtvG-Rzy5JE1kCqz9APy8YAAI6-jEbiLNZSsXAl2dI6OVAAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Рок звезда должна умереть",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGrGhLO_V36SHCIHuyvClVDYcZdC91AAJ9hgACxQtYSsHgyBriAAEeXzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Новая рок звезда",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGrWhLO_Zj2zNuWMjLuOxu8YDYGfedAAJweQACiLNZSnCF-6EYyW1dNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Лох",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGrmhLO_e7V2iTSqvf3ebedKs3YUYEAAJxeQACiLNZSkPJUWjCp_zxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Эго",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGr2hLO_ha4MvPfP_57szjrVaJvpnIAAJyeQACiLNZSpuSkeNR_4zeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Утро",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGsGhLO_zpMyi3vmsQOHMZaxtEHzOEAAJzeQACiLNZSt01BnlVM51sNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Сумасшедшая",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGsWhLO_2Kq0pwmSOFHxdwCVzCruZ3AAJ0eQACiLNZShpWBdMo5lULNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Цветы",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGsmhLO_6iFHE1VsLPnZjYIaqxFyp6AAJ1eQACiLNZSpTnIuFKS1WONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Медляк",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGs2hLO__NBGcuusrC1_A0sQrE9ItIAAJ2eQACiLNZSokO8vAXveERNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Новая рок звезда",
+            "title": "Набухаюсь накурюсь",
+            "performer": "Lida",
+            "genre": "Dance, Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGtGhLPAABwMtlN36WoPkX5iYlHXK_rgACd3kAAoizWUpjKgzvLqpkDDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGq2hLO_SrpO32NonfyLdGEA2RSrZxAAI7-jEbiLNZSu_bkuVx372LAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Али Ули",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGt2hLPCa4svJqM_rpFs2D4uiazUEzAAJ6eQACiLNZSgfi4O8C1o1xNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Герда",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGuGhLPCfbqbcAAYNO_s6_aiXDJZ2NnwACe3kAAoizWUqT7howFCK1GzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Евробит",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGuWhLPCiMs3MzoRBizjndBfugIH1-AAJ8eQACiLNZSjOy1Ra7mhaUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Слёзки",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGumhLPCmJkcPmfG47udur-iZEtlnWAAJ9eQACiLNZSi2RK_F8846wNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Танцуй, комсомолка",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGu2hLPCqZMuodcf_DG1z5jwTSRG9XAAJ-eQACiLNZSrk1Or36payFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Поп Стар",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGvGhLPCuIJZ0210DybSpUD8Mad2q2AAJ_eQACiLNZSlKPPRc1QwVlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Панки Хой, Горшок Живой",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGvWhLPCw-VB8rUlLxwjYeBHGBXiX4AAKAeQACiLNZSi3WcQLuqtimNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Музло из гаражей",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGvmhLPC2LBsVU4LydxPZ5Xvi1dX5oAAKBeQACiLNZSglAFHWhtRw3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Я хочу быть Д",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGv2hLPDE1ZpEpUejMv8kegOmrdxBIAAKCeQACiLNZSpDu-qiLtREVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Порно пати",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGwWhLPDKv9PaP55rYcAY0vo1oGuLXAAKDeQACiLNZSvRrXcGYxOCDNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Тупая песня для слэма",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGwmhLPDP32yZYPoXtCb_DYq7AwlFyAAKEeQACiLNZSpDT7wmKFWsZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Андерграунд",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGw2hLPDTnasIjdPvzYDqnfj0w_LQrAAKFeQACiLNZSqNTqotz5Ym6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Девочка снюс",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGxGhLPDjOlpSrcU4ag7Cq2JudZbh6AAKGeQACiLNZSh09uN13zeh3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Малышка мусор",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGxWhLPDldNIJm7r6RnEcO4mMhm5vZAAKHeQACiLNZSi9j6A8lHl8aNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "РДР",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGxmhLPDqRkLvCw1tSlwFhFWTwx5SHAAKIeQACiLNZSiCNbQu29-mZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Юность",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGx2hLPDs1x4kUX_99wZMljBQas4fSAAKJeQACiLNZSvvl7erd_FQHNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Юность 2020",
+            "title": "Молодёжная (Ночь)",
+            "performer": "Lida",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGyGhLPDyfcGBmM91RvZtIXCJuJkPTAAKKeQACiLNZSmH2QI3bLJlgNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGwGhLPDL7FC6rVbYSoUQFpWjZ3FUfAAI9-jEbiLNZSsvZZCEnkW2ZAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Ира",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGymhLPGMp6XEuye15imPDu57lfW9CAAKMeQACiLNZSp4YFtTOdqf8NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-10-06"
+        },
+        {
+            "album": "Синглы",
+            "title": "Одинокими",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGy2hLPGV0sfzhpMoNHD7BxKw4ElbyAAKNeQACiLNZSqWEUoArpQhwNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-09-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "Ненавидишь улыбаться",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGzGhLPGZUPOhSDANl7bxWbA4kK-QIAAKOeQACiLNZSnJ8tfrwot2PNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-08-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "На-на-на",
+            "performer": "Lida",
+            "genre": "Alternative, Indie Pop, Pop, Indie Pop/Folk",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGzWhLPGeDtT-ZDK3iNF9we5pemM32AAKPeQACiLNZStHesFyFwiuTNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-07-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "Lap dance",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGzmhLPGgsEmOb_K42PrEmBxHPA9XfAAKQeQACiLNZSilv8C5gA1alNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-04-21"
+        },
+        {
+            "album": "Синглы",
+            "title": "ЗАКРОЙ ГЛАЗА",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIGz2hLPGj56WhoiWbMsfAlNxf9Kw_7AAKReQACiLNZSlP_qFofIjssNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2025-05-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Дубай",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG0GhLPGlT1i8TqFW12Ia4op3YmZ4mAAKSeQACiLNZSoYmbr8hx0eiNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2025-04-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "Я тебе соврал",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG0WhLPGpoO9T7K_1rRMdIg2ScdyLUAAKTeQACiLNZSo6KwrQ4oemcNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2025-03-21"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не тусоваться",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG0mhLPGtUTMFpc2t4RgMTFb4R9W2sAAKUeQACiLNZShMfegMfXkIGNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024-12-06"
+        },
+        {
+            "album": "Синглы",
+            "title": "Фото со звездой",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG02hLPG9uRRLE8QKtczRx5C5leKxgAAKVeQACiLNZSjnFCS1vjAJpNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024-10-11"
+        },
+        {
+            "album": "Синглы",
+            "title": "ТРЯСИ",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG1GhLPHDC-bGkdolCFuaDMhAB9gFOAAKWeQACiLNZSs-nOebJs-uHNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024"
+        },
+        {
+            "album": "Синглы",
+            "title": "ЛАДА ТУРБО СПЕЙС",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG1WhLPHH-DDwfGmFJ83yZRDIbF03qAAKXeQACiLNZSj7NWMaL4V4bNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024-05-03"
+        },
+        {
+            "album": "Синглы",
+            "title": "ЧСВ",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG1mhLPHL4jOarR9ad3kRhClJUwfadAAKYeQACiLNZShsbVzzgNY9iNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024-02-02"
+        },
+        {
+            "album": "Синглы",
+            "title": "Секс",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG12hLPHM7HkyG8oihrQ5O6xDKVcc5AAKZeQACiLNZSsJg5l88c-UMNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2023-10-27"
+        },
+        {
+            "album": "Синглы",
+            "title": "<3",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG2GhLPHd9xAyChVE_dnFUp3SkD68LAAKaeQACiLNZStpeecSU0Qg9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2022-07-01"
+        },
+        {
+            "album": "Синглы",
+            "title": "Район",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG2WhLPHjliF_J4EQt5zcYFp_v1VvwAAKbeQACiLNZSjBDxiukEsJmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2022-06-03"
+        },
+        {
+            "album": "Синглы",
+            "title": "Одуванчики",
+            "performer": "Lida",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG2mhLPHkOGAjQptQVcwMJ_Un5vN66AAKDhgACxQtYSg0Z4_Z_cvmsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-10-01"
+        },
+        {
+            "album": "Синглы",
+            "title": "AMG",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG22hLPHk4Q51QxO8Iq_Q8_FlWKxpqAAKceQACiLNZSrxxj7A87IStNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-08-20"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не вернёшься",
+            "performer": "Lida",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG3GhLPHoDsf8PB5TXdVytyRg1XSuBAAKdeQACiLNZSpaTnHbvKP7iNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-07-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Утомился",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG32hLPMFFNBC3DIjBR3BbzSkGq5dhAAKieQACiLNZSp06mxL-aMURNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2022-04-08"
+        },
+        {
+            "album": "Синглы",
+            "title": "Я собираюсь тебя трахнуть",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG4GhLPMFUwat7qIKUwFw_zh6a3CWoAAKjeQACiLNZSm1e9PnZXwwGNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2022-02-11"
+        },
+        {
+            "album": "Синглы",
+            "title": "Убитый",
+            "performer": "Lida",
+            "genre": "Dance",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG4WhLPMO-hi4VubWp4QwQ3HY4YntiAAKkeQACiLNZSoODcqhsqM-GNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-10-15"
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "title": "Нихао",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG42hLPMQg0R5gyH8nKyxyiI1q6K9xAAKneQACiLNZSqSIWX4w2xKSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "title": "Смокиш",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG5GhLPMWGeaiJjFah6QaqliMbgLcyAAKFhgACxQtYSohz_6xwN_IdNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "title": "Париж",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG5WhLPMY29M233e-tdKFZ3CWoa27SAAKoeQACiLNZSoqWaeVvDJD4NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "title": "Хата 18+",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG5mhLPMfBakEYIJSolnIexcA0fRgOAAKpeQACiLNZSuR-FexTPkbJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Привет, это последнее ЕР перед фитом с Моргенштерном",
+            "title": "Влюблино",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG52hLPMuWJxMB8laIGctcmq6nXKVGAAKqeQACiLNZSjkmODr72kCNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG4mhLPMMZOZrDFUkPPGWuuppkv7diAAJE-jEbiLNZSvu2KV1XXGG4AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Горячая сука",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG6WhLPMyoIK7jzclF6LzJ2Dojs8E6AAKreQACiLNZSvlYFpm_x3ZCNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Шерстяное худи",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG6mhLPM0vpnIjJ2O_pM9s2f7sDDuRAAKseQACiLNZSihtl7m4dSuRNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Фулл лук Prada",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG62hLPM4HVyoh7bVIwetTBbBduXZoAAKGhgACxQtYSnagiRTTwh74NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Свобода или долг",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG7GhLPNLdJnVviEt4cdaWAAGGtZmNJgACrXkAAoizWUpqOUJvVhu09zYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Шерстяное худи",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG7WhLPNMYeXGtiGYoLbQDHNsztf5CAAKueQACiLNZSpHZ_v7LhIrjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Легкий способ бросить долги",
+            "title": "Sugar daddy",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG7mhLPNOEqsBZep5Q7aF0_uM79ftOAAKveQACiLNZSoXgeflyRyAlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG6GhLPMuRuaTnOos8aGVIeNVHAbZiAAJF-jEbiLNZSspLlZLIgUAgAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Мое имя Лида (Intro)",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG8WhLPWQPO4tGW0RPXhJSoCd8GRS_AAK6eQACiLNZSgvWFknAIkdSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Лиза",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG82hLPWXUPCsXLrchXCaQOKTwujBKAAK8eQACiLNZSmRXTDKSqDGWNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "ФЭС",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG9GhLPWYnjaAD-fmH2OyZ4y8KCdsOAAK9eQACiLNZSoEBjQ92EFhYNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Холода",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG9WhLPWajLpC71D9V44dA2hhobuHYAAK-eQACiLNZSruVLHQFHBK8NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Jump! (Стадионная)",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG9mhLPWr7lU2g5XDGB9jVqX2hQPg0AAK_eQACiLNZSlMl-tb9hljMNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Юзай",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG92hLPWsNNtNbesEgGp0IRrLIvW8AA8B5AAKIs1lKOHD5nZkxq082BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Печальная",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG-GhLPWxoCf869M6yARK9ZzPXJF-sAALCeQACiLNZSs8KnCi_1HLFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Любовь 2000",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG-WhLPW0LlCaWaIk83Mw7QmClDDk8AALDeQACiLNZSpjnVPRZOJdxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Одинокий волк",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG-mhLPW75dTWMRyGxUaHCbClLQz77AALEeQACiLNZSgsjnmqYqJVgNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Dirty girls",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG-2hLPW8twSrv8OreqVf7qbKbU2zbAALFeQACiLNZSlnYFAe-fN5qNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Воздух",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG_GhLPXAd5vX6zM6s1MQ7IXqWi6hBAALGeQACiLNZSqCcpMMOXGp6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Alone shuffling",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG_WhLPXGY17fuInm7qKWIJoLeXaOwAALHeQACiLNZSqGG2h-usB79NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Иголка",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIG_2hLPXO8FdAIdBerB5kAAcerrS8OCAACyHkAAoizWUrSrMlJGOyfojYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Звездопад",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHAAFoSz13AebVyeCNm4Ux0Y8LrXBCegACyXkAAoizWUpDr1lEg3QHTzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Не грусти покури отпустит",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHAmhLPXgNvv0rhEN4BS0Zgoj2B3lKAALLeQACiLNZSg3r_Lq2AaVzNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Фенилэтиламин",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHA2hLPXn89XRhDIzxRks9GkKv2CjOAALMeQACiLNZSscUbZOsRZsjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Грустный реп",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHBWhLPZ1WQfgjZnUjF58pukK0LaGlAALQeQACiLNZSnbiMTA29PhrNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Повар Николай",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHBmhLPZ0C0OP1TVR9j4178vWVUGLmAALReQACiLNZSmXZKVQqf_u9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Жужжание пчелы",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHB2hLPZ6oZZ7VDNcAAYR0__NIg2T-5wAC0nkAAoizWUroVoPbw1tL0zYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Лекс",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHCGhLPZ-mlxwLkWwsQTN_8r2ZZC2qAALTeQACiLNZSnwf14Lt5z9TNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Выхода нет",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHCWhLPaL4JiqW4VOD5S9-B8_aLmc3AALWeQACiLNZSkwP7i8ZZTt9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Послевкусие виски",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHCmhLPaMpvyR7qIhZtWu4Jr8wN9WQAALXeQACiLNZSkmS-1CxyolJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Жужжание мухи",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHC2hLPaTBsh2ZWmwEnKUQ1HHHwMTAAALYeQACiLNZSpdRUcOKnlIiNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Ralph Lauren",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHDGhLPaaMgOwTbPNKFFx8YlkkDwkNAALZeQACiLNZSjeHcqcMClu_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Поджигай",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHDWhLPaeEDIM59W5yHiPql_deDEVQAALaeQACiLNZSi4Hv-4dXYYKNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Gang Bang",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHDmhLPahXuaIlMu3VSsbh5WSVmKvZAALceQACiLNZStMtiBg8ecUaNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Аспирин",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHD2hLPanZyOK7nkN4F6Hhy_bJx3XLAALdeQACiLNZSsKeLcBPKvkTNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Летняя",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHEGhLPaoBlvuzbYM_J1qjkktjz7xWAALfeQACiLNZSlRMyK3FBGCeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021"
+        },
+        {
+            "album": "Синглы",
+            "title": "Схожу от тебя с ума",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHEWhLPat8Vjy4wbjBMmwPxF0ixKqIAALgeQACiLNZStq9e0roHTtzNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-05-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "пинк",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHEmhLPaykayvrL12qkTOOQ4GjPkLxAALheQACiLNZSjLR-3VBzc6wNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021"
+        },
+        {
+            "album": "Синглы",
+            "title": "TIK TOK RAVE",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHE2hLPbBbi6Ol2x4tjAK83PsuPEeyAALieQACiLNZSjBACHpgBb4cNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2021-02-16"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Ewan!na (Bonus)",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHFGhLPraYgSWRV3YzLtukcD8mJwIRAALueQACiLNZStLIPKGwEyr9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Не пошлая Молли",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHFmhLPssfjqrgeKynl62pDkrvJs1OAAKThgACxQtYSuhwYCyTtTeQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Жабы атаковали планету Земля",
+            "title": "Эмо хардкор",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHF2hLPswDNv9SUWdvPHPtNcKPGUDPAALweQACiLNZSjxyF0Q1M__iNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG_mhLPXJeZl0RRrKavVxFMZDiZ4A-AAIj8zEbxQtYSvDM0NzjC87BAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МОЕ ИМЯ ЛИДА",
+            "title": "Ради бога",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHGGhLPw0_qlYNtD2ZuG2-QN-PlzfgAALzeQACiLNZSoQOVD0f5CChNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIG8GhLPUn2RUnoroB2r-BIAmZfaEtEAAJN-jEbiLNZSuFdws9O8PuIAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не ходи на русский рейв",
+            "performer": "Lida",
+            "genre": "Rock, Hard Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHGWhLQKHy0Y6VegTmgk-FMZE69-PqAAL3eQACiLNZStgK0BVpRVgZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGyWhLPGLZMx7U2YxhHDTd21PjjwNTAAJC-jEbiLNZSpf0vJOuCT6bAQADAgADeQADNgQ",
+            "date": "2024-11-01"
+        },
+        {
+            "album": "Музло из гаражей",
+            "title": "Анапа",
+            "performer": "Lida",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIHGmhLQV0mx9SzKi9T1dunUQAB9XHiMAACpYYAAsULWEov42oitKqXkjYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGtWhLPCM0u6bia7nrfjMjg5a-KysnAAI8-jEbiLNZSgNhiRCW0D8kAQADAgADeQADNgQ"
+        }
+    ]
+}

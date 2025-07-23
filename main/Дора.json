@@ -1,0 +1,583 @@
+{
+    "albums": [
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "genre": "Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ",
+            "date": "2019-01-19"
+        },
+        {
+            "album": "Синглы",
+            "genre": "Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": ""
+        },
+        {
+            "album": "Младшая сестра",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ",
+            "date": "2019-11-08"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE",
+            "date": "2020-12-18"
+        },
+        {
+            "album": "LOVESONGS",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ",
+            "date": "2024-10-18"
+        },
+        {
+            "album": "MISS",
+            "genre": "Unknown Genre",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ",
+            "date": "2022"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "725",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILkWhS8vwitT7cSewzNZErTuUOL7w6AAKXewACz2WZSsARZCxgTSc4NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "хочу быть с тобой",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILkmhS8v2AJuMypKciloNbNF9_BAWbAAKYewACz2WZSoEkuAMAAdFI7jYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "девочка с каре",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILk2hS8v51FwP-n5bVjxXd32MLgN2CAAKZewACz2WZSnbRyk1N5tYzNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "звезда",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILlGhS8v-lapz9M4ES63bWD_2AP0dqAAKaewACz2WZStWDNmuC06B5NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "почему?",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILlWhS8wAB6j8RAAFVZ2touQYS4IgKD30AApt7AALPZZlKvpWY400duN42BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Я НЕ КОММЕРЦИЯ",
+            "title": "little angel",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILlmhS8wFt0UObZuDjmMxHNaQy9C8uAAKcewACz2WZSpyZbfNVoz8ZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILkGhS8vplp-0FAwkMSUrjmbYGKEtoAAJ09DEb5VyZSkAcd9leGe-jAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Без радости в глазах",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILmGhS8wMFXuVwPdL0AAFC4pXvxEgB6gACb3YAAuVcmUrL2-1VLseJkzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-01-19"
+        },
+        {
+            "album": "Синглы",
+            "title": "Мне пусто",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILmWhS8wR9tCWLpcVj1xj0IlEo3HfhAAJwdgAC5VyZSvFG3Ntw_7jANgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-01-19"
+        },
+        {
+            "album": "Синглы",
+            "title": "Папик",
+            "performer": "Дора",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILmmhS8wamrIOrIaFCBk7P9MDy2ZJ1AAJnfgACIr-ZSnZu4SolRhgENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2023-06-09"
+        },
+        {
+            "album": "Синглы",
+            "title": "ЁК",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILm2hS8wdkCCba-aq-USl-Bqd-myX3AAKdewACz2WZSn5XiYg-h57FNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2025-01-31"
+        },
+        {
+            "album": "Синглы",
+            "title": "Куда уходит детство",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILnGhS8wmbuYE_QrN_e8-IpsH1MPszAAKeewACz2WZStfPbHEuKxjZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2021-07-01"
+        },
+        {
+            "album": "Синглы",
+            "title": "Сан Ларан",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILnWhS8woz822RLcWasYPS0iAh8uIXAAJydgAC5VyZSqvIioYP4--JNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2021-10-29"
+        },
+        {
+            "album": "Синглы",
+            "title": "Пошлю его на...",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILnmhS8wwmDpbXtV6eivC_9rMFxUE9AAKfewACz2WZSrMqc8J3e87lNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2020-05-29"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не исправлюсь",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILn2hS8w-dJ-B64rVagYMsnXxX0ZImAAKgewACz2WZSgh7hu-GCrqUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2020-07-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "Разлетаюсь",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILoGhS8xA4IcoTpFIx4jXj7w91F_LrAAKhewACz2WZSqSFzVz3679RNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-03-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "На скейте",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILoWhS8xJSBQ1HqgFYGJnp7GQeBtxEAAKiewACz2WZSh-4ly5I9ODLNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-05-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Я не ругаюсь матом, ч. 1",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILomhS8xW0nla2DjQ0UGDPA5Upgai9AAKjewACz2WZStQjkk8snyLgNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-02-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не игра",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILo2hS8zozBmSDaC75FaAYoc1i29zLAAKlewACz2WZSqTP716AqAMoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2021-01-02"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Дорадура",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILpWhS8zz01DaxOUThNEFlj2EPAldEAAKmewACz2WZSv-a2xp-X7OFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Младшая сестра",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILpmhS8z1BAgvls4BlOLmLLz_iqbpNAAKoewACz2WZSlKvyGsyK60MNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Интернет-свидание",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILp2hS8z4vcfKX_IuP8h0Ts70UD7FEAAJ1dgAC5VyZSljpPPAZx827NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Жулик",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILqGhS80BUtvPLwTgVcVkuQmZ7tn1uAAKpewACz2WZSr08jAVDsw5PNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Задолбал меня игнорить",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILqWhS80J5HAKJ0szodBHC319wigMaAAKqewACz2WZShv9LS8TSibENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Дождик за окном",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILqmhS80eUjJ3v7YQOmU_oKcEYDZCJAAKsewACz2WZSsuguR7E1JPANgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Младшая сестра",
+            "title": "Подружки",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILq2hS81NDAQpK5Zc1I-NKV3vhXF3aAAKtewACz2WZSvg0nt_GjB-bNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Втюрилась",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILrWhS82hKif1UgECjTJamfpyKXPPJAAKwewACz2WZSsL8lji-UG15NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Осень пьяная",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILrmhS83pLFttP30gFDTBZQkfTrL57AAKyewACz2WZSiVbOsrfbig1NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Больше",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILr2hS85KYDfkTtJd74BHKHq9w96r-AAK0ewACz2WZShyqhGr5jl9NNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Если хочешь",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILsWhS88maAAGB63lmXxHpZPNOkCWQoAACtnsAAs9lmUpa_UgYsoqZdTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Где ты сейчас",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILs2hS8839iXpw7X-ceiLLDz9oE_ypAAK4ewACz2WZShdSHSG37HngNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Капли",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILtGhS89QTmWR1QugnPy6SJ08AAU4pLwACuXsAAs9lmUq8flxTseiX-TYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "На обратной стороне земли",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILtWhS89sCEtjwn2GSLzBJKRTvN_0iAAK6ewACz2WZSlO-VnV7K8F9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Дежавю",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILt2hS8-KmsvhL7jETyYtcUiXuVNtEAAK7ewACz2WZSmAFrkaHsIEwNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Зависима",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILuGhS8-jygQParBlAmvHnAwocj2jmAAK8ewACz2WZSiyCaL3vWJJENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Кошки на сердце",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILuWhS8-7gX15pPVtFOjF_xEhZdcGfAAK9ewACz2WZSr_RoROLx4NNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Luv u",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILumhS8_RuKsLYnjQ4drfcgaaJVXsZAAK-ewACz2WZSuXUOjfnz4EZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Самолёты-поезда",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILu2hS8_pIueePLrH6S5f9xa_M0TnhAAK_ewACz2WZSiXz2NwqN3ACNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "NIGHTLIFE",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILvGhS8_-PyYbRST3XZRtGupgQoZJWAALAewACz2WZSqKLpTS76tiiNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Прощай",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILvWhS9ATxobTXplfJQ2a-wV53E1caAALBewACz2WZSh_pIrVxDESGNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Реки на щеках",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILvmhS9AkkfKkN5tkjPgq8MWxzq2ikAAKFdgAC5VyZSlIZJ2u8I5SjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Лучше тебя",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILv2hS9A5OclGFrDrKDSIqI_xw2GYEAALCewACz2WZSgAB76vjF6dsTjYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Танго в Париже",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILwGhS9BN9niwtWMou2R9Lxh7wyY6LAALDewACz2WZSmerRXiZJoQvNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Hot Girls Club",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILwWhS9BhreeRJ55jBMRGZ4e0xHtznAALFewACz2WZSiLoyuN1zeXQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Пустые слова",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILwmhS9B4_2TIh7HpVWysf7bFmLYnXAALGewACz2WZSlLo9DB2t3-3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Caprice",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILw2hS9CNPrUJ_NDt1ShgZOcOVqY__AALHewACz2WZSuXTFCD9qRQhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "ASTI",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILxGhS9CoTHeCA3-u67JLBS2HS2v3yAALIewACz2WZSgk-E5g535FwNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Моя одежда ещё пахнет тобой",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILxWhS9DFRO9hPc9JwxiYuY6tPGHumAALJewACz2WZSpia72wIDevRNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Простить себя",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILxmhS9DeOVMpYsZhwmIJthPGzmu0IAALKewACz2WZSmWWHrPNFh2FNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Останься",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILx2hS9D64x4n4MO68DrsklhGX3auKAALLewACz2WZSs9fxSRfHio7NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "LOVESONGS",
+            "title": "Высоко",
+            "performer": "Дора",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILyGhS9ER3CBeSPTysilGhXleD-Rh-AALNewACz2WZSh78cVIU8GtoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILtmhS892Q295K9Jgd-WJDSlZkWO1wAAJr-jEbz2WZSvCJtR4vKTVKAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Я всегда буду рядом",
+            "performer": "Дора",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILyWhS9GBv-y-R-ETdTBN6MsSajxnZAALPewACz2WZSq5bfu2HJtf7NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILl2hS8wIC5zBpf16dc6H-45ZOWLlaAAJl-jEbz2WZStxYWb6ggqtzAQADAgADeQADNgQ",
+            "date": "2019-01-19"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Быть с тобой",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILymhS9GgjTmJKOZJ5SazrmBowr7dcAALQewACz2WZSg-rMrWyOibcNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Боже, храни кьют-рок",
+            "title": "Кьют-рок",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILy2hS9G_Ge9oqkZ67V9OfqhCjy04sAALRewACz2WZSo5Jqx0DhCBSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "MISS",
+            "title": "Засыпать",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILzWhS9dhfctXq-Y_LQhMU9DMN6S9YAALmewACz2WZSp4g3TUKVjd8NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Loverboy",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILzmhS9dxojLTsWafbvHp9GsBhMWzkAALnewACz2WZSk2dHiTtV6lvNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Маленькая леди",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAILz2hS9eDDXjalcddqzuNyjJ8bdKELAALoewACz2WZSnXD6757mE03NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Стоп-слово",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL0GhS9eUl1qk2y5Xkdr81xDevAc-FAALpewACz2WZSuevtoSzZ7AJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Мама",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL0WhS9enrf8jAt-0leW8g-vehjMjdAALqewACz2WZSpSTa5AGLic6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Бриллианты",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL0mhS9ezKPt7Lnq1ObrKhGSBu2iGjAALrewACz2WZSrUblgxLx3i-NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Нет тебя",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL02hS9fFz9o0xzU7BYfFhs2M467pNAALsewACz2WZShZjIQxgQRMdNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "La bohème",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL1GhS9faHRuVmEsvJWo5MBcsLGxRDAALtewACz2WZSlpG5RAEhKMNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Заставь",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL1WhS9fpKXKGhbPUSPahI-Ao7gVr1AALuewACz2WZSmzi0p5F6IShNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Автопилот",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL1mhS9f_H3LI234KvVmootgnNAsT2AALvewACz2WZSm-bTJ063xaXNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Розовые волосы",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL12hS9gMHkRXAOg0h88Y6Fv30nbasAALwewACz2WZSgoYTJKaxh7LNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Я боюсь людей",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL2GhS9geXtMfe4YKeD4G3EtZQwbAQAALxewACz2WZStkeKdLUfDMZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        },
+        {
+            "album": "MISS",
+            "title": "Барбисайз",
+            "performer": "Дора",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIL2WhS9gtl_9Oso0jLeO2mo_W17bNbAAKfdgAC5VyZSi1o4ulzQ71ENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAILzGhS9dGnYioYgYrNSt3DvAoX11NpAAKB-jEbz2WZSjrDJIT2BdPYAQADAgADeAADNgQ"
+        }
+    ]
+}

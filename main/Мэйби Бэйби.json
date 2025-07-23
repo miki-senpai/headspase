@@ -1,0 +1,465 @@
+{
+    "albums": [
+        {
+            "album": "Синглы",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": ""
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ",
+            "date": "2022-08-19"
+        },
+        {
+            "album": "SHAWTY",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ",
+            "date": "2023-11-17"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "Синглы",
+            "title": "Oops!",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITvmhWpwovXhCAo0CAoEW0jUGmMEYAA7p2AAJUtblKMZec_IVh6A82BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2025-02-07"
+        },
+        {
+            "album": "Синглы",
+            "title": "Lady Slay",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITv2hWpxEluShV7t4ovS__Zr6T68f1AAK7dgACVLW5SiZ9cds_1eORNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2025-03-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "КОРОВКА",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITwGhWpxn8A-js-PA__k54mWUV1MEhAAK8dgACVLW5SiaPJ64MSMLpNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-05-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Popstars",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITwmhWpz3L6MIf9Ds1_GuRoCAt0RscAAJQcwACh-G5SiMV_uB3WHLCNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-08-02"
+        },
+        {
+            "album": "Синглы",
+            "title": "SO HOT",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITw2hWp0XFbzxzdOSQUQ7ssnhXb_ztAALCdgACVLW5Sq2wpwoinhWCNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-08-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Принцесса Диана (Orchestra performance)",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITxGhWp1zvSz0zyVo08nIVrxEypuicAALEdgACVLW5SlkQj5lyujsJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-04-24"
+        },
+        {
+            "album": "Синглы",
+            "title": "Боль",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITxWhWp2Utd3u9s-pVlT5RpsNb4V8EAALFdgACVLW5SoXted3la-sWNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2022-05-27"
+        },
+        {
+            "album": "Синглы",
+            "title": "Мотылёк",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITx2hWp2we0pcK5mRsHwFH_hXQaRzVAALHdgACVLW5SrIsM8U0ZTmfNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2022-08-26"
+        },
+        {
+            "album": "Синглы",
+            "title": "BABYBARS",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITyGhWp3gesfsT16moT6Y8L4wrzfuUAALJdgACVLW5SnX0gnhe0D5MNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2023-05-19"
+        },
+        {
+            "album": "Синглы",
+            "title": "Барби из трущоб",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITyWhWp4Hv-OLx6CK41jWHVsaSCh3jAALKdgACVLW5SmcRycb2qqOoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2023-08-04"
+        },
+        {
+            "album": "Синглы",
+            "title": "BABYBARS 2",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITymhWp4qbRPtsy-vsptJD5rbW8hhJAALMdgACVLW5Sm1YcnuUM3G4NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2023-09-22"
+        },
+        {
+            "album": "Синглы",
+            "title": "Heart8reak",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITy2hWp5UBgQUsGWkxqu6OcMScYhGDAALNdgACVLW5SlZ04E2k4Ql0NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-04-19"
+        },
+        {
+            "album": "Синглы",
+            "title": "Ахегао",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITzWhWp7tvRqDGQ1LHvcHXE0c3C2KlAALQdgACVLW5So2Kh1f9ARHFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2020-07-30"
+        },
+        {
+            "album": "Синглы",
+            "title": "Бла Бла",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITzmhWp88lUrYQmDHonPJcHhEy1oaTAALSdgACVLW5SnYadvw-bvNxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2020-11-18"
+        },
+        {
+            "album": "Синглы",
+            "title": "Пока молодой",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITz2hWp-dY24LGkaARedFtOIIIbPNGAAJadwAC_9CxSvPQKJslQO1CNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2020-12-02"
+        },
+        {
+            "album": "Синглы",
+            "title": "Планета М",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT0GhWp_AHK6Eh56gXQo0qUb4nj1hvAALedgACVLW5Smp2BZuzJ-drNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2021-02-16"
+        },
+        {
+            "album": "Синглы",
+            "title": "Лаллипап",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT0mhWqAZ8oYcAAeUpLgoYDpqkj6dc_gAC4XYAAlS1uUr-gvwftwzQtDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2021-07-15"
+        },
+        {
+            "album": "Синглы",
+            "title": "Барбисайз",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT02hWqBDo8Xoss-XsdECrKVLWrP9IAAJddwAC_9CxSpWD2yWoVNKkNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2021-12-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "Кардиограмма",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT1GhWqBkPmPHvisH9vpgJMJBuwv_fAALldgACVLW5StCzYUHSq0uTNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2022-05-07"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "GO GO GIRL",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT12hWqFw3wd4YND8tbUhv5UFipqnXAALrdgACVLW5SuHvdZ-KTkUjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Суперпоросенок",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT2WhWqGP9m91A_bEyBXZh99I5qB7JAALtdgACVLW5SlMzuoP8sfQgNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Maybe f*cking baby!",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT2mhWqGqBx5ECrFuHUwhE4LxPVEkxAALvdgACVLW5Smni0nSGEa1yNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Высшая школа фей",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT22hWqHTyhhdcPbGb6dGvU2BCrxOVAALwdgACVLW5Su2BIzJHov8rNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Цок-Цок",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT3GhWqHxx4gJUwAIVIP1g3dExRtvfAALxdgACVLW5SjWFOeidYFnKNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Братик",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT3WhWqIVoDAE8_bP1Lmb2kP9EL9Y0AAJocwACh-G5SgRJsSicOyABNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Похрюкай",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT3mhWqI9EmEisj7xlMfM7HPk1J_sYAALydgACVLW5SvX8MEhnMuZmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Интимки",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT32hWqJ0N6crjOeeABnVwvHMTI6slAALzdgACVLW5Sk2whev1HmBNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "sH1pu4Ka!",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT4GhWqKX_sgrtkDFGxn7s3k5TjJ89AAL0dgACVLW5SurWTNxHbO1YNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Cosmopolitan love",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT4WhWqK05YsJ9P445KecsFiYQ1QK9AAL1dgACVLW5SszflDjGJ4wUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Лоликон",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT4mhWqLmVZWkI731tXRDwsY__wQrSAAL2dgACVLW5StGrf6CVelmNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "IDOL",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT42hWqMHt4jE2VIiISZTyXvAw5k4iAAL4dgACVLW5SqntQ-lFJaa1NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Такая любовь",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT5GhWqMxSQEXecQOcoeG_t9mz71SkAAL6dgACVLW5Sk3YlmvpjcvfNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "DURAGA",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT5mhWqNXQAzzh74uPZzDzW7FH72urAAL8dgACVLW5SqFSydd0DYcxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Hello, My Name Is Baby",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT52hWqN3MS85v2KugOm16GLBa3KgjAAL9dgACVLW5SmXmzvde4rK-NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "GOLDA",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT6GhWqOQafn-ohw_jhKOfDx3f6uHlAAL-dgACVLW5SvDEZPzvUk_fNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "BABY vs. WORLD",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT6mhWqQnA78xhZ7EWeQVYM47iQO9fAAN3AAJUtblKovUQyD-T4k82BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Где Твои Манеры?",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT62hWqRD5lKuumkTKHQKxp_7WZrHoAAIBdwACVLW5SnPN63WkNJtrNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Забери меня ночью",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT7GhWqRrS9VoM5HGL4dKPom96g026AAICdwACVLW5StZz8sGGesBENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "ЗАЙКА",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT7mhWqSMmUkw09RQnvfPF21kygPXjAAIEdwACVLW5ShY27oKtl0oINgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Ice Baby",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT72hWqSv0cEwxtbtChPb-16QPm_WNAAIFdwACVLW5Sv91wrNiKHIAATYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Принцесса Диана",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT8GhWqTIItJwS8xx7se_i7_b-gwdRAAIIdwACVLW5Shgm4CSeKcA3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Клуб",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT8WhWqT6PRd4e4M4ST2ZuCCcMpw6nAAIKdwACVLW5SvZYL0anNhfjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2025-04-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "Hit Em Up",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT8mhWqT-2w0ETqWsIgfceP0GdHMdnAAILdwACVLW5SokdWbdIlncoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-10-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "BABYBARS 3",
+            "performer": "Мэйби Бэйби",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT82hWqT9RCa9Oh1WWnjQa2yfopT1DAAIMdwACVLW5SjXR0liKmWXBNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-06-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "ON TOP",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT9GhWqUGnEKUOlQABkGq243VR5ZngjgACDXcAAlS1uUpS9FFzF5D6CDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2024-08-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "Не исправлюсь",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT9WhWqUL03hSz6Mtr9ZEp1FPv7y3oAAIOdwACVLW5Sq2vUBbV00sLNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2020-07-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "Банда-Пропаганда",
+            "performer": "Мэйби Бэйби",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT9mhWqUXH8rRkXWvrmxIkBPMctzJHAAIPdwACVLW5Sv4-9U_azp7kNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITu2hWpuPUozCBPdDM0NurnLm0dIuwAAJL7zEbVLW5Su4AAaI8DmqVnAEAAwIAA3kAAzYE",
+            "date": "2021-06-18"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Мэйбилэнд",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT92hWqUcWkIIJMxY6DM2mdcPCLQUBAAIQdwACVLW5SuvqlBbgZRmxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Nya-Nya-Nya ^ω^",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT-GhWqUhw0nxC-wMoZoFMtaPebstoAAIRdwACVLW5StiOvF-I9kJHNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "МЭЙБИЛЭНД",
+            "title": "Дакимакура",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT-WhWqUkkN_asbTh7W0v29ByI0oOHAAISdwACVLW5SuteyqQ23wABZTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT1WhWqBxo7FfYlC6XQ7dVirJm79DbAAJV7zEbVLW5SsTgGC9V67MyAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Вивальди",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT-mhWqUoGbK_-S3J2ccQ4abn_no_eAAITdwACVLW5SjZYihfELAGkNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        },
+        {
+            "album": "SHAWTY",
+            "title": "Shimmy Shimmy Ya!",
+            "performer": "Мэйби Бэйби",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIT-2hWqUvfRpWqhfWIZaJrBhlxJzusAAIUdwACVLW5SnGtZ9YwgvV3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIT5WhWqM54koulXLjqzxi_CtPn0Ed3AAJa7zEbVLW5SotsrRbM7qqcAQADAgADeQADNgQ"
+        }
+    ]
+}

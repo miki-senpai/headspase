@@ -1,0 +1,1138 @@
+{
+    "albums": [
+        {
+            "album": "Синглы",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+            "date": ""
+        },
+        {
+            "album": "Break These Chains",
+            "genre": "Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITImhWn3IV3oaGfa2s3tjvCtCIDqyvAAIl7zEbVLW5Sq-jt_BiIJ8qAQADAgADeQADNgQ",
+            "date": "2025-05-16"
+        },
+        {
+            "album": "Peep",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ",
+            "date": "1996-04-29"
+        },
+        {
+            "album": "Playboys",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ",
+            "date": "1996-04-29"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ",
+            "date": "1996-04-29"
+        },
+        {
+            "album": "Into",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ",
+            "date": "2001-01-01"
+        },
+        {
+            "album": "Dead Letters",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ",
+            "date": "2003-03-17"
+        },
+        {
+            "album": "Hide from the Sun",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ",
+            "date": "2005-09-12"
+        },
+        {
+            "album": "Black Roses",
+            "genre": "Pop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA",
+            "date": "2008-09-22"
+        },
+        {
+            "album": "The Rasmus",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ",
+            "date": "2012-04-18"
+        },
+        {
+            "album": "Dark Matters",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ",
+            "date": "2017-10-06"
+        },
+        {
+            "album": "Rise",
+            "genre": "Pop, Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ",
+            "date": "2022-09-23"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "Синглы",
+            "title": "Bones",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITIGhWn2pUifv-YtKFRQoS8r8-MyvOAALUdQACVLW5SlsBvbqK_rD3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+            "date": "2021-05-14"
+        },
+        {
+            "album": "Синглы",
+            "title": "October & April",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITIWhWn3GdGUz-LAXr_2NcV41wiEaPAALVdQACVLW5SkHZeE0eF8VjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+            "date": "2009-11-09"
+        },
+        {
+            "album": "Break These Chains",
+            "title": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
+            "performer": "The Rasmus",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITI2hWn3mXJDJEgHUkF0kp2wneeAfmAALWdQACVLW5SnCQ1WG9508AATYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITImhWn3IV3oaGfa2s3tjvCtCIDqyvAAIl7zEbVLW5Sq-jt_BiIJ8qAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Break These Chains",
+            "title": "Rest In Pieces",
+            "performer": "The Rasmus",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITJGhWn3_WUHYFjem7SxlJRhsmjOrFAAJCcgACh-G5Sr6OHqGAe9ZeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITImhWn3IV3oaGfa2s3tjvCtCIDqyvAAIl7zEbVLW5Sq-jt_BiIJ8qAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Break These Chains",
+            "title": "Creatures of Chaos",
+            "performer": "The Rasmus",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITJWhWn4SSzw8xJVeUakLHQ4XZRd4XAAJDcgACh-G5SghuWFqUBCw1NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITImhWn3IV3oaGfa2s3tjvCtCIDqyvAAIl7zEbVLW5Sq-jt_BiIJ8qAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Postman",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITKGhWn4taWJjlcFEqHjx7zyMGE8W8AALYdQACVLW5Spt45VvgRuQuNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Ghostbusters",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITKWhWn5FEC9i8p6EsdZj8n7Bxz1GNAALZdQACVLW5ShGLBhK6wk8ONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Fool",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITKmhWn5eZk-a-Q_188JXSFk2GUnQ1AALadQACVLW5SgKc0rUectyONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Shame",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITK2hWn5ykSFn9Ywz_S9Y8n1D00tW4AALbdQACVLW5Srj5AnemBMhhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "P.S.",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITLGhWn6GOwAF-7Sz-5ybH24bPgqPUAALddQACVLW5Sj6hb0g7pSooNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Outflow",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITLWhWn6Ziop_yprFaT4oQ7aFKT0g5AALedQACVLW5SjiEYzXei8ueNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Funky Jam",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITLmhWn6sSXj55t9CGyTDL5efo4Lr6AALfdQACVLW5Sg2Zl-v5YeTANgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Frog",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITL2hWn68HoZvy4OHbJL7Psdx2Pw95AALgdQACVLW5Su5W4TFuAw8pNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Peep",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITMGhWn7JPvcME0o2yQ9V1uqFURp30AALhdQACVLW5SlEoMgqRKk7mNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Julen är här igen",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITMWhWn7hYqxR3gj3WlQJn3J6b3nK1AALidQACVLW5SvoXnj-04ghTNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Myself",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITMmhWn70JZRQBCCUZNULyOREQ-MRvAALjdQACVLW5Sjn3hLT3y3A0NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Life 705",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITM2hWn8eEpquNO05LR8yK1uHI_EZTAALkdQACVLW5SlzX4k6QF3T0NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Peep",
+            "title": "Small",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITNGhWn883E2xjGAHMVrCOa10DoedHAALldQACVLW5SpaXzQkS6KO2NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITJmhWn4YzC9JOEhYMJssL__2I2hJEAAKN8zEb_9CxSsV_tDZJJz65AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Playboys",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITNmhWn9ZEmIxulbSqArUJkzFUZlzNAALndQACVLW5Stt_xQHUvO3_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Blue",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITN2hWn93DZ0z-Oco79Wdy7vn5mzGFAALodQACVLW5SsgvmFu2nq37NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Sophia",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITOGhWn-P2R408IwQuAsI5jhVcCJ55AALpdQACVLW5SuTSgoE2YSSkNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Ice",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITOWhWn-j0x6hXis11tfptrc88Mgr7AALrdQACVLW5Sjkp0sDoad90NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Wicked Moments",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITOmhWn-0LbFw3RqMSo-8ueYRTiXgtAAJNcgACh-G5SjA7A1iyNEikNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Wellwell",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITO2hWn_L1BKFhipaxseQzzl_-3ii-AALsdQACVLW5SkbqjaL9jz0UNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Jailer",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITPGhWn_dABDy4BcPDD9rP_Wg7hTS4AALtdQACVLW5SlWTXxRpBlVJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Carousel",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITPWhWn_vZpWEi8GnYdA6EUSF4TcGwAALpdgAC_9CxSomVf_pMMdELNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Sold",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITPmhWoALQx0RzlBSOee90vncChZkeAALvdQACVLW5SpswU-RBm1vjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Kola",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITP2hWoAgijD4fF5_gKKfIVHd7h5gBAALwdQACVLW5SgzYjgHIaByKNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Violence",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITQGhWoA9pwvxoYAb-qf_agel4r6pcAALqdgAC_9CxSplZyjJ-25SONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Raggatip",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITQWhWoBV1Ia73Yv3L7EXDcQe4CG9YAALxdQACVLW5SpKIfhpCdac3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Playboys",
+            "title": "Panda",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITQmhWoBo616p0vWPhToJFVB6MoHTQAALzdQACVLW5Sj91m3Z3fZ3JNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITNWhWn9GEB3f6Q90hjtfuxbly16b6AAIn7zEbVLW5SuahnaOIKAqbAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Every Day",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITRGhWoCFRb5dC-l22W2XwLAq-sX0XAAL0dQACVLW5Smsf1TQUqx3WNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Dirty Moose",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITRWhWoCcNe5TifDTcP1dO9oNchvHuAALrdgAC_9CxSusT2C-8qlLoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Swimming with the Kids",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITRmhWoC1FAkdz-OUrA8nlCliFa7SvAAL1dQACVLW5SgkbVNy5D8FXNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Tonight Tonight",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITR2hWoDJViH9vMJjtzfWd20FmL4AUAAL2dQACVLW5Sg46Iki2ThpXNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Man in the Street",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITSGhWoDijtEcjGjXhm0bnmpLUmBS3AAL4dQACVLW5SlafLOkURlS0NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "City of the Dead",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITSWhWoD4sqgABSN-t6uWo1J13LoQzhQAC-XUAAlS1uUpcJ2Vuz2KDUzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Vibe",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITSmhWoEPxjDLdEH23UxgLbCOh9S2bAAL6dQACVLW5SmB0CNyMhbZZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Pa-pa",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITS2hWoEiRzYVbrghA4tBQcQunFlTnAAL7dQACVLW5SlTxCgABUtckaTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Liquid",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITTGhWoE42Z30ptIMGRXZrPKaJWNEpAAL8dQACVLW5ShPCH4JYxq15NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Help Me Sing",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITTWhWoFQHaJe_gApxz8MTN_pIymW5AALsdgAC_9CxSp8X-_yufuhLNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hell Of A Tester",
+            "title": "Tempo",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITTmhWoFsJNcerDWj-R8vtkOkTmDgdAAL9dQACVLW5SvAOD6Ku7zGYNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITQ2hWoBwy9GR-Mdd5bVr6Y_qTegkpAAIr7zEbVLW5SjBvjLxVeRPXAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Madness",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITUGhWoGGg0q-ItnfhkBY_q-C3RG3xAAL-dQACVLW5SjxTKCdTGURQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Bullet",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITUWhWoGhtqS-vwcGHTuyr4Pn0CLrOAAL_dQACVLW5StfwnaTh6F_tNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Chill",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITUmhWoG-azCGUB5ziVlgZcJ8iJlsZAAICdgACVLW5SvhwafNhl4DJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "F-F-F-Falling",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITU2hWoHXbb2RzeOlGFppWXd73ZYZ4AAIEdgACVLW5SpWzFzt0j1pVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Heartbreaker",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITVGhWoHyvhk2T9aZ9E8awQmsWzAABZwACBXYAAlS1uUoDjZUiNmUQiTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Smash",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITVWhWoII_YVStc0vjNTfEC0lolrmJAAIGdgACVLW5StS1A-MqFfNeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Last Waltz",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITV2hWoOYYHAUOHWiCohtZMdLgo9JgAAIOdgACVLW5SmkvzaeeqO5vNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Can't Stop Me",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITWGhWoPI2hl8I0U1MN-ezB5ZDSBbdAAIQdgACVLW5Sghsl0O9x_t9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Days",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITWWhWoQg8FASVGq6fR1nRa6Xsvj5fAAISdgACVLW5SgAB31eZTQyleDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Play Dead",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITW2hWoRpba4KNEiiQ-6tKGaRaS9E_AAIVdgACVLW5SilZi0pN4IQ_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Used to Feel Before",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITXGhWoSSwJVmbFkqooC8b4Xu-XRjuAAIXdgACVLW5SkkXWcynJox6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "First Day of My Life",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITXmhWoSyDRJx-z-KLELRy6ETYLR40AAIYdgACVLW5SrIZoZlDK5I5NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "In the Shadows",
+            "performer": "The Rasmus",
+            "genre": "Pop & Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITX2hWoTMRe2-Sn7UuiOQPCf2-3bs8AAIZdgACVLW5SveqBFUOHbGhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Still Standing",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITYGhWoTqbBqQ7owAB3WfxYn1pFMInKgACG3YAAlS1uUpskDsLaFPBwDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "In My Life",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITYWhWoUD1bOuB1YRVnLb26vkGVPzGAAIcdgACVLW5SosWvkYiUnwmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Time to Burn",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITYmhWoUgeSJYi6lir0P1thENv1UZuAAIddgACVLW5SlmfqUnIPBYUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Guilty",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITY2hWoU1_2nEjFqnxqYKmNKqi2spGAAIedgACVLW5Slv9548I41H3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Not Like the Other Girls",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITZGhWoWZY-sT5xOEPojbIfk7IeA2zAAIfdgACVLW5SoEMlMMr7KnyNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "The One I Love",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITZWhWoXPwOmUUqNA_ujc3-6bYw-OLAAIhdgACVLW5St9Lhx4a5kHUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Funeral Song",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITZmhWoYSq9r12DKzzGDUYHuobdTOTAAIjdgACVLW5SuC4RikkB4x2NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Shot",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITaWhWoY-l8bPrYH-lGevi0Pb2J6hgAAIldgACVLW5SrGtRcSHg0isNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Night After Night (Out of the Shadows)",
+            "performer": "The Rasmus",
+            "genre": "Pop & Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITamhWoZZi0OuWzDJK1fs6d2OFJr0vAAImdgACVLW5Sufk-TicNfF5NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "No Fear",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITa2hWoZ3QkPB7PCnOj8M2wKea0IMtAAIndgACVLW5SnY_J4br1_8XNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Lucifer's Angel",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITbGhWoaSYEGnrwz-t4J5IyflYcZoVAAKRcgACWte4SlxNOgaVijmYNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Last Generation",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITbWhWoau96gyPkGkX9Drry_S8IF3qAAIodgACVLW5Sj8KIDXD6xt1NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Dead Promises",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITbmhWobI24OdhF3GV4joaSLD6j702AAIHdwAC_9CxSnpw9VJxM3etNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Sail Away",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITb2hWobng4wS3uf215Kd-mDu6zOYBAAIpdgACVLW5Sl_27o7ICgYFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Keep Your Heart Broken",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITcGhWocDvAAHK4uKxNdYyh9wB3qRfUAACKnYAAlS1uUq9DkPlEb6K0jYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Heart of Misery",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITcWhWoccUXu489ERmkQx0N4WxT8wuAAIrdgACVLW5StiMe56_AW1iNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Don't Let Go",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITcmhWodBiyxBXtNFyRNlRomcsCTa5AAIsdgACVLW5SmlQPxD7LfQVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Dancer in the Dark",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITc2hWodan38wjD45aqzPX4eWG5MzrAAItdgACVLW5Si5cXUbXre9yNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Open My Eyes",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITdGhWofhIddiVUiGWT8BYF7XzSDczAAIudgACVLW5SozqtY3pIJN2NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Trigger",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITdWhWof_Y75jwW_1O4OhFa3v15hZDAAIwdgACVLW5SlCTfx-9rmKSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Livin' in a World Without You",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITd2hWognnVEhbS-bHax5OyvA9uFV6AAKXcgACWte4SiGSGBImCY4ZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Ten Black Roses",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITeGhWog8zdMBRB8wLU6vqtcfqy0nLAAIydgACVLW5SluaH_DhnYSdNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Ghost of Love",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITeWhWohQ66hWhgSoXc4VUwomtcA5uAAI0dgACVLW5SlD_SCmAxS81NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Justify",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITemhWohsKBZ5noohMKheiO6s46_HXAAI2dgACVLW5SnAeYF0c0brzNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Your Forgiveness",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITe2hWoiFiPK7o4_L1rQ7VPdJhgJ5oAAI3dgACVLW5Svy6EzXf0eUNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Run to You",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITfGhWoif_YpLF0Le8w0BPWKBEeAeTAAI4dgACVLW5Sl-JjesuTXWSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "You Got It Wrong",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITfWhWoi2xrQABsPUT8LSInj0Tto-qTwACOXYAAlS1uUo5WddHjwhXQTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "The Fight",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITfmhWokMscEDNmEREmPPnb0itnj-FAAKMcgACh-G5SqR8ukUFoP_bNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Dangerous Kind",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITgGhWokpd64UsVWW_jityYQ5-bZeKAAI8dgACVLW5Sr95BNSJCcLQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Live Forever",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITgWhWolASSpA0w8a2TI8wWdCWcT7lAAI9dgACVLW5SrS6BQYOK7eVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Track by Track Audio (Bonus)",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITgmhWomGmuUf_d9V5SQbg8lt4h4pFAAI-dgACVLW5Sq5eJAhD5UAVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "I'm a Mess",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIThWhWonZp9k52nUOjKVNF0g24f3XaAAJCdgACVLW5SnYVARVbaeVwNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "It's Your Night",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIThmhWon3M5Cpzok15B05oKflGfsvHAAJEdgACVLW5SnHjeB7wwo1vNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Save Me Once Again",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITh2hWooS8ASMF9fn0Yciks0p25hQfAAJGdgACVLW5Svb2lu0M0xPsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Someone's Gonna Light You Up",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITiGhWopCoQg4kQSSXeXht0OtxwFgwAAJJdgACVLW5So7RviKp0xwUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "End of the Story",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITiWhWopxfLMrSNA0tIz4AAfswvMS4NAACS3YAAlS1uUpNAuDg6FSMLzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "You Don't See Me",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITimhWoq9DyOSA5DAlj7NWAAEDva_ZeQACTHYAAlS1uUpQL1MxEPqppDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Friends Don't Do Like That",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITi2hWotHjccalv0F-w1bDyGjEBAg1AAJNdgACVLW5SmtszShpzBxNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Mysteria",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITjWhWovdhiiThDHLg7tfo5QSeAAH0qwACUXYAAlS1uUqVKCzJK-ZM9DYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Stranger (Felix Zenger Beatbox Remix)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITjmhWowLkATDPXSnOVTAOVSmRNUKrAAJTdgACVLW5SmuVZ2GXHJlaNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Stranger Wanderer (Remix by DJ Tuhat)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITj2hWoy7ss7XCOGiC3drD3nIRwYYFAAJVdgACVLW5SsmXPor27fByNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Save Me Once Again (Piano by Aynsley Green)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITkGhWozi4Mb0E1_k6UsF4_mgV0RLOAAJWdgACVLW5Sn0PJAY8YfGhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Sky (Piano by Aynsley Green)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITkWhWo0amFQ0CSX2KSHbUeYPdFOyiAAJYdgACVLW5SldnL8g9i827NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Paradise",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITk2hWo1GwMs9rWW21rCRyU9uzNaWHAAJZdgACVLW5SpgfmUO9XlsYNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Wonderman",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITlGhWo4ntMm4wys8ks327aQsd3UpTAAJbdgACVLW5SpyxeJlLE8IjNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Crystalline",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITlWhWo9zNdoBNMI4zFZc6b1epISg4AAJidgACVLW5SlfbGPZMV8FcNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Black Days",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITlmhWo-fArofI1dINS6EnkkUwKjtiAAJkdgACVLW5SrU8IK4h5OYVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Silver Night",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITl2hWo_24I50BywtVwvWaVXfb1EtmAAImdwAC_9CxSh6FqfUzU_3GNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Delirium",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITmGhWpBAf1N1gkcv3aNPE-DpJGQAB_gACaXYAAlS1uUr9nX871NUVgzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Supernova (Bonus Track)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITmWhWpEkj_0g9aIHIx7mI7P0WFWxkAAJtdgACVLW5SljVyMR2UF38NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Drum (Bonus Track)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITmmhWpFRBoyEI1SKnKM_nVbj_Z3zlAAJudgACVLW5SnkX_QHo-lzVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Dragons into Dreams",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITm2hWpGA70yXLTcBw2qN2tGn_m2k6AAJxdgACVLW5SiuDzVXQ3NnVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Fireflies",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITnWhWpG4Ui4wTcepoQZ7X1mLJOpqPAAJydgACVLW5SnK4BcsDtYf0NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Rise",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITnmhWpHngnSTPYhOVINHqBDBLYbvhAALMcgACh-G5So-_N0BD6lpGNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Live and Never Die",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITn2hWpJJX-cJ5U7cNNIpEMYyEDu77AAJzdgACVLW5Sh0dqH6vGUgQNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Odyssey",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIToGhWpJtFGwSZVTZzkpwsgh5Q6d3QAAJ2dgACVLW5SjOwrnaIlCf_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Jezebel",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIToWhWpLfYlyzAFpY8hWb8GUn_crlbAAJ4dgACVLW5SitDKKtMKsx9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Endless Horizon",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITomhWpMVVpY6zN32TnFog5xWYQWOSAAJ5dgACVLW5Sve_R6ubde_9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Clouds",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITo2hWpNAvQCT8p8N7YZQpkNev7-UaAAJ6dgACVLW5SlnLCrQTmsNONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Written in Blood",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITpGhWpN27Ptppy519RPlhlIrT8t6CAAJ8dgACVLW5StlJmMwyD57JNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Venomous Moon",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITpmhWpQABZgagHXHVoWn1qpU-ZxzMbgACgHYAAlS1uUoxtWj-Yt2L7jYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+            "date": "2021-09-03"
+        },
+        {
+            "album": "Синглы",
+            "title": "Holy Grail",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITp2hWpQFSD2b_YkyEji9dra4xmW5jAAKBdgACVLW5StowiCu1wnNhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITHmhWny_mC6LtUiE0mzVSsA5b2pTtAALK8TEbh-G5ShuXSZNm6orSAQADAgADeQADNgQ",
+            "date": "2018-09-14"
+        },
+        {
+            "album": "Into",
+            "title": "Someone Else",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITqGhWpQN_mwVRuza8rqV2570YC5ZeAAKCdgACVLW5SiXvtGaell6VNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "Small Town",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITqWhWpQT-ZURXHPOYJ4m2RwlF6XjIAAKDdgACVLW5SgeTRxmdtxfSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Into",
+            "title": "One & Only",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITqmhWpQU00wfQ7EkpGS6mk-bWMyhfAAKEdgACVLW5SslS1LyXafTsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITT2hWoFypEhD-qpoUuf_fwzPwQ8pxAAIs7zEbVLW5SgNaQXUiY1mYAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dead Letters",
+            "title": "Back in the Picture",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITq2hWpQZLp1_Mx4ZJS7bWSBWHfuprAAKFdgACVLW5SvULC0To4NRiNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITXWhWoSX7faJEhslOKrTyA8pnJ1xkAAI07zEbVLW5SvmtQBbhPNnrAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Hide from the Sun",
+            "title": "Immortal",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITrGhWpQe_eXK5iXxGamIzxzom25N6AAKGdgACVLW5Svhv2uQ3B6SDNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITZ2hWoYWncG9z5F-P1LQDPv-wZ5KjAAI27zEbVLW5SuibjAx38HtWAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Black Roses",
+            "title": "Lost and Lonely",
+            "performer": "The Rasmus",
+            "genre": "Pop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITrWhWpQnPp9iKDTdHFPFbDHuQwcUKAAKHdgACVLW5Su8UxYM8-40MNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITdmhWogABlPB8N8qFhOcPwjEWL9Bs3AACOO8xG1S1uUryAAFll6OKyQ8BAAMCAAN5AAM2BA"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Stranger",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITrmhWpQomjzUc3W93MozfLRP8d8QtAAKIdgACVLW5Sj05EObkp8uWNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Sky",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITr2hWpQx4L44LYR3R8peYufAZYl4EAAKLdgACVLW5ShjFrqOnKpjuNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Rasmus",
+            "title": "Somewhere",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITsWhWpQ7HtjM3aDv5GQtEdI7MsCTsAALhcgACWte4SmdILb-eMnSqNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITg2hWomPMFh2GhDSL_qpbOTT6fs_VAAI77zEbVLW5SmXSbskkQnsSAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Something in the Dark",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITsmhWpRDcorsSmTbi1srneF1Z-Ud1AAL5cgACh-G5SvUnS6A5ZE1mNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Nothing",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITs2hWpRGQfrp_H5Xov2wkMTmZaFj9AAKNdgACVLW5Sh1ATAUQpX9qNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Empire",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITtGhWpRNdUhxi5MUfE8Z-_CgruSrCAAKOdgACVLW5Sr6MQzGANa35NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Dark Matters",
+            "title": "Teardrops (Bonus Track)",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITtWhWpRVbNO4MpkPn_viDU7LHPkebAAKPdgACVLW5Sv5pxlJOTAO1NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITkmhWo0dJZHZXw_6w469WdpTKWY9VAAJA7zEbVLW5SmktQHW8Ok1FAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Be Somebody",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITtmhWpRfYma2avslfS7aMzMc1o4Z-AAKQdgACVLW5SkW0YMut7mQPNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Rise",
+            "title": "Evil",
+            "performer": "The Rasmus",
+            "genre": "Pop, Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAITt2hWpRkuBPfzhF9nIfhaJxy_0_zZAAKRdgACVLW5Sosxb6H-oA6sNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAITnGhWpGFZjVSyYmwY9OBsRN_IZvijAAJD7zEbVLW5SuVu2CGnA5yJAQADAgADeQADNgQ"
+        }
+    ]
+}
