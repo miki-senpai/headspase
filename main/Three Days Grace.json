@@ -1,792 +1,746 @@
-{
-    "albums": [
-        {
-            "album": "EXPLOSIONS",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ",
-            "date": "2022"
-        },
-        {
-            "album": "Outsider",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ",
-            "date": "2018"
-        },
-        {
-            "album": "Human",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ",
-            "date": "2015"
-        },
-        {
-            "album": "Transit of Venus",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ",
-            "date": "2012"
-        },
-        {
-            "album": "Life Starts Now",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ",
-            "date": "2009-11-27"
-        },
-        {
-            "album": "One-X",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ",
-            "date": "2006"
-        },
-        {
-            "album": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ",
-            "date": "2003-04-19"
-        }
-    ],
-    "tracks": [
-        {
-            "album": "EXPLOSIONS",
-            "title": "I Am The Weapon",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYCWhdPBfyMSx86OCz5L1qy6tYBruqAALFcgACATbpSo_hHi4K-rFiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "So Called Life",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYCmhdPCt1mfSTGLRdM7GRKrj3GAoSAALHcgACATbpSsHuoxIzL3l9NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Neurotic (feat. Lukas Rossi)",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYDGhdPD6uHN7rwO1hrueE5mC5cCUPAALJcgACATbpSgQy1D6oJREINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "A Scar Is Born",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYDWhdPERWqVG_66OiZdvogfkw2oF4AALKcgACATbpStMFQKVRflvQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "No Tomorrow",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYDmhdPEospaESbBV-po8qul35MtFhAALLcgACATbpSkusoX9Zs9AMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Souvenirs",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYD2hdPFGa6ZeC80-6Olo-aNF9AWKmAALNcgACATbpSgRRM1bQcSMxNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Champion",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYEGhdPFcELWxo6mJMUKnInhbcugGBAALOcgACATbpSvFL5Jh2VPAAATYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Redemption",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYEWhdPF17-KaWDxue0PnxdVPTnRBpAALRcgACATbpSuif6SRqbOqiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Someone To Talk To (feat. Apocalyptica)",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYEmhdPGYK3RviQ7begM3kMZ7yvvPAAALScgACATbpShOquaBGMjYnNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Chain of Abuse",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYE2hdPG2a4phUJndvZPo-BUwTdPzuAALUcgACATbpSj_439PuVyoKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Explosions",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYFGhdPHb9Nqc3KnKQPj0jPgIwXXGRAALVcgACATbpSimR0QYg06plNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Strange Days",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYFmhdPH_hy0rmecXcaWQdauo6Ie15AALWcgACATbpSo9D6tVqLAO8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Right Left Wrong",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYF2hdPIZvKwbfhCQzP-8mS1ixWxX_AALXcgACATbpSmCmVaMw3Uc2NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "I Am An Outsider",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYGGhdPItsrqhztfkgaDvB5VgpLwSJAALYcgACATbpSqb32y2O-GqrNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "The Mountain",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYGWhdPJYC-atI0It23CrcyEpJ0PLxAALZcgACATbpShstKaj8u5XRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Nothing To Lose But You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYGmhdPJvxvmL0VDde7OeGJdtXZ3-AAALacgACATbpSsgghIkncMGKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Infra-Red",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYG2hdPKQDyvZUJFEgsNcei9lS1d8tAALbcgACATbpSomQH9RDitxVNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Me Against You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYHGhdPK4OWgezRCAyH80xr5Ov4MVCAALccgACATbpSjCYybhP-pJoNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Love Me Or Leave Me",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYHWhdPLbaCxJYYKRzHZR-lOeP_FwCAAKHfAACD2HoSufCgBF2BPe2NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "The New Real",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYHmhdPLwfBCdu-hqCJgR2s4Rr05RnAALecgACATbpSqQUYT8IdgplNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Chasing The First Time",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYH2hdPMcxN9zt3hVzAbPNXRVzGra6AALhcgACATbpSgmjDDg_o8DxNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "Villain I'm Not",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYIGhdPM-p9MsL2P2rHSv3_aPQW3JKAALicgACATbpSjqAwiipdXsyNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Outsider",
-            "title": "The Abyss",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYIWhdPNZ0G2Cspy92Tl0y7gy8kRNbAAKJfAACD2HoSpmJGL1IuXR-NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Fallen Angel",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYI2hdPN2wYx0k8DpvFxINunLC6JKfAALjcgACATbpSn_Bou0FMOTdNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Painkiller",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYJGhdPONkmKxF0SxCNaspw9X5Xkf2AAJqfgACEQ_pSiOw41rP-mDpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Human Race",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYJWhdPOpUnqxBgng4HgMvkJU9jd3lAALlcgACATbpSoN_yCJx0hPKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Landmine",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYJmhdPPAI-cSqlF-uA1WmqOECDUYcAALmcgACATbpSoMEl87LT8nINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Tell Me Why",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYJ2hdPPf-Z05Z13j2oKR9_h6ajGJ9AALncgACATbpSkr7vz3Jmw37NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Car Crash",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYKGhdPPxJheaC7eGqREMsQet5NQeTAALpcgACATbpSqemId2TxLVRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "So What",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYKWhdPQNNNbpZxlo6d7Epb8OUXl1_AALrcgACATbpSr8MgV1FmD_RNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "The End Is Not the Answer",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYKmhdPQnw8pab0v4wTx1NiUyRiQzPAALscgACATbpSuxPk4KxczmHNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "One Too Many",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYK2hdPQ_mb7myM311VT2IgiLX2-PEAAKNfAACD2HoSgS8f9e8Cyv5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "Nothing's Fair In Love and War",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYLGhdPRUY6t0cpa9C-mpiSDpD3IvxAALucgACATbpSs73Gbz9hDneNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "I Am Machine",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYLWhdPTd4GyhFe-s9yE-ZkNcyChRcAALycgACATbpSr38p_XdAAHOOjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Chalk Outline",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYL2hdPT88ygZId5OP_NtkXgQ2yf7YAALzcgACATbpStghwzgD6xcENgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Sign Of The Times",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYMGhdPURuj8uNmAW43yRzzf2XVudyAAL0cgACATbpSnJNunMmqQn5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "The High Road",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYMWhdPUoxT3Z5H17Xho1netkJhxIrAAL3cgACATbpStCI-8-PW_knNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Operate",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYMmhdPVR8Cwm1BZabtCcaFrmKHlEQAAL4cgACATbpSi3rh603iJhMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Misery Loves My Company",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYM2hdPVvvqCw7Kn4xWzsz9jcXZxUHAAL7cgACATbpSmQ-fymuA1D_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Anonymous",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYNGhdPWFNq4llQWWWeE6t0ntEeMY6AAL8cgACATbpSiFWr4-tVSWZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Happiness",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYNWhdPWbV9iXUEjTj5d-NOhYttv8HAAL9cgACATbpSnsoF_-WJSFCNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Give In To Me",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYNmhdPW1Lyl9VQraVbbw-yDl-sIweAAIDcwACATbpSunl6FYJydC9NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Give Me a Reason",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYN2hdPXZsdK1Oji-K2opcop4QNgqaAAIEcwACATbpSuKpyx4779cRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Time That Remains",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYOGhdPXyi3uhvUbBzVaj3CYMiNuKcAAIGcwACATbpSuOHPxchhIjUNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Broken Glass",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYOWhdPYPrfgJZU2DS3Q2zP9aKC8t9AAIJcwACATbpSseUwaJL_stQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Expectations",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYO2hdPZWGVqm2_Ei3mLw4USge_OGWAAIMcwACATbpStkUBmOQZaCCNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Last to Know",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYPWhdPaB2x6xgUQEnOyOi46RszrIMAAIPcwACATbpSpXw3SRt_sUrNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Someone Who Cares",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYPmhdPaoLa7JVuxqhDbhmfhHn_rIcAAIQcwACATbpStW2888GQg6tNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Bully",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYP2hdPbE0j01utpl_RqD8uNZqiWIgAAIRcwACATbpSsYM-0QeZ5CUNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Without You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYQGhdPbie8-CJSOKhOucgMcNn1wUUAAIScwACATbpSnqojXAAAXctJTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Goin' Down",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYQWhdPb6FfSqCt-Bc-97kTfniShKzAAITcwACATbpSpyfpS-Ej4EBNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Life Starts Now",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYQmhdPcSO0XIoPTkj22afiNdS2PbqAAKTfAACD2HoSmkGaS6_XBkgNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "I Hate Everything About You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYQ2hdPc9sUxWD4wJ_39H8db56HM2rAAIVcwACATbpSiMSPx-N4gABxjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Just Like You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYRGhdPdYS4Umv20LJL5DRYr2hms_iAAIWcwACATbpSlHYL7KdpBytNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Home",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYRWhdPd8PmKbfT406DNtvDkqpt9mRAAIXcwACATbpSoVBBIDiZMquNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Animal I Have Become",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYRmhdPeiNmtQpEC7Qou2dMKE0-SEJAAIYcwACATbpSo-X-vs7fv_ANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Pain",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYR2hdPe-UpHPeqnHN6_ct36CF1Y4_AAKWfAACD2HoSr3bqDaw_5OINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Never Too Late",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYSGhdPfa2YlrYph7GV7JeW8YE63UmAAIbcwACATbpSvxF6S5RtxxGNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Riot",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYSWhdPfzm1ktv44lXvDmHbpJ9FtKlAAIccwACATbpSp6e0nN2ali1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Bitter Taste",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYSmhdPgNGQLfTh9jVo_aRyzJ5PLlpAAIecwACATbpSnyx-P_X0wdJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Break",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYS2hdPgqng9k9V6WMwxGvDbxg_NamAAIgcwACATbpSgZ2rjN5e4BMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "World so Cold",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYTGhdPhKutmZgad9rUohk5SzxSSDSAAIicwACATbpSpT8eu1jOwnANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "The Good Life",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYTWhdPhhoEi-6aYUryGjiJu5sxy2aAAIkcwACATbpShCs8QJG9OI7NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "Lost in You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYTmhdPiDqxMyMiO6URN4WukeFsunWAAIlcwACATbpSo9GZMXjIinDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Life Starts Now",
-            "title": "No More",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYT2hdPifj9kJF2XMV88rQb73EB3DmAAImcwACATbpSit7Fd5PU5XkNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "It's All Over",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYUWhdPi-SKBtWZ6jfBlmpuvkgTXBkAAIocwACATbpSkZE3wo0RhMYNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Pain",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYUmhdPjW7ujzePL2u9ufUn7W2BRKWAAIpcwACATbpSg60w863NctPNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Animal I Have Become",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYU2hdPjwd5pDl-MEjo5YHVPO9eItiAAIqcwACATbpSmj9pTngwHaRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "On My Own",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYVGhdPkE4DSMGmZdRgdWMXk-r4FT-AAIrcwACATbpSnjJi9Va2ZQoNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Never Too Late",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYVWhdPkiiCYxM1P4BJB8WjScwUa_3AAIscwACATbpSi5Z7lGMrmnENgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Riot",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYVmhdPk5ocWxoE-o1HOvhr7mxUBigAAItcwACATbpSm0Hu4sJZ9ahNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Let It Die",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYV2hdPlXK8QngBKBFOb9xWbncVp1PAAIucwACATbpSs0tynvVMG5lNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Get Out Alive",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYWGhdPlwj3dZLhu_siZ07n-XZ6_2RAAIvcwACATbpSszhq2YG47uGNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Over and Over",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYWWhdPmKyjBltBIVSZkY-RdR4LCmGAAIxcwACATbpSnjrmFrUDus2NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Gone Forever",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYWmhdPmlPNFcccaDhEMyg8dJPXPqYAAIycwACATbpSlj2JqPDksG2NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "One X",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYW2hdPnQGGrDcNctkrxXoFdEnQ4suAAI2cwACATbpSsyTqSIDAcDhNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Running Away (Main Version)",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYXGhdPnxSq5H79eXpCY3bT-8ur1BnAAI3cwACATbpSh3_dA6CSxkPNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "One-X",
-            "title": "Time of Dying",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYXWhdPoQKvA0oAST46-OPyUaAXrT9AAKSfgACEQ_pSlWNJwtgD5hJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Overrated",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYX2hdPpA6nWOoAAGGg2q2AbEOjUmUJQACOnMAAgE26Upa95EFbwKD9TYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Born Like This",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYYGhdPpd9vR9N9op7b1qZ19-aae8MAAI8cwACATbpSrbjGstSlVWJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Just Like You",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYYWhdPqstpBsnx8zhOmFO76iOiqMJAAI9cwACATbpSinTKpaU-mp8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "I Hate Everything About You",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYYmhdPrZw_cgETizY-LQtRBp3jGCYAAI_cwACATbpSrPxWJx_uhMfNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Home",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYY2hdPsGf0Yrd-fPVOqA0wCMGuoo5AAJAcwACATbpShfaBejDNRTDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Scared",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYZGhdPsqAHI0CPQcLfWQmkRZB-nxEAAJBcwACATbpSnH_jrIGKTwaNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Now or Never",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYZWhdPtC4vndWl9F7R6e7NMYIuXzPAAJCcwACATbpSiEbqn2KvVJ2NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Let You Down",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYZmhdPtYfVCTcbRWsl6xk9907zGirAAJDcwACATbpSkz9X7JxSYqQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Drown",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYZ2hdPt2ld_nvhtp3FLhT4bZaRudwAAJFcwACATbpSot3KlneauqbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Wake Up",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYaGhdPubtz5vobhs-7Rlpn9IwViemAAJGcwACATbpSocw5N0xvC7LNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Take Me Under",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYamhdPvCph6nuS6b5WsJPLtWGSl7rAAKpfAACD2HoSt30YzrsX3UiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "EXPLOSIONS",
-            "title": "Lifetime",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYa2hdPvzCW2V2hJ_Ktq2l_egoAAGB7AACSXMAAgE26UqEhKlYp7ONxDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Human",
-            "title": "The Real You",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYbGhdPv02NWjcQ9PrhZSEyyQWLCHEAAJKcwACATbpSlt6vogaPxCaNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Transit of Venus",
-            "title": "Unbreakable Heart",
-            "performer": "Three Days Grace",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYbWhdPv6Yp-YIj-1ZaX2wnzKauAh2AAJLcwACATbpSlfxjtxD1FfKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Three Days Grace",
-            "title": "Burn",
-            "performer": "Three Days Grace",
-            "genre": "Pop, Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIYbmhdPwABEceUo4R6IaJrpMXcUzYKcQACTHMAAgE26UqqM2NX63j00jYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
-        }
-    ]
-}
+[
+    {
+        "album": "EXPLOSIONS",
+        "title": "I Am The Weapon",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYCWhdPBfyMSx86OCz5L1qy6tYBruqAALFcgACATbpSo_hHi4K-rFiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "So Called Life",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYCmhdPCt1mfSTGLRdM7GRKrj3GAoSAALHcgACATbpSsHuoxIzL3l9NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Neurotic (feat. Lukas Rossi)",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYDGhdPD6uHN7rwO1hrueE5mC5cCUPAALJcgACATbpSgQy1D6oJREINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "A Scar Is Born",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYDWhdPERWqVG_66OiZdvogfkw2oF4AALKcgACATbpStMFQKVRflvQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "No Tomorrow",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYDmhdPEospaESbBV-po8qul35MtFhAALLcgACATbpSkusoX9Zs9AMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Souvenirs",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYD2hdPFGa6ZeC80-6Olo-aNF9AWKmAALNcgACATbpSgRRM1bQcSMxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Champion",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYEGhdPFcELWxo6mJMUKnInhbcugGBAALOcgACATbpSvFL5Jh2VPAAATYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Redemption",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYEWhdPF17-KaWDxue0PnxdVPTnRBpAALRcgACATbpSuif6SRqbOqiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Someone To Talk To (feat. Apocalyptica)",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYEmhdPGYK3RviQ7begM3kMZ7yvvPAAALScgACATbpShOquaBGMjYnNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Chain of Abuse",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYE2hdPG2a4phUJndvZPo-BUwTdPzuAALUcgACATbpSj_439PuVyoKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Explosions",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYFGhdPHb9Nqc3KnKQPj0jPgIwXXGRAALVcgACATbpSimR0QYg06plNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Strange Days",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYFmhdPH_hy0rmecXcaWQdauo6Ie15AALWcgACATbpSo9D6tVqLAO8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Right Left Wrong",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYF2hdPIZvKwbfhCQzP-8mS1ixWxX_AALXcgACATbpSmCmVaMw3Uc2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "I Am An Outsider",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYGGhdPItsrqhztfkgaDvB5VgpLwSJAALYcgACATbpSqb32y2O-GqrNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "The Mountain",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYGWhdPJYC-atI0It23CrcyEpJ0PLxAALZcgACATbpShstKaj8u5XRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Nothing To Lose But You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYGmhdPJvxvmL0VDde7OeGJdtXZ3-AAALacgACATbpSsgghIkncMGKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Infra-Red",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYG2hdPKQDyvZUJFEgsNcei9lS1d8tAALbcgACATbpSomQH9RDitxVNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Me Against You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYHGhdPK4OWgezRCAyH80xr5Ov4MVCAALccgACATbpSjCYybhP-pJoNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Love Me Or Leave Me",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYHWhdPLbaCxJYYKRzHZR-lOeP_FwCAAKHfAACD2HoSufCgBF2BPe2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "The New Real",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYHmhdPLwfBCdu-hqCJgR2s4Rr05RnAALecgACATbpSqQUYT8IdgplNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Chasing The First Time",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYH2hdPMcxN9zt3hVzAbPNXRVzGra6AALhcgACATbpSgmjDDg_o8DxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "Villain I'm Not",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYIGhdPM-p9MsL2P2rHSv3_aPQW3JKAALicgACATbpSjqAwiipdXsyNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Outsider",
+        "title": "The Abyss",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYIWhdPNZ0G2Cspy92Tl0y7gy8kRNbAAKJfAACD2HoSpmJGL1IuXR-NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYFWhdPHcf4YnAfNMcJBpAItcMWaCbAAJt7jEbATbpSjU0PyeSHmYHAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Fallen Angel",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYI2hdPN2wYx0k8DpvFxINunLC6JKfAALjcgACATbpSn_Bou0FMOTdNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Painkiller",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYJGhdPONkmKxF0SxCNaspw9X5Xkf2AAJqfgACEQ_pSiOw41rP-mDpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Human Race",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYJWhdPOpUnqxBgng4HgMvkJU9jd3lAALlcgACATbpSoN_yCJx0hPKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Landmine",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYJmhdPPAI-cSqlF-uA1WmqOECDUYcAALmcgACATbpSoMEl87LT8nINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Tell Me Why",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYJ2hdPPf-Z05Z13j2oKR9_h6ajGJ9AALncgACATbpSkr7vz3Jmw37NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Car Crash",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYKGhdPPxJheaC7eGqREMsQet5NQeTAALpcgACATbpSqemId2TxLVRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "So What",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYKWhdPQNNNbpZxlo6d7Epb8OUXl1_AALrcgACATbpSr8MgV1FmD_RNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "The End Is Not the Answer",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYKmhdPQnw8pab0v4wTx1NiUyRiQzPAALscgACATbpSuxPk4KxczmHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "One Too Many",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYK2hdPQ_mb7myM311VT2IgiLX2-PEAAKNfAACD2HoSgS8f9e8Cyv5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "Nothing's Fair In Love and War",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYLGhdPRUY6t0cpa9C-mpiSDpD3IvxAALucgACATbpSs73Gbz9hDneNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "I Am Machine",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYLWhdPTd4GyhFe-s9yE-ZkNcyChRcAALycgACATbpSr38p_XdAAHOOjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Chalk Outline",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYL2hdPT88ygZId5OP_NtkXgQ2yf7YAALzcgACATbpStghwzgD6xcENgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Sign Of The Times",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYMGhdPURuj8uNmAW43yRzzf2XVudyAAL0cgACATbpSnJNunMmqQn5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "The High Road",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYMWhdPUoxT3Z5H17Xho1netkJhxIrAAL3cgACATbpStCI-8-PW_knNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Operate",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYMmhdPVR8Cwm1BZabtCcaFrmKHlEQAAL4cgACATbpSi3rh603iJhMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Misery Loves My Company",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYM2hdPVvvqCw7Kn4xWzsz9jcXZxUHAAL7cgACATbpSmQ-fymuA1D_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Anonymous",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYNGhdPWFNq4llQWWWeE6t0ntEeMY6AAL8cgACATbpSiFWr4-tVSWZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Happiness",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYNWhdPWbV9iXUEjTj5d-NOhYttv8HAAL9cgACATbpSnsoF_-WJSFCNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Give In To Me",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYNmhdPW1Lyl9VQraVbbw-yDl-sIweAAIDcwACATbpSunl6FYJydC9NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Give Me a Reason",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYN2hdPXZsdK1Oji-K2opcop4QNgqaAAIEcwACATbpSuKpyx4779cRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Time That Remains",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYOGhdPXyi3uhvUbBzVaj3CYMiNuKcAAIGcwACATbpSuOHPxchhIjUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Broken Glass",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYOWhdPYPrfgJZU2DS3Q2zP9aKC8t9AAIJcwACATbpSseUwaJL_stQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Expectations",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYO2hdPZWGVqm2_Ei3mLw4USge_OGWAAIMcwACATbpStkUBmOQZaCCNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Last to Know",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYPWhdPaB2x6xgUQEnOyOi46RszrIMAAIPcwACATbpSpXw3SRt_sUrNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Someone Who Cares",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYPmhdPaoLa7JVuxqhDbhmfhHn_rIcAAIQcwACATbpStW2888GQg6tNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Bully",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYP2hdPbE0j01utpl_RqD8uNZqiWIgAAIRcwACATbpSsYM-0QeZ5CUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Without You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYQGhdPbie8-CJSOKhOucgMcNn1wUUAAIScwACATbpSnqojXAAAXctJTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Goin' Down",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYQWhdPb6FfSqCt-Bc-97kTfniShKzAAITcwACATbpSpyfpS-Ej4EBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Life Starts Now",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYQmhdPcSO0XIoPTkj22afiNdS2PbqAAKTfAACD2HoSmkGaS6_XBkgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "I Hate Everything About You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYQ2hdPc9sUxWD4wJ_39H8db56HM2rAAIVcwACATbpSiMSPx-N4gABxjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Just Like You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYRGhdPdYS4Umv20LJL5DRYr2hms_iAAIWcwACATbpSlHYL7KdpBytNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Home",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYRWhdPd8PmKbfT406DNtvDkqpt9mRAAIXcwACATbpSoVBBIDiZMquNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Animal I Have Become",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYRmhdPeiNmtQpEC7Qou2dMKE0-SEJAAIYcwACATbpSo-X-vs7fv_ANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Pain",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYR2hdPe-UpHPeqnHN6_ct36CF1Y4_AAKWfAACD2HoSr3bqDaw_5OINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Never Too Late",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYSGhdPfa2YlrYph7GV7JeW8YE63UmAAIbcwACATbpSvxF6S5RtxxGNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Riot",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYSWhdPfzm1ktv44lXvDmHbpJ9FtKlAAIccwACATbpSp6e0nN2ali1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Bitter Taste",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYSmhdPgNGQLfTh9jVo_aRyzJ5PLlpAAIecwACATbpSnyx-P_X0wdJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Break",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYS2hdPgqng9k9V6WMwxGvDbxg_NamAAIgcwACATbpSgZ2rjN5e4BMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "World so Cold",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYTGhdPhKutmZgad9rUohk5SzxSSDSAAIicwACATbpSpT8eu1jOwnANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "The Good Life",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYTWhdPhhoEi-6aYUryGjiJu5sxy2aAAIkcwACATbpShCs8QJG9OI7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "Lost in You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYTmhdPiDqxMyMiO6URN4WukeFsunWAAIlcwACATbpSo9GZMXjIinDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Life Starts Now",
+        "title": "No More",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYT2hdPifj9kJF2XMV88rQb73EB3DmAAImcwACATbpSit7Fd5PU5XkNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYPGhdPZYY_eVMTnrejX8Kr9a1DFnuAAJ37jEbATbpSj6SZnpuxHaNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "It's All Over",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYUWhdPi-SKBtWZ6jfBlmpuvkgTXBkAAIocwACATbpSkZE3wo0RhMYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Pain",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYUmhdPjW7ujzePL2u9ufUn7W2BRKWAAIpcwACATbpSg60w863NctPNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Animal I Have Become",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYU2hdPjwd5pDl-MEjo5YHVPO9eItiAAIqcwACATbpSmj9pTngwHaRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "On My Own",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYVGhdPkE4DSMGmZdRgdWMXk-r4FT-AAIrcwACATbpSnjJi9Va2ZQoNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Never Too Late",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYVWhdPkiiCYxM1P4BJB8WjScwUa_3AAIscwACATbpSi5Z7lGMrmnENgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Riot",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYVmhdPk5ocWxoE-o1HOvhr7mxUBigAAItcwACATbpSm0Hu4sJZ9ahNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Let It Die",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYV2hdPlXK8QngBKBFOb9xWbncVp1PAAIucwACATbpSs0tynvVMG5lNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Get Out Alive",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYWGhdPlwj3dZLhu_siZ07n-XZ6_2RAAIvcwACATbpSszhq2YG47uGNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Over and Over",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYWWhdPmKyjBltBIVSZkY-RdR4LCmGAAIxcwACATbpSnjrmFrUDus2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Gone Forever",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYWmhdPmlPNFcccaDhEMyg8dJPXPqYAAIycwACATbpSlj2JqPDksG2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "One X",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYW2hdPnQGGrDcNctkrxXoFdEnQ4suAAI2cwACATbpSsyTqSIDAcDhNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Running Away (Main Version)",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYXGhdPnxSq5H79eXpCY3bT-8ur1BnAAI3cwACATbpSh3_dA6CSxkPNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "One-X",
+        "title": "Time of Dying",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYXWhdPoQKvA0oAST46-OPyUaAXrT9AAKSfgACEQ_pSlWNJwtgD5hJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYUGhdPikH56unPWkiqd75_-9Sd-jbAAJ_7jEbATbpSkf7UbycUh6YAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Overrated",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYX2hdPpA6nWOoAAGGg2q2AbEOjUmUJQACOnMAAgE26Upa95EFbwKD9TYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Born Like This",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYYGhdPpd9vR9N9op7b1qZ19-aae8MAAI8cwACATbpSrbjGstSlVWJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Just Like You",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYYWhdPqstpBsnx8zhOmFO76iOiqMJAAI9cwACATbpSinTKpaU-mp8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "I Hate Everything About You",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYYmhdPrZw_cgETizY-LQtRBp3jGCYAAI_cwACATbpSrPxWJx_uhMfNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Home",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYY2hdPsGf0Yrd-fPVOqA0wCMGuoo5AAJAcwACATbpShfaBejDNRTDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Scared",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYZGhdPsqAHI0CPQcLfWQmkRZB-nxEAAJBcwACATbpSnH_jrIGKTwaNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Now or Never",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYZWhdPtC4vndWl9F7R6e7NMYIuXzPAAJCcwACATbpSiEbqn2KvVJ2NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Let You Down",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYZmhdPtYfVCTcbRWsl6xk9907zGirAAJDcwACATbpSkz9X7JxSYqQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Drown",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYZ2hdPt2ld_nvhtp3FLhT4bZaRudwAAJFcwACATbpSot3KlneauqbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Wake Up",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYaGhdPubtz5vobhs-7Rlpn9IwViemAAJGcwACATbpSocw5N0xvC7LNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Take Me Under",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYamhdPvCph6nuS6b5WsJPLtWGSl7rAAKpfAACD2HoSt30YzrsX3UiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "EXPLOSIONS",
+        "title": "Lifetime",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYa2hdPvzCW2V2hJ_Ktq2l_egoAAGB7AACSXMAAgE26UqEhKlYp7ONxDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYCGhdPAQ63ynqt8hh5wr_UKLjM7bTAAJo7jEbATbpSvLz5yASgFOPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Human",
+        "title": "The Real You",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYbGhdPv02NWjcQ9PrhZSEyyQWLCHEAAJKcwACATbpSlt6vogaPxCaNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYImhdPNc126TR0HnVobxSec3z0CVoAAJv7jEbATbpSkKNeIQSklpbAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Transit of Venus",
+        "title": "Unbreakable Heart",
+        "performer": "Three Days Grace",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYbWhdPv6Yp-YIj-1ZaX2wnzKauAh2AAJLcwACATbpSlfxjtxD1FfKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYLmhdPTmDSuBFkrozD2F03agc4UbiAAJi8zEbEQ_pSsbQDjl7ROVwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Three Days Grace",
+        "title": "Burn",
+        "performer": "Three Days Grace",
+        "genre": "Pop, Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIYbmhdPwABEceUo4R6IaJrpMXcUzYKcQACTHMAAgE26UqqM2NX63j00jYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIYXmhdPoexu9o-vTotSHuDSicHLI3oAAKC7jEbATbpSuMvj7PwKdUOAQADAgADeQADNgQ"
+    }
+]

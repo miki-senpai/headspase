@@ -1,803 +1,751 @@
-{
-    "albums": [
-        {
-            "album": "Нежно-розовый",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Лето и одиночество",
-            "genre": "Pop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ",
-            "date": "2021-08-06"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "genre": "Pop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ",
-            "date": "2023-04-14"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "genre": "Pop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE",
-            "date": "2024-04-26"
-        },
-        {
-            "album": "Синглы",
-            "genre": "Rap/Hip Hop, R&B",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": ""
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ",
-            "date": "2021-12-10"
-        },
-        {
-            "album": "моими глазами",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ",
-            "date": "2023-08-18"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ",
-            "date": "2024-09-27"
-        }
-    ],
-    "tracks": [
-        {
-            "album": "Нежно-розовый",
-            "title": "Перегораю",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOg2hTFLjuslgcyfxxZfWSU4SrGqxSAAJsfwACz2WZSsgLpTGektT3NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Нежно-розовый",
-            "title": "Дыши",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOhGhTFL3M-Lk1G63zcC39M98hY2LSAAJtfwACz2WZSm8YkynhkUgBNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Нежно-розовый",
-            "title": "Неправда",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOhWhTFMTp5rE114_INYJ8EaSLqqxwAAJufwACz2WZSkv2d13eRBFQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Нежно-розовый",
-            "title": "Иллюзия / Рисую",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOhmhTFMwuxweFqyP7mm6ER4jNdnpFAAJvfwACz2WZSkQn3p2Kyh5wNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Нежно-розовый",
-            "title": "Следы помады / Ничего не значат",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOh2hTFNJItoaq__qjGrQGLyUFUMxnAAJwfwACz2WZSgb81K8iNIRBNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Лето и одиночество",
-            "title": "Придумай его сам",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOiWhTFNmREGatmnLaei9z_s09_HmrAAJxfwACz2WZShfHbnogah9eNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Лето и одиночество",
-            "title": "Стоишь одна",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOimhTFN5Gq_sKVMTPtmxRYdTzBXEXAAJyfwACz2WZSijUcAcS8109NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Лето и одиночество",
-            "title": "Туман",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOi2hTFONstZNWjcov8lDM0mH8Fxh1AAJzfwACz2WZSqPOtUnkCQJ7NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Лето и одиночество",
-            "title": "Я не твой дневник",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOjGhTFOerf284xqMWbgmINNSNsN_fAAJ0fwACz2WZSrfD98HGRX6VNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Лето и одиночество",
-            "title": "Кто ты такая?",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOjWhTFOy3BAbMIhZwqyr7NLMCMgABKwACdn8AAs9lmUp2oQ1L61aAZTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "title": "у меня внутри",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOj2hTFPPSvLmoivmvkcqC2Q19UFGhAAJ3fwACz2WZSlF0rATSMOikNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "title": "я так скучаю",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOkGhTFPhKAddsjhRjKLC-y7uw_d9cAAJ4fwACz2WZSlhQlfBBA4uHNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "title": "закрыл глаза",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOkWhTFP5evE9dvMw-yRRmJAZUZ1q8AALBeAAC5VyZSvOsxrlpp7DWNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "title": "сломанный",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOkmhTFQPhh28l7PWs0exJRR3vda_yAAJ6fwACz2WZSsq15kF0UHemNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать",
-            "title": "спать",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOk2hTFQehgIc11CoKZ5Ys8kpah2MIAAJ7fwACz2WZShTK-hdZ8g58NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "title": "не могу остаться",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOlWhTFQ0CgdI0k1DQr4Cp8VLrRY4IAAJ8fwACz2WZShKmDGjsJ0QpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "title": "в очередной раз",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOlmhTFRKR_qt5GGTnsyStXOQ7awn9AAJ-fwACz2WZSvL40qBe2HevNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "title": "переписываю",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOl2hTFReNHnpofpx0q2Ktf7iq0dw1AALEeAAC5VyZSh5VnTlnmEYrNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "title": "море",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOmGhTFRw35ypihiB5vbVrGloyz43tAAJ_fwACz2WZSh4bex3Yg8r6NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "тебе жаль это слышать, Ч. 2",
-            "title": "где ты была",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOmWhTFSKqhH-4f46oTvL6zdbYB6dQAAKAfwACz2WZSoT2SllJ8_ziNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "Синглы",
-            "title": "убей меня",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop, R&B",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOm2hTFSmtCoEjm2ueJkGSyuOtTmvWAAKBfwACz2WZSsyxpfDapVA1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-07-24"
-        },
-        {
-            "album": "Синглы",
-            "title": "Не выдыхай",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOnGhTFTCM-c02Q270Y9UsPvbOn6xwAAKCfwACz2WZSrypHLMIrBMcNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-10-07"
-        },
-        {
-            "album": "Синглы",
-            "title": "Мокрая",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOnWhTFTXl8LMn1SV-CBatsN0aVdBWAAKDfwACz2WZStp9eKA0-gObNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-11-03"
-        },
-        {
-            "album": "Синглы",
-            "title": "Не приходи",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOnmhTFTv0yUWUrLkig55aar-Yd1_zAAKEfwACz2WZSveKPPSt2BhTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-12-09"
-        },
-        {
-            "album": "Синглы",
-            "title": "Мёртв внутри",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOn2hTFUAzEQtQDlZV_Jm1PyAcuxMOAAKFfwACz2WZSoPkzTcIwpB5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2021-03-11"
-        },
-        {
-            "album": "Синглы",
-            "title": "Проблема",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOoGhTFUW2HFdAQdDuzZKSsSsiqEzXAAKGfwACz2WZSl-Eu8Nq2TT8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2021-04-07"
-        },
-        {
-            "album": "Синглы",
-            "title": "Февраль",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOoWhTFUofdCf9d-JWObcuknkR54zFAAKHfwACz2WZSoOu2Z0TdtYbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2021-04-14"
-        },
-        {
-            "album": "Синглы",
-            "title": "Пустота",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop, R&B",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOomhTFU63wLwmvEoJQdQDZeJt0b91AAKIfwACz2WZSvfnc4xG5dzNNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2021-04-23"
-        },
-        {
-            "album": "Синглы",
-            "title": "Чувства в окно",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOo2hTFVFjLI2RYjwUuC72rRPAIF4eAAKJfwACz2WZSkvDLVCdfWRZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Твои щёки, мои пальцы",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOpGhTFVVkfpo8Io-WLtXMS5qlZ1OgAAL4gAACIr-ZSuqVJVOGkA2YNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Ночевать в подъезде",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOpWhTFVmawQnpo2fd-iZ1zvEEoWYpAAKKfwACz2WZSt06pkKyHZE4NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Пеплом",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOpmhTFV6jyn4l4eFnSY7cdDkifPiGAAKLfwACz2WZSnrp6jd-GTaeNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Под одеялом",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOp2hTFWKtLnw4YFxfBdkX6SviU_lmAAKMfwACz2WZSriFpFNiVFi7NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Позже",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOqGhTFWfgfUulrqRRo1bI-71x3p8TAAKNfwACz2WZStTFokomAyMsNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Рваная футболка",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOqWhTFWpGDYLlIvxEGr4k0eAliciuAAKOfwACz2WZSs-__t8EIZ6wNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Согрей",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOqmhTFW55NJMIA8VifSPG-sI0IkjSAAKPfwACz2WZSvlxSntj6mNTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Кислород",
-            "performer": "Cold Carti",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOq2hTFXQxE2suC6xD6neXyNKDaJpsAAKQfwACz2WZSig0mbqC5l40NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2020-05-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "доброе утро",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOrGhTFXlJSiSWQDK3OBtVXnTqVRrUAAKRfwACz2WZSnaxxwt2lLjrNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2023-03-31"
-        },
-        {
-            "album": "Синглы",
-            "title": "болезнь",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOrWhTFX56I_r9XP594m8j-_eLUwAB4AACkn8AAs9lmUpy_7D_lpto4TYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2023-03-10"
-        },
-        {
-            "album": "Синглы",
-            "title": "проводами",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOrmhTFYMLoNXi4c2UfrwI8uRgMqtUAAKTfwACz2WZSnGdFeypRCnvNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2023-02-03"
-        },
-        {
-            "album": "Синглы",
-            "title": "если ты забыла как дышать",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOr2hTFYhcEGlFmLXVEMS96PaebBLYAAKUfwACz2WZSoXyZrwr49_RNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-12-09"
-        },
-        {
-            "album": "Синглы",
-            "title": "свет",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOsGhTFY78-yBqMTIW2gMNnzeIMF6TAAIIcAACOAegSjd6eD-iIcKnNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-11-11"
-        },
-        {
-            "album": "Синглы",
-            "title": "человеку нужен человек (Speed up)",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOsWhTFZJfoFiCQKdFadzHls6toLqLAAKVfwACz2WZSrXtxcv3so2QNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-10-28"
-        },
-        {
-            "album": "Синглы",
-            "title": "я сохраню (Speed up)",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOsmhTFZbAj_tGP6rAe6v14uQqF7X6AAKWfwACz2WZSjwVFm7qN-LFNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-10-28"
-        },
-        {
-            "album": "Синглы",
-            "title": "не хочу",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOs2hTFZuar0JjDZ9tnvXMcAdbjFUnAAKXfwACz2WZSnz1mHxbeZopNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-10-14"
-        },
-        {
-            "album": "Синглы",
-            "title": "я сохраню",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOtGhTFaAmBiLKfxjE8M1VD_8MM1RZAAKZfwACz2WZStVlsHmImtZtNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-05-06"
-        },
-        {
-            "album": "Синглы",
-            "title": "человеку нужен человек",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOtWhTFaVLy_ukBfH5WKhVk4T6xgd9AAKafwACz2WZSlIayUTOUa86NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-09-09"
-        },
-        {
-            "album": "Синглы",
-            "title": "не говори мне",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOtmhTFaqSsJCH7GAJQXNbgibHtPYxAAKbfwACz2WZSl06tl8vu-jWNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-05-27"
-        },
-        {
-            "album": "Синглы",
-            "title": "скоро",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOt2hTFa8PzQep3BWLh2dUR-F2szPaAAKcfwACz2WZSj6b41Mp9U3xNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-07-08"
-        },
-        {
-            "album": "Синглы",
-            "title": "Быть частью",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOuGhTFbMtgp-0nqkRpJUwH2vaQoG_AAKdfwACz2WZStIZ0v7Pf6rINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2022-03-18"
-        },
-        {
-            "album": "Синглы",
-            "title": "0.3",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOuWhTFbjj6A78EGMnIyQNDRQh-DrOAAKefwACz2WZSvWTBeB7rvyTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2021-11-26"
-        },
-        {
-            "album": "Синглы",
-            "title": "вряд ли ты вывезешь",
-            "performer": "Cold Carti",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOumhTFb4hrPixLZ4_jncycRZmXfG_AAKffwACz2WZSipQA6rPIaJ0NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2023-12-08"
-        },
-        {
-            "album": "Синглы",
-            "title": "дом",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOu2hTFcNvpmvnBC6339uWLaT_bT1jAAKgfwACz2WZSkoMzAwFwm70NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2023-11-03"
-        },
-        {
-            "album": "Синглы",
-            "title": "больше не будет грустно",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOvGhTFcdvUX40GsFANX2kjTB92OeHAAKhfwACz2WZStLXFEDu6aWANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2025-04-04"
-        },
-        {
-            "album": "Синглы",
-            "title": "дни горят",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOvWhTFc2JlcAnfcAXhT6LTEfSkAVeAAKifwACz2WZSpR-omj3chSHNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2025-04-18"
-        },
-        {
-            "album": "Синглы",
-            "title": "а чё теперь",
-            "performer": "Cold Carti",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOvmhTFdIhL8GStpMVL0stxN9-Gau5AAKjfwACz2WZStos6Q80SX7PNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2024-09-13"
-        },
-        {
-            "album": "Синглы",
-            "title": "всё именно так",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOv2hTFdetpBIoZyzZuaJNsToO6PrBAAKkfwACz2WZSqPvA6bBUzJwNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
-            "date": "2024-08-23"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "ты не сможешь помочь мне",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOwWhTFdxaAfzd1SJCOYfaUpWees_3AAKlfwACz2WZSgL8_AQmnBMoNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "диссонанс",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOwmhTFeEsnGu5v7SnfokHAejavKeZAAKmfwACz2WZSqF_8MjRIctqNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "0.3",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOw2hTFeYelSJGWzL6jbeYogFxB1PLAAKnfwACz2WZSrpYHwiluBw8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "яма серотонина",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOxGhTFesf-p3q_QXpT9TEJoIqtxRvAAKofwACz2WZSjUX95KghzONNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "а что, если",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOxWhTFfB7XK7VE15qIsd_GXG4iAFaAAKpfwACz2WZSmrq7e1wGfN_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "не запоминаю",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOxmhTFfUYI1kayO-qSrENK2ooJiesAAKqfwACz2WZSpkcL8ht3uOKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "хочу сбежать",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOx2hTFfl8O5MliDLRgf7VbVfE59ysAAKrfwACz2WZSvnsrBwJhcsbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "уход",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOyGhTFf88m-Jd1sj2gYCa0b4D1Z4uAAKsfwACz2WZSuI6PxWuIU6yNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "под водой",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOyWhTFgSCtaW4DdM9ah0e7W6qj6SZAAKtfwACz2WZSm6yCOWW0bniNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "она не бежала за мной",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOymhTFgjs3r0CpisuXA44V1k45sQdAAKufwACz2WZStjFkIRrVQABEjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "кому-то нужны",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOy2hTFgy22T36Rv4MgW9YmUBMS8dcAAKvfwACz2WZSrZ24ql2fZQPNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "ЯТЛ",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOzGhTFhGgcntQNVXHzyCtDzanNK_3AAKwfwACz2WZSl4GexdIQaOFNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "тону (Скит)",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOzWhTFhRTm50eCrXj5_atAAHqzCuQagACs38AAs9lmUog_Pk1f8BUSjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Прикинь если это навсегда",
-            "title": "привык",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIOzmhTFhtb6qLjIV7FAAFzAov45jjknwACtH8AAs9lmUqlfNqezvL-CTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "скит",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO0GhTFh09Ge-52NGJ-ahNWc69ESd4AAK1fwACz2WZSuEMv6iKStOLNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "все это не то",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO0WhTFiEgmwI5id8cQtY96AqPBoD7AAK2fwACz2WZSkeE0S9xAAEBCjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "смотреть на тебя",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO0mhTFiaGzSLeUf1zJ_SWeiWSOq4rAAK4fwACz2WZSqvkUgHns3KANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "много",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO02hTFiu7JDWptpTg3aeM-YCJKzKpAAK5fwACz2WZSrAwOVz6K_pSNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "части тела",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO1GhTFi-ZeR_-4HOma1iHulSMZ315AAK6fwACz2WZSizUxVOMGj5ONgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "в ожидании",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO1WhTFjMK4k6bYbVsuh9i86hepYp2AAK7fwACz2WZSsRB_b5QTH0cNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "твоими глазами",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO1mhTFjcl3BYRLPFy88ikli8Vi4qIAAK8fwACz2WZSkdsdjFQsZSWNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "моими глазами",
-            "title": "фонарики на крыше",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO12hTFjv9x8eXqAxRwt0V65hI9cByAAK9fwACz2WZSqZvw1mZw3G6NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "я понял что такое грязь / заживут",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO2WhTFkFoJ7nyCt-YyEpGyDzyX7Z_AAK-fwACz2WZSifFS7kD6s18NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "всегда ненавидел быть слабым",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO2mhTFkc_dD5z46Rf0_DvmRIZoYs3AAK_fwACz2WZSsbvltf1iDP4NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "ты никогда не будешь один",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO22hTFkvfasFHIB8MIz0mdoGNGKMoAALAfwACz2WZSosUjm50vEjYNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "что мне нужно сделать / счастливо",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO3GhTFlFWaElh7piwxrphPtu2DhEOAALBfwACz2WZSlGQZaGZJvxeNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "музыка или счастье",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO3WhTFlYaCIqIPb0Vnj6yarg9-xUDAALCfwACz2WZSqyByVAKRK1hNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "ничего невозможного",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO3mhTFlrKAefNisJvNMzEHIjbYWI1AALDfwACz2WZSnq6FS3QU3ymNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "в чём я виноват",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO32hTFl-Ca4Hf-ImOGa6wuRt2RG7KAALEfwACz2WZSkIsuZbeJd3RNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "всё тебе радо",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO4GhTFmSwXdqusRrq2KLClwu6XMM1AALHfwACz2WZSmiJHEtIMoHaNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "постоянно",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO4WhTFmlmYQABudWsdczvaqLocGMcKwACyH8AAs9lmUquMVTse2f5ojYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "всегда ненавидел быть слабым",
-            "title": "сейчас в себе",
-            "performer": "Cold Carti",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO4mhTFm9ESQHC1BFIiVDeuP0FSHgAA8l_AALPZZlK5HR04aOiA142BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
-        }
-    ]
-}
+[
+    {
+        "album": "Нежно-розовый",
+        "title": "Перегораю",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOg2hTFLjuslgcyfxxZfWSU4SrGqxSAAJsfwACz2WZSsgLpTGektT3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Нежно-розовый",
+        "title": "Дыши",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOhGhTFL3M-Lk1G63zcC39M98hY2LSAAJtfwACz2WZSm8YkynhkUgBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Нежно-розовый",
+        "title": "Неправда",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOhWhTFMTp5rE114_INYJ8EaSLqqxwAAJufwACz2WZSkv2d13eRBFQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Нежно-розовый",
+        "title": "Иллюзия / Рисую",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOhmhTFMwuxweFqyP7mm6ER4jNdnpFAAJvfwACz2WZSkQn3p2Kyh5wNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Нежно-розовый",
+        "title": "Следы помады / Ничего не значат",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOh2hTFNJItoaq__qjGrQGLyUFUMxnAAJwfwACz2WZSgb81K8iNIRBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOgmhTFLLHHmsN6vrJ1LSlqaz8CrT_AAJw-zEbz2WZSm35QFost8lwAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Лето и одиночество",
+        "title": "Придумай его сам",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOiWhTFNmREGatmnLaei9z_s09_HmrAAJxfwACz2WZShfHbnogah9eNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Лето и одиночество",
+        "title": "Стоишь одна",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOimhTFN5Gq_sKVMTPtmxRYdTzBXEXAAJyfwACz2WZSijUcAcS8109NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Лето и одиночество",
+        "title": "Туман",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOi2hTFONstZNWjcov8lDM0mH8Fxh1AAJzfwACz2WZSqPOtUnkCQJ7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Лето и одиночество",
+        "title": "Я не твой дневник",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOjGhTFOerf284xqMWbgmINNSNsN_fAAJ0fwACz2WZSrfD98HGRX6VNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Лето и одиночество",
+        "title": "Кто ты такая?",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOjWhTFOy3BAbMIhZwqyr7NLMCMgABKwACdn8AAs9lmUp2oQ1L61aAZTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOiGhTFNQ_UMgIMbbUmrRpPKWclvsbAAJx-zEbz2WZSr4b_Vk-23DCAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "title": "у меня внутри",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOj2hTFPPSvLmoivmvkcqC2Q19UFGhAAJ3fwACz2WZSlF0rATSMOikNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "title": "я так скучаю",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOkGhTFPhKAddsjhRjKLC-y7uw_d9cAAJ4fwACz2WZSlhQlfBBA4uHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "title": "закрыл глаза",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOkWhTFP5evE9dvMw-yRRmJAZUZ1q8AALBeAAC5VyZSvOsxrlpp7DWNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "title": "сломанный",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOkmhTFQPhh28l7PWs0exJRR3vda_yAAJ6fwACz2WZSsq15kF0UHemNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать",
+        "title": "спать",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOk2hTFQehgIc11CoKZ5Ys8kpah2MIAAJ7fwACz2WZShTK-hdZ8g58NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOjmhTFO2GrCofZjC0eHczIxRRWOGsAAJy-zEbz2WZSqhde4oN0TlNAQADAgADeQADNgQ"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "title": "не могу остаться",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOlWhTFQ0CgdI0k1DQr4Cp8VLrRY4IAAJ8fwACz2WZShKmDGjsJ0QpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "title": "в очередной раз",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOlmhTFRKR_qt5GGTnsyStXOQ7awn9AAJ-fwACz2WZSvL40qBe2HevNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "title": "переписываю",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOl2hTFReNHnpofpx0q2Ktf7iq0dw1AALEeAAC5VyZSh5VnTlnmEYrNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "title": "море",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOmGhTFRw35ypihiB5vbVrGloyz43tAAJ_fwACz2WZSh4bex3Yg8r6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "тебе жаль это слышать, Ч. 2",
+        "title": "где ты была",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOmWhTFSKqhH-4f46oTvL6zdbYB6dQAAKAfwACz2WZSoT2SllJ8_ziNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOlGhTFQnbDUO1jEtfKqB-g-wAARfc_wACdfsxG89lmUpRIFl0XQY2SgEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "Синглы",
+        "title": "убей меня",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop, R&B",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOm2hTFSmtCoEjm2ueJkGSyuOtTmvWAAKBfwACz2WZSsyxpfDapVA1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-07-24"
+    },
+    {
+        "album": "Синглы",
+        "title": "Не выдыхай",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOnGhTFTCM-c02Q270Y9UsPvbOn6xwAAKCfwACz2WZSrypHLMIrBMcNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-10-07"
+    },
+    {
+        "album": "Синглы",
+        "title": "Мокрая",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOnWhTFTXl8LMn1SV-CBatsN0aVdBWAAKDfwACz2WZStp9eKA0-gObNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-11-03"
+    },
+    {
+        "album": "Синглы",
+        "title": "Не приходи",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOnmhTFTv0yUWUrLkig55aar-Yd1_zAAKEfwACz2WZSveKPPSt2BhTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-12-09"
+    },
+    {
+        "album": "Синглы",
+        "title": "Мёртв внутри",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOn2hTFUAzEQtQDlZV_Jm1PyAcuxMOAAKFfwACz2WZSoPkzTcIwpB5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2021-03-11"
+    },
+    {
+        "album": "Синглы",
+        "title": "Проблема",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOoGhTFUW2HFdAQdDuzZKSsSsiqEzXAAKGfwACz2WZSl-Eu8Nq2TT8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2021-04-07"
+    },
+    {
+        "album": "Синглы",
+        "title": "Февраль",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOoWhTFUofdCf9d-JWObcuknkR54zFAAKHfwACz2WZSoOu2Z0TdtYbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2021-04-14"
+    },
+    {
+        "album": "Синглы",
+        "title": "Пустота",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop, R&B",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOomhTFU63wLwmvEoJQdQDZeJt0b91AAKIfwACz2WZSvfnc4xG5dzNNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2021-04-23"
+    },
+    {
+        "album": "Синглы",
+        "title": "Чувства в окно",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOo2hTFVFjLI2RYjwUuC72rRPAIF4eAAKJfwACz2WZSkvDLVCdfWRZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Твои щёки, мои пальцы",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOpGhTFVVkfpo8Io-WLtXMS5qlZ1OgAAL4gAACIr-ZSuqVJVOGkA2YNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Ночевать в подъезде",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOpWhTFVmawQnpo2fd-iZ1zvEEoWYpAAKKfwACz2WZSt06pkKyHZE4NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Пеплом",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOpmhTFV6jyn4l4eFnSY7cdDkifPiGAAKLfwACz2WZSnrp6jd-GTaeNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Под одеялом",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOp2hTFWKtLnw4YFxfBdkX6SviU_lmAAKMfwACz2WZSriFpFNiVFi7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Позже",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOqGhTFWfgfUulrqRRo1bI-71x3p8TAAKNfwACz2WZStTFokomAyMsNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Рваная футболка",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOqWhTFWpGDYLlIvxEGr4k0eAliciuAAKOfwACz2WZSs-__t8EIZ6wNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Согрей",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOqmhTFW55NJMIA8VifSPG-sI0IkjSAAKPfwACz2WZSvlxSntj6mNTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Кислород",
+        "performer": "Cold Carti",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOq2hTFXQxE2suC6xD6neXyNKDaJpsAAKQfwACz2WZSig0mbqC5l40NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2020-05-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "доброе утро",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOrGhTFXlJSiSWQDK3OBtVXnTqVRrUAAKRfwACz2WZSnaxxwt2lLjrNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2023-03-31"
+    },
+    {
+        "album": "Синглы",
+        "title": "болезнь",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOrWhTFX56I_r9XP594m8j-_eLUwAB4AACkn8AAs9lmUpy_7D_lpto4TYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2023-03-10"
+    },
+    {
+        "album": "Синглы",
+        "title": "проводами",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOrmhTFYMLoNXi4c2UfrwI8uRgMqtUAAKTfwACz2WZSnGdFeypRCnvNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2023-02-03"
+    },
+    {
+        "album": "Синглы",
+        "title": "если ты забыла как дышать",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOr2hTFYhcEGlFmLXVEMS96PaebBLYAAKUfwACz2WZSoXyZrwr49_RNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-12-09"
+    },
+    {
+        "album": "Синглы",
+        "title": "свет",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOsGhTFY78-yBqMTIW2gMNnzeIMF6TAAIIcAACOAegSjd6eD-iIcKnNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-11-11"
+    },
+    {
+        "album": "Синглы",
+        "title": "человеку нужен человек (Speed up)",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOsWhTFZJfoFiCQKdFadzHls6toLqLAAKVfwACz2WZSrXtxcv3so2QNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-10-28"
+    },
+    {
+        "album": "Синглы",
+        "title": "я сохраню (Speed up)",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOsmhTFZbAj_tGP6rAe6v14uQqF7X6AAKWfwACz2WZSjwVFm7qN-LFNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-10-28"
+    },
+    {
+        "album": "Синглы",
+        "title": "не хочу",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOs2hTFZuar0JjDZ9tnvXMcAdbjFUnAAKXfwACz2WZSnz1mHxbeZopNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-10-14"
+    },
+    {
+        "album": "Синглы",
+        "title": "я сохраню",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOtGhTFaAmBiLKfxjE8M1VD_8MM1RZAAKZfwACz2WZStVlsHmImtZtNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-05-06"
+    },
+    {
+        "album": "Синглы",
+        "title": "человеку нужен человек",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOtWhTFaVLy_ukBfH5WKhVk4T6xgd9AAKafwACz2WZSlIayUTOUa86NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-09-09"
+    },
+    {
+        "album": "Синглы",
+        "title": "не говори мне",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOtmhTFaqSsJCH7GAJQXNbgibHtPYxAAKbfwACz2WZSl06tl8vu-jWNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-05-27"
+    },
+    {
+        "album": "Синглы",
+        "title": "скоро",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOt2hTFa8PzQep3BWLh2dUR-F2szPaAAKcfwACz2WZSj6b41Mp9U3xNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-07-08"
+    },
+    {
+        "album": "Синглы",
+        "title": "Быть частью",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOuGhTFbMtgp-0nqkRpJUwH2vaQoG_AAKdfwACz2WZStIZ0v7Pf6rINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2022-03-18"
+    },
+    {
+        "album": "Синглы",
+        "title": "0.3",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOuWhTFbjj6A78EGMnIyQNDRQh-DrOAAKefwACz2WZSvWTBeB7rvyTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2021-11-26"
+    },
+    {
+        "album": "Синглы",
+        "title": "вряд ли ты вывезешь",
+        "performer": "Cold Carti",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOumhTFb4hrPixLZ4_jncycRZmXfG_AAKffwACz2WZSipQA6rPIaJ0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2023-12-08"
+    },
+    {
+        "album": "Синглы",
+        "title": "дом",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOu2hTFcNvpmvnBC6339uWLaT_bT1jAAKgfwACz2WZSkoMzAwFwm70NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2023-11-03"
+    },
+    {
+        "album": "Синглы",
+        "title": "больше не будет грустно",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOvGhTFcdvUX40GsFANX2kjTB92OeHAAKhfwACz2WZStLXFEDu6aWANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2025-04-04"
+    },
+    {
+        "album": "Синглы",
+        "title": "дни горят",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOvWhTFc2JlcAnfcAXhT6LTEfSkAVeAAKifwACz2WZSpR-omj3chSHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2025-04-18"
+    },
+    {
+        "album": "Синглы",
+        "title": "а чё теперь",
+        "performer": "Cold Carti",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOvmhTFdIhL8GStpMVL0stxN9-Gau5AAKjfwACz2WZStos6Q80SX7PNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2024-09-13"
+    },
+    {
+        "album": "Синглы",
+        "title": "всё именно так",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOv2hTFdetpBIoZyzZuaJNsToO6PrBAAKkfwACz2WZSqPvA6bBUzJwNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOmmhTFSN1Vt3HuGPv6q9cIhSO0U84AAJ2-zEbz2WZSl_QMi-TIVqhAQADAgADeQADNgQ",
+        "date": "2024-08-23"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "ты не сможешь помочь мне",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOwWhTFdxaAfzd1SJCOYfaUpWees_3AAKlfwACz2WZSgL8_AQmnBMoNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "диссонанс",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOwmhTFeEsnGu5v7SnfokHAejavKeZAAKmfwACz2WZSqF_8MjRIctqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "0.3",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOw2hTFeYelSJGWzL6jbeYogFxB1PLAAKnfwACz2WZSrpYHwiluBw8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "яма серотонина",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOxGhTFesf-p3q_QXpT9TEJoIqtxRvAAKofwACz2WZSjUX95KghzONNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "а что, если",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOxWhTFfB7XK7VE15qIsd_GXG4iAFaAAKpfwACz2WZSmrq7e1wGfN_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "не запоминаю",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOxmhTFfUYI1kayO-qSrENK2ooJiesAAKqfwACz2WZSpkcL8ht3uOKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "хочу сбежать",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOx2hTFfl8O5MliDLRgf7VbVfE59ysAAKrfwACz2WZSvnsrBwJhcsbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "уход",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOyGhTFf88m-Jd1sj2gYCa0b4D1Z4uAAKsfwACz2WZSuI6PxWuIU6yNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "под водой",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOyWhTFgSCtaW4DdM9ah0e7W6qj6SZAAKtfwACz2WZSm6yCOWW0bniNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "она не бежала за мной",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOymhTFgjs3r0CpisuXA44V1k45sQdAAKufwACz2WZStjFkIRrVQABEjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "кому-то нужны",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOy2hTFgy22T36Rv4MgW9YmUBMS8dcAAKvfwACz2WZSrZ24ql2fZQPNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "ЯТЛ",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOzGhTFhGgcntQNVXHzyCtDzanNK_3AAKwfwACz2WZSl4GexdIQaOFNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "тону (Скит)",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOzWhTFhRTm50eCrXj5_atAAHqzCuQagACs38AAs9lmUog_Pk1f8BUSjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Прикинь если это навсегда",
+        "title": "привык",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIOzmhTFhtb6qLjIV7FAAFzAov45jjknwACtH8AAs9lmUqlfNqezvL-CTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "скит",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO0GhTFh09Ge-52NGJ-ahNWc69ESd4AAK1fwACz2WZSuEMv6iKStOLNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "все это не то",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO0WhTFiEgmwI5id8cQtY96AqPBoD7AAK2fwACz2WZSkeE0S9xAAEBCjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "смотреть на тебя",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO0mhTFiaGzSLeUf1zJ_SWeiWSOq4rAAK4fwACz2WZSqvkUgHns3KANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "много",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO02hTFiu7JDWptpTg3aeM-YCJKzKpAAK5fwACz2WZSrAwOVz6K_pSNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "части тела",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO1GhTFi-ZeR_-4HOma1iHulSMZ315AAK6fwACz2WZSizUxVOMGj5ONgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "в ожидании",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO1WhTFjMK4k6bYbVsuh9i86hepYp2AAK7fwACz2WZSsRB_b5QTH0cNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "твоими глазами",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO1mhTFjcl3BYRLPFy88ikli8Vi4qIAAK8fwACz2WZSkdsdjFQsZSWNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "моими глазами",
+        "title": "фонарики на крыше",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO12hTFjv9x8eXqAxRwt0V65hI9cByAAK9fwACz2WZSqZvw1mZw3G6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIOwGhTFdgMeObMdHPVMDolGgihP8lgAAJ5-zEbz2WZSpUx624SNxLoAQADAgADeAADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "я понял что такое грязь / заживут",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO2WhTFkFoJ7nyCt-YyEpGyDzyX7Z_AAK-fwACz2WZSifFS7kD6s18NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "всегда ненавидел быть слабым",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO2mhTFkc_dD5z46Rf0_DvmRIZoYs3AAK_fwACz2WZSsbvltf1iDP4NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "ты никогда не будешь один",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO22hTFkvfasFHIB8MIz0mdoGNGKMoAALAfwACz2WZSosUjm50vEjYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "что мне нужно сделать / счастливо",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO3GhTFlFWaElh7piwxrphPtu2DhEOAALBfwACz2WZSlGQZaGZJvxeNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "музыка или счастье",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO3WhTFlYaCIqIPb0Vnj6yarg9-xUDAALCfwACz2WZSqyByVAKRK1hNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "ничего невозможного",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO3mhTFlrKAefNisJvNMzEHIjbYWI1AALDfwACz2WZSnq6FS3QU3ymNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "в чём я виноват",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO32hTFl-Ca4Hf-ImOGa6wuRt2RG7KAALEfwACz2WZSkIsuZbeJd3RNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "всё тебе радо",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO4GhTFmSwXdqusRrq2KLClwu6XMM1AALHfwACz2WZSmiJHEtIMoHaNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "постоянно",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO4WhTFmlmYQABudWsdczvaqLocGMcKwACyH8AAs9lmUquMVTse2f5ojYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "всегда ненавидел быть слабым",
+        "title": "сейчас в себе",
+        "performer": "Cold Carti",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO4mhTFm9ESQHC1BFIiVDeuP0FSHgAA8l_AALPZZlK5HR04aOiA142BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO2GhTFj3KOW09anndjg6OWr3gk6sbAAJ_-zEbz2WZSgKD0FPUl3cOAQADAgADeQADNgQ"
+    }
+]

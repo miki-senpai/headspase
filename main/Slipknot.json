@@ -1,942 +1,884 @@
-{
-    "albums": [
-        {
-            "album": "Синглы",
-            "genre": "Rock & Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
-            "date": ""
-        },
-        {
-            "album": "Adderall",
-            "genre": "Rock, Heavy Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ",
-            "date": "2023-06-09"
-        },
-        {
-            "album": "Slipknot",
-            "genre": "Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ",
-            "date": "2008-06-01"
-        },
-        {
-            "album": "Iowa",
-            "genre": "Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ",
-            "date": "2005"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "genre": "Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ",
-            "date": "2004"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "genre": "Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ",
-            "date": "2008-08-22"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "genre": "Heavy Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ",
-            "date": "2014-10-15"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "genre": "Rock& Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ",
-            "date": "2019-08-09"
-        },
-        {
-            "album": "The End, So Far",
-            "genre": "Rock & Metal",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ",
-            "date": "2022"
-        }
-    ],
-    "tracks": [
-        {
-            "album": "Синглы",
-            "title": "Bone Church",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO5WhTFrNrryIzvvOkE6BSUPwUNaDNAALkeAAC5VyZSodD0c1iEcXbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
-            "date": "2023"
-        },
-        {
-            "album": "Adderall",
-            "title": "Death March",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO52hTFtWL2O-sh-XFi86YJw3JrTQTAALOfwACz2WZSoegAXmsoP-sNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Adderall",
-            "title": "Red or Redder",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO6GhTFtYBKgAB-2kVRXVxxJourq2emgACz38AAs9lmUrsiiAzMINVxjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Adderall",
-            "title": "Adderall (No Intro)",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO6WhTFt0P_ryhn1G9LDYvo7BhHo76AALQfwACz2WZSpam2FDRDpmiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Adderall",
-            "title": "Adderall (Rough Demo)",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO6mhTFuMqng9ZcdUxjXN2jn_e4hMVAALSfwACz2WZSmSs-ozqWfb3NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Adderall",
-            "title": "Adderall (Instrumental)",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO62hTFu0MTTyWzBrJZDacwzaWlJQSAALTfwACz2WZSs7_8MMCeGbzNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Adderall",
-            "title": "Hard to Be Here",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO7GhTFvr7nOjb4rXP8ngEUjIINqo2AALUfwACz2WZSq3szEtPFG5vNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "742617000027",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO7mhTFwU5MJ2sm0E8myHODPoj0aiuAALVfwACz2WZSoImymBEzMmDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "(sic)",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO72hTFwxEXXUuvd2r_4mmA-zQxDJYAALWfwACz2WZSlsTOvtXlnwjNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Wait and Bleed",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO8GhTFxGnoSm-wgTMZpVhBAYFIFGmAALXfwACz2WZSuQKH6jMURKFNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Eyeless",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO8WhTFxYRQf5w-OgETupU9V7seGAeAALYfwACz2WZSgpGnDgCUVyiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Liberate",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO8mhTFxzSC4k7quUv2CQISinPMd2SAALZfwACz2WZSs6JjwYiGzZANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Me Inside",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO82hTFyFOl5h2XQtl2DSjOCLTa7RrAALbfwACz2WZSgbO411DxD_oNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Tattered & Torn",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO9GhTFyamnQEQGW4KygGG_aD9JQsFAALcfwACz2WZSkCMnWQFnrp5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Spit It Out",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO9WhTFyt9dcSBj87NDN3kzqSDu9gIAALdfwACz2WZSnJdiV5yGfAbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Surfacing",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO9mhTFzDrC9QvYA85DIGynK1PSrnPAALefwACz2WZSsSJBeWGw8edNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "No Life",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO92hTFzaXJ4XpaWsRAAG_10bofPxTdwAC338AAs9lmUrreiY5RL8oPzYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Prosthetics",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO-GhTFzzcJHQfPxbuIgp3f-eUbRjTAALgfwACz2WZSqSGNu8PVlvpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Only One",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO-WhTF0KiFh0j1pxu5EbdrjEg29G2AALhfwACz2WZSqOUpogML1eqNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Diluted",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO-mhTF0jpVHyE0_5BCGQESL33y95fAALifwACz2WZSnlcgO_dTdkmNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Eeyore",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO-2hTF01n0MS9FiZYvkUkKav3V5DMAALjfwACz2WZSrprZu-mP64YNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Slipknot",
-            "title": "Scissors",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO_GhTF1pZ-6zDxIveL-lquvZh4rk8AALkfwACz2WZSuUPvWMhzC2oNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "(515)",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO_mhTF18HfH8lQejadnXX72HWpz6bAALlfwACz2WZSjoSHUOXsLE_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "People = Shit",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIO_2hTF2YK55pRWZNXAAFXiD3z9tD47wAC5n8AAs9lmUr0i0dBYy1cmjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Disasterpiece",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPAAFoUxdvGFW-eMKxg10gXdInB5OyagAC538AAs9lmUoL3AABLzxl8HQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "My Plague",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPAWhTF3d0VrAgEH4dDkZxasrvFDcHAALpfwACz2WZSmkhUTqqOxTRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Everything Ends",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPAmhTF4AjlO8a8JM51X9jPCC3nt_UAALqfwACz2WZSuIkkn5M_sboNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "The Heretic Anthem",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPA2hTF4hw9IbRbajn1DK7BT84KIUSAALweAAC5VyZSi3BFfdgy3HtNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Gently",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPBGhTF53fMI6XcryJwpJAqDNhMp6kAALsfwACz2WZSoNyqk7WDC30NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "I Am Hated",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPBWhTF737h5WZHv9F7jGEbn2HmAABTgAC7n8AAs9lmUoK7OXvecoZsjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "The Shape",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPB2hTF8QTF3E2dSofcdxc1bLBMty3AALwfwACz2WZSotiLU_EBAABDTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Skin Ticket",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPCGhTF8_zaIiMt-8sRDZh4_Gd7ZYcAALxfwACz2WZSgxcNMWlRgQbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "New Abortion",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPCWhTF9X8X4zLJYPtI-0fNyLT8lYzAALyfwACz2WZSmhQurZ7zGMAATYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Metabolic",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPCmhTF9sqx4VwiPm4vmuZZOBeOJDjAALzfwACz2WZSp6bO2CXmKiDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Iowa",
-            "title": "Iowa",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPC2hTF_DPMrm0KETHpCWMTfxDB2gCAAL1fwACz2WZSp9woMQ4KgHKNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Prelude 3.0",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPDWhTF_hUyDI5hRGjUrORpoXm6YuwAAL2fwACz2WZSq17ynPl8jj3NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Three Nil",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPDmhTGByobd6j1Bjmm8Tf-KX2_myOAAL5fwACz2WZSrMjC7zS-Pe4NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Duality",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPD2hTGCNznygVsBSeIGsbX1S77N5sAAL7fwACz2WZSg-cJ0-gP-ncNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Opium of the People",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPEGhTGChmxGwtVjcd85AVd5_sJCm8AAL7eAAC5VyZSvDxXmXlB-V4NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Circle",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPEWhTGC4pDCCFvF-yloXBKHUzmoXPAAL8fwACz2WZSo5iEi72AAFehTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Welcome",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPEmhTGDQMui_Kfxp1HnPSyVGma4D7AAL-fwACz2WZSgwFEUA3zjrhNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Before I Forget",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPE2hTGHcbjrha44JVnHL6i36ubl9uAAIEgAACz2WZSnZ-aPIk0q5ZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Vermilion, Pt. 2",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPFGhTGH-yql3naSYqy2jFEU1MPbFYAAIFgAACz2WZSsnXbrND9gaENgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "The Nameless",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPFmhTGIkJ9QFWEEgGu7Ph-14m_-h9AAIIgAACz2WZShMnpO4IjLJSNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Danger - Keep Away",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPF2hTGKueIhIOm9yKzbvlWVay4VsKAAIKgAACz2WZSlUR70svI7WMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Don't Get Close",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPGGhTGLO0Y-ZZacvrkbU4nxJkJQABAgACDYAAAs9lmUqp56ga0nlHGzYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Scream",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPGWhTGLu7fSIPgttPRIWRx2NS9ImGAAIOgAACz2WZSpt1hl9R2UCDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": ".execute.",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPG2hTGML-z6gi4FZnj1KW5Ws_ARBhAAIPgAACz2WZSo114XN6iBRSNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Psychosocial",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPHWhTGQSIelYe-PYwdTTNdaaw5YMfAAIUgAACz2WZSntYDRQfk8c6NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Dead Memories",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPHmhTGRy1kmqaDJ6KMRMHm98jDTjSAAIZgAACz2WZSitIkn6OKrAXNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Gehenna",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPIGhTGU5JJ1-2k6qlH03QEBKhYf4KAAIPeQAC5VyZSrF8Pe0woordNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "This Cold Black",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPIWhTGVj5urDyc60h2Xp0PwiNTdkRAAIxgAACz2WZSoepkKYjpin_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Wherein Lies Continue",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPImhTGWESDfeNkS6BtCuE9VaVQ3ChAAIygAACz2WZSg24h6FHPAN5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Snuff",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPI2hTGWyC-k_1BuydR6AKUHNWy0n3AAIzgAACz2WZShEQPTutefK0NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Vermilion, Pt. 2 (Bloodstone Mix)",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPJGhTGayEy641xFn_002mCIhqdOyuAAI-gAACz2WZSuVURiJAIX-8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "'Til We Die",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPJWhTGbbihEI4vkWvkP3jUvtU_mnPAAJAgAACz2WZSjUlYRVbGWnzNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "XIX",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPJ2hTGb2PXeyY7yqfPRECxS63MnOBAAJBgAACz2WZSvlgTRqB4ZaHNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "AOV",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPKWhTGeBrgYROX2x0_oI-0JW00zQvAAJFgAACz2WZSjxL6Ek2MvZxNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Killpop",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPKmhTGgR_pNRRnJ9BrXIVK6T4GZczAAJIgAACz2WZSm-5fdPgwwABbjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Skeptic",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPK2hTGgtmpdZM7HjpnZXet0c2T6fTAAJKgAACz2WZSru2qUzpfTKTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Lech",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPLGhTGhOUG42i0c1l5XO-DYs1oMCnAAJLgAACz2WZSvxImqtEypPmNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Goodbye",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPLWhTGhopMRO5AT132kxaD5XD36goAAJMgAACz2WZSvJw_G3gYlZlNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Nomadic",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPLmhTGiEgq-qISftEsOQ_zi8cgFgWAAJNgAACz2WZSnHOLfcc4Re8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "The One That Kills the Least",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPL2hTGiiCtPx-_ql0HUMs1JpoS5NiAAJPgAACz2WZSna8SjtCz2rXNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Be Prepared for Hell",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPMGhTGixo2QgC4VMb4t96teH3TS8hAAJQgAACz2WZSgfQ7Ry6KB_sNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Custer",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPMWhTGjZZcvG93IQSv4Hkt2BkIvI2AAJSgAACz2WZSmEY_5ESoJarNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Insert Coin",
-            "performer": "Slipknot",
-            "genre": "Rock& Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPNGhTGqyb8bpOGySVrKD2HRw5IQyyAAJxeQAC5VyZShia1T_ylTOkNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Unsainted",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPNWhTGrMCyOPBsmVU5fJs8PzWgx1vAAJggAACz2WZSsa4Ebi2a2HWNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Death Because of Death",
-            "performer": "Slipknot",
-            "genre": "Rock& Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPNmhTGrdAcTfRE1CwBRITSGKpupsOAAJhgAACz2WZSqM5efuAOuuTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "What's Next",
-            "performer": "Slipknot",
-            "genre": "Rock& Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPN2hTGymMfySfxqCpQFCZEKue5frSAAJngAACz2WZSoV2FrfRAZ7nNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Red Flag",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPOGhTGy8JppiqX6WtQF153R8O8HloAAJqgAACz2WZSigbgZxMrnxUNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "The Dying Song (Time To Sing)",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPPGhTG-OV4o-sxa6STvG_klmWbiPkAAJygAACz2WZSqWflY6vwY7nNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Yen",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPPWhTHA2FHpjrWVUYdnKxIWdw8guxAAJ0gAACz2WZSkYuOG47nlEkNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Hive Mind",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPPmhTHBs2IAPGE_P3c-ddXn_blAjBAAJ1gAACz2WZSjehGLK5J_cAATYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Warranty",
-            "performer": "Slipknot",
-            "genre": "Rock, Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPP2hTHCcF1qIYQXyr1BeMJ30myOd9AAJ5gQACIr-ZStSO8TGV9_HuNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Heirloom",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPQGhTHFftLA8utvPz1FkfaXp9pFZrAAJ4gAACz2WZSvADd9cVtrCLNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "H377",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPQWhTHGCuZHynitICOryUCZcG6gEJAAJ6gAACz2WZSoqGqQn-leFwNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "De Sade",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPQmhTHG6a3aMfevWkp2fI-ZvBIOBpAAJ7gAACz2WZSrKfe-JKhjeNNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Finale",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPQ2hTHHnv1RKZ3sSKjKZugnUDNM16AAJ9gAACz2WZSuTNWIaNLXaYNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Синглы",
-            "title": "All Out Life",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPRWhTHIXWGoGXNHFVPsdTymOvboKUAAJ-gAACz2WZSgfbPRKfHHYcNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
-            "date": "2018-10-31"
-        },
-        {
-            "album": "Iowa",
-            "title": "Left Behind",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPRmhTHIbJU4A7HCQDWQ41h6H_JRecAAJ_gAACz2WZSrVZV9FZt24tNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "The Blister Exists",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPR2hTHIdAuLKckYAnHcEuLWlmQQL1AAKAgAACz2WZSg2-QRUXmo-ONgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Vermilion",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPSGhTHIik7Ey3P6N-uhrb40L4-YTbAAKBgAACz2WZSgvfiZfCbTrrNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "Pulse of the Maggots",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPSWhTHIlYKgseYiZVihazVQIrELjJAAKCgAACz2WZShlEi3LeNcVgNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Vol. 3  The Subliminal Verses",
-            "title": "The Virus of Life",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPSmhTHIu_O5dcmaAxh-nF20vqUAVRAAKIeQAC5VyZSnp5PC602TWDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Gematria (The Killing Name)",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPS2hTHIyp-haiNckUpWaypgqDZGZSAAKDgAACz2WZSt6-varC8OkXNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Sulfur",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPTGhTHI7HL442Lo1IvMQ7d1F3md8kAAKEgAACz2WZSlIGQc3IiuLpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Vendetta",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPTWhTHI8hxeCzavuQfcHdbCSD_D0IAAKFgAACz2WZSlvpA5HAsy8PNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Butcher's Hook",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPTmhTHJD8TPukdM7l8U-flBdvq49PAAKGgAACz2WZSnCZGoWsxYhGNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "All Hope Is Gone",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPT2hTHJJQWbWIOUQe5W3JSrXEuti6AAKHgAACz2WZSqSITVG5cxX0NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": "All Hopes Is Gone",
-            "title": "Child of Burning Time",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPUGhTHJNpjmq6khXLnHJ8TdAID79KAAKIgAACz2WZSjI488T_lt8_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Sarcastrophe",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPUWhTHJSE2U4gtaUzkU_094Kda2a9AAKJeQAC5VyZSkQ3D-yQ5di8NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "The Devil in I",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPUmhTHJXhDgi348ff4JHJVyvXoZuEAAKJgAACz2WZSofthMC-UPPJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "The Negative One",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPU2hTHJfOAAHX2y8JMLDfaCFUfU7ojAACioAAAs9lmUqUswOGhSoCmzYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "If Rain Is What You Want",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPVGhTHJhcpf0bAj-ovihFgRPvtPe1AAKLgAACz2WZSmC7PX6ymsITNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "Override",
-            "performer": "Slipknot",
-            "genre": "Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPVWhTHJuRZBuG-tIPvHwr3mi85ShoAAKMgAACz2WZSrHkhm-lS10jNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": ".5  The Grey Chapter",
-            "title": "The Burden",
-            "performer": "Slipknot",
-            "genre": "Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPVmhTHJ3quo0gowJFMrux8h0_efDWAAKNgAACz2WZStJsyY_hf_zENgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Birth Of The Cruel",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPV2hTHJ4kd_nTOxHOHd9BK5ydETYqAAKOgAACz2WZSmzsZIwseqzuNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Nero Forte",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPWGhTHJ-d1i_NY_A19SZaS_DuP-gTAAKPgAACz2WZSsScVwMEQSGINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Critical Darling",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPWWhTHKAKMneoBdaFrZKtoui1GL7yAAKRgAACz2WZSkZ809qctfaINgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "A Liar's Funeral",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPWmhTHKJmmAcfBqBjfRQ7wsAPEAiDAAKSgAACz2WZSnBXOmiqClQQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Spiders",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPW2hTHKPW13NFoqvrSxOdV78QEWYpAAKTgAACz2WZSo-Ixfm4xMscNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Orphan",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPXGhTHKRLIAwq79sSxU9U4_mDMCrgAAKUgAACz2WZSozMXAc8w9TqNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "My Pain",
-            "performer": "Slipknot",
-            "genre": "Rock& Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPXWhTHKW89U3w87-TS3iaC0uL2B29AAKVgAACz2WZSh1VCvKKVXGhNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Not Long for This World",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPXmhTHKdLZHh3g1eolaGch6_ZrHaXAAKWgAACz2WZShFpGCNrfUnXNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "We Are Not Your Kind",
-            "title": "Solway Firth",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPX2hTHKgY5v0ixtT_9T3yd3_nIhLeAAKXgAACz2WZSrBETYrj11iFNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Adderall",
-            "performer": "Slipknot",
-            "genre": "Rock, Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPYGhTHKo_9E1dvo9njRrDtNT6rWmyAAKYgAACz2WZShWu9EeJ04ADNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "The Chapeltown Rag",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPYWhTHKuugDel0XZRsYUcF2V3uKlkAAKZgAACz2WZSo7KBT0mys6ZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Medicine for the Dead",
-            "performer": "Slipknot",
-            "genre": "Rock, Heavy Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPYmhTHKwar2zK9muXdJRO3RoI_ooyAAKagAACz2WZSre_B1920XT1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        },
-        {
-            "album": "The End, So Far",
-            "title": "Acidic",
-            "performer": "Slipknot",
-            "genre": "Rock & Metal",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIPY2hTHK1JRJDT6YJpqafLRSdx9iqFAAKbgAACz2WZSm0aS2sHWyO5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
-        }
-    ]
-}
+[
+    {
+        "album": "Синглы",
+        "title": "Bone Church",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO5WhTFrNrryIzvvOkE6BSUPwUNaDNAALkeAAC5VyZSodD0c1iEcXbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
+        "date": "2023"
+    },
+    {
+        "album": "Adderall",
+        "title": "Death March",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO52hTFtWL2O-sh-XFi86YJw3JrTQTAALOfwACz2WZSoegAXmsoP-sNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Adderall",
+        "title": "Red or Redder",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO6GhTFtYBKgAB-2kVRXVxxJourq2emgACz38AAs9lmUrsiiAzMINVxjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Adderall",
+        "title": "Adderall (No Intro)",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO6WhTFt0P_ryhn1G9LDYvo7BhHo76AALQfwACz2WZSpam2FDRDpmiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Adderall",
+        "title": "Adderall (Rough Demo)",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO6mhTFuMqng9ZcdUxjXN2jn_e4hMVAALSfwACz2WZSmSs-ozqWfb3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Adderall",
+        "title": "Adderall (Instrumental)",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO62hTFu0MTTyWzBrJZDacwzaWlJQSAALTfwACz2WZSs7_8MMCeGbzNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Adderall",
+        "title": "Hard to Be Here",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO7GhTFvr7nOjb4rXP8ngEUjIINqo2AALUfwACz2WZSq3szEtPFG5vNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5mhTFtL93ekenWGrNdjglV7mnYaBAAKO-zEbz2WZSlN6qSH6CiV_AQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "742617000027",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO7mhTFwU5MJ2sm0E8myHODPoj0aiuAALVfwACz2WZSoImymBEzMmDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "(sic)",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO72hTFwxEXXUuvd2r_4mmA-zQxDJYAALWfwACz2WZSlsTOvtXlnwjNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Wait and Bleed",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO8GhTFxGnoSm-wgTMZpVhBAYFIFGmAALXfwACz2WZSuQKH6jMURKFNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Eyeless",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO8WhTFxYRQf5w-OgETupU9V7seGAeAALYfwACz2WZSgpGnDgCUVyiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Liberate",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO8mhTFxzSC4k7quUv2CQISinPMd2SAALZfwACz2WZSs6JjwYiGzZANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Me Inside",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO82hTFyFOl5h2XQtl2DSjOCLTa7RrAALbfwACz2WZSgbO411DxD_oNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Tattered & Torn",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO9GhTFyamnQEQGW4KygGG_aD9JQsFAALcfwACz2WZSkCMnWQFnrp5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Spit It Out",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO9WhTFyt9dcSBj87NDN3kzqSDu9gIAALdfwACz2WZSnJdiV5yGfAbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Surfacing",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO9mhTFzDrC9QvYA85DIGynK1PSrnPAALefwACz2WZSsSJBeWGw8edNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "No Life",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO92hTFzaXJ4XpaWsRAAG_10bofPxTdwAC338AAs9lmUrreiY5RL8oPzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Prosthetics",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO-GhTFzzcJHQfPxbuIgp3f-eUbRjTAALgfwACz2WZSqSGNu8PVlvpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Only One",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO-WhTF0KiFh0j1pxu5EbdrjEg29G2AALhfwACz2WZSqOUpogML1eqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Diluted",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO-mhTF0jpVHyE0_5BCGQESL33y95fAALifwACz2WZSnlcgO_dTdkmNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Eeyore",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO-2hTF01n0MS9FiZYvkUkKav3V5DMAALjfwACz2WZSrprZu-mP64YNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Slipknot",
+        "title": "Scissors",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO_GhTF1pZ-6zDxIveL-lquvZh4rk8AALkfwACz2WZSuUPvWMhzC2oNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO7WhTFwIZF-UrJc4KN32uCwx-UpF4AAKP-zEbz2WZSlleOjzyS5RrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "(515)",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO_mhTF18HfH8lQejadnXX72HWpz6bAALlfwACz2WZSjoSHUOXsLE_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "People = Shit",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIO_2hTF2YK55pRWZNXAAFXiD3z9tD47wAC5n8AAs9lmUr0i0dBYy1cmjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Disasterpiece",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPAAFoUxdvGFW-eMKxg10gXdInB5OyagAC538AAs9lmUoL3AABLzxl8HQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "My Plague",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPAWhTF3d0VrAgEH4dDkZxasrvFDcHAALpfwACz2WZSmkhUTqqOxTRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Everything Ends",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPAmhTF4AjlO8a8JM51X9jPCC3nt_UAALqfwACz2WZSuIkkn5M_sboNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "The Heretic Anthem",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPA2hTF4hw9IbRbajn1DK7BT84KIUSAALweAAC5VyZSi3BFfdgy3HtNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Gently",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPBGhTF53fMI6XcryJwpJAqDNhMp6kAALsfwACz2WZSoNyqk7WDC30NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "I Am Hated",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPBWhTF737h5WZHv9F7jGEbn2HmAABTgAC7n8AAs9lmUoK7OXvecoZsjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "The Shape",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPB2hTF8QTF3E2dSofcdxc1bLBMty3AALwfwACz2WZSotiLU_EBAABDTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Skin Ticket",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPCGhTF8_zaIiMt-8sRDZh4_Gd7ZYcAALxfwACz2WZSgxcNMWlRgQbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "New Abortion",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPCWhTF9X8X4zLJYPtI-0fNyLT8lYzAALyfwACz2WZSmhQurZ7zGMAATYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Metabolic",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPCmhTF9sqx4VwiPm4vmuZZOBeOJDjAALzfwACz2WZSp6bO2CXmKiDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Iowa",
+        "title": "Iowa",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPC2hTF_DPMrm0KETHpCWMTfxDB2gCAAL1fwACz2WZSp9woMQ4KgHKNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Prelude 3.0",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPDWhTF_hUyDI5hRGjUrORpoXm6YuwAAL2fwACz2WZSq17ynPl8jj3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Three Nil",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPDmhTGByobd6j1Bjmm8Tf-KX2_myOAAL5fwACz2WZSrMjC7zS-Pe4NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Duality",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPD2hTGCNznygVsBSeIGsbX1S77N5sAAL7fwACz2WZSg-cJ0-gP-ncNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Opium of the People",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPEGhTGChmxGwtVjcd85AVd5_sJCm8AAL7eAAC5VyZSvDxXmXlB-V4NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Circle",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPEWhTGC4pDCCFvF-yloXBKHUzmoXPAAL8fwACz2WZSo5iEi72AAFehTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Welcome",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPEmhTGDQMui_Kfxp1HnPSyVGma4D7AAL-fwACz2WZSgwFEUA3zjrhNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Before I Forget",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPE2hTGHcbjrha44JVnHL6i36ubl9uAAIEgAACz2WZSnZ-aPIk0q5ZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Vermilion, Pt. 2",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPFGhTGH-yql3naSYqy2jFEU1MPbFYAAIFgAACz2WZSsnXbrND9gaENgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "The Nameless",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPFmhTGIkJ9QFWEEgGu7Ph-14m_-h9AAIIgAACz2WZShMnpO4IjLJSNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Danger - Keep Away",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPF2hTGKueIhIOm9yKzbvlWVay4VsKAAIKgAACz2WZSlUR70svI7WMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Don't Get Close",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPGGhTGLO0Y-ZZacvrkbU4nxJkJQABAgACDYAAAs9lmUqp56ga0nlHGzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Scream",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPGWhTGLu7fSIPgttPRIWRx2NS9ImGAAIOgAACz2WZSpt1hl9R2UCDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": ".execute.",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPG2hTGML-z6gi4FZnj1KW5Ws_ARBhAAIPgAACz2WZSo114XN6iBRSNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Psychosocial",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPHWhTGQSIelYe-PYwdTTNdaaw5YMfAAIUgAACz2WZSntYDRQfk8c6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Dead Memories",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPHmhTGRy1kmqaDJ6KMRMHm98jDTjSAAIZgAACz2WZSitIkn6OKrAXNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Gehenna",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPIGhTGU5JJ1-2k6qlH03QEBKhYf4KAAIPeQAC5VyZSrF8Pe0woordNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "This Cold Black",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPIWhTGVj5urDyc60h2Xp0PwiNTdkRAAIxgAACz2WZSoepkKYjpin_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Wherein Lies Continue",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPImhTGWESDfeNkS6BtCuE9VaVQ3ChAAIygAACz2WZSg24h6FHPAN5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Snuff",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPI2hTGWyC-k_1BuydR6AKUHNWy0n3AAIzgAACz2WZShEQPTutefK0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Vermilion, Pt. 2 (Bloodstone Mix)",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPJGhTGayEy641xFn_002mCIhqdOyuAAI-gAACz2WZSuVURiJAIX-8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "'Til We Die",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPJWhTGbbihEI4vkWvkP3jUvtU_mnPAAJAgAACz2WZSjUlYRVbGWnzNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "XIX",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPJ2hTGb2PXeyY7yqfPRECxS63MnOBAAJBgAACz2WZSvlgTRqB4ZaHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "AOV",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPKWhTGeBrgYROX2x0_oI-0JW00zQvAAJFgAACz2WZSjxL6Ek2MvZxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Killpop",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPKmhTGgR_pNRRnJ9BrXIVK6T4GZczAAJIgAACz2WZSm-5fdPgwwABbjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Skeptic",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPK2hTGgtmpdZM7HjpnZXet0c2T6fTAAJKgAACz2WZSru2qUzpfTKTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Lech",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPLGhTGhOUG42i0c1l5XO-DYs1oMCnAAJLgAACz2WZSvxImqtEypPmNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Goodbye",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPLWhTGhopMRO5AT132kxaD5XD36goAAJMgAACz2WZSvJw_G3gYlZlNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Nomadic",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPLmhTGiEgq-qISftEsOQ_zi8cgFgWAAJNgAACz2WZSnHOLfcc4Re8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "The One That Kills the Least",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPL2hTGiiCtPx-_ql0HUMs1JpoS5NiAAJPgAACz2WZSna8SjtCz2rXNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Be Prepared for Hell",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPMGhTGixo2QgC4VMb4t96teH3TS8hAAJQgAACz2WZSgfQ7Ry6KB_sNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Custer",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPMWhTGjZZcvG93IQSv4Hkt2BkIvI2AAJSgAACz2WZSmEY_5ESoJarNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Insert Coin",
+        "performer": "Slipknot",
+        "genre": "Rock& Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPNGhTGqyb8bpOGySVrKD2HRw5IQyyAAJxeQAC5VyZShia1T_ylTOkNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Unsainted",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPNWhTGrMCyOPBsmVU5fJs8PzWgx1vAAJggAACz2WZSsa4Ebi2a2HWNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Death Because of Death",
+        "performer": "Slipknot",
+        "genre": "Rock& Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPNmhTGrdAcTfRE1CwBRITSGKpupsOAAJhgAACz2WZSqM5efuAOuuTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "What's Next",
+        "performer": "Slipknot",
+        "genre": "Rock& Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPN2hTGymMfySfxqCpQFCZEKue5frSAAJngAACz2WZSoV2FrfRAZ7nNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Red Flag",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPOGhTGy8JppiqX6WtQF153R8O8HloAAJqgAACz2WZSigbgZxMrnxUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "The Dying Song (Time To Sing)",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPPGhTG-OV4o-sxa6STvG_klmWbiPkAAJygAACz2WZSqWflY6vwY7nNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Yen",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPPWhTHA2FHpjrWVUYdnKxIWdw8guxAAJ0gAACz2WZSkYuOG47nlEkNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Hive Mind",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPPmhTHBs2IAPGE_P3c-ddXn_blAjBAAJ1gAACz2WZSjehGLK5J_cAATYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Warranty",
+        "performer": "Slipknot",
+        "genre": "Rock, Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPP2hTHCcF1qIYQXyr1BeMJ30myOd9AAJ5gQACIr-ZStSO8TGV9_HuNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Heirloom",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPQGhTHFftLA8utvPz1FkfaXp9pFZrAAJ4gAACz2WZSvADd9cVtrCLNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "H377",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPQWhTHGCuZHynitICOryUCZcG6gEJAAJ6gAACz2WZSoqGqQn-leFwNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "De Sade",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPQmhTHG6a3aMfevWkp2fI-ZvBIOBpAAJ7gAACz2WZSrKfe-JKhjeNNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Finale",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPQ2hTHHnv1RKZ3sSKjKZugnUDNM16AAJ9gAACz2WZSuTNWIaNLXaYNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Синглы",
+        "title": "All Out Life",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPRWhTHIXWGoGXNHFVPsdTymOvboKUAAJ-gAACz2WZSgfbPRKfHHYcNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO5GhTFqooe2LH8A9w4NG0ocqHKTMlAAKI-zEbz2WZSsncpnzr9k5GAQADAgADeQADNgQ",
+        "date": "2018-10-31"
+    },
+    {
+        "album": "Iowa",
+        "title": "Left Behind",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPRmhTHIbJU4A7HCQDWQ41h6H_JRecAAJ_gAACz2WZSrVZV9FZt24tNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIO_WhTF1xTY8bu41n-P-fCx0FxSW_lAAKU-zEbz2WZSmJtYA62jPvrAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "The Blister Exists",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPR2hTHIdAuLKckYAnHcEuLWlmQQL1AAKAgAACz2WZSg2-QRUXmo-ONgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Vermilion",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPSGhTHIik7Ey3P6N-uhrb40L4-YTbAAKBgAACz2WZSgvfiZfCbTrrNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "Pulse of the Maggots",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPSWhTHIlYKgseYiZVihazVQIrELjJAAKCgAACz2WZShlEi3LeNcVgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Vol. 3  The Subliminal Verses",
+        "title": "The Virus of Life",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPSmhTHIu_O5dcmaAxh-nF20vqUAVRAAKIeQAC5VyZSnp5PC602TWDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPDGhTF_Ig6GwrVzg028rnpyS70czOAALN9TEb5VyZSuh7PEa0fJlqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Gematria (The Killing Name)",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPS2hTHIyp-haiNckUpWaypgqDZGZSAAKDgAACz2WZSt6-varC8OkXNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Sulfur",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPTGhTHI7HL442Lo1IvMQ7d1F3md8kAAKEgAACz2WZSlIGQc3IiuLpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Vendetta",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPTWhTHI8hxeCzavuQfcHdbCSD_D0IAAKFgAACz2WZSlvpA5HAsy8PNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Butcher's Hook",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPTmhTHJD8TPukdM7l8U-flBdvq49PAAKGgAACz2WZSnCZGoWsxYhGNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "All Hope Is Gone",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPT2hTHJJQWbWIOUQe5W3JSrXEuti6AAKHgAACz2WZSqSITVG5cxX0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": "All Hopes Is Gone",
+        "title": "Child of Burning Time",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPUGhTHJNpjmq6khXLnHJ8TdAID79KAAKIgAACz2WZSjI488T_lt8_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPGmhTGL0pkZLt8A6GFTNn2PIDExSoAAKb-zEbz2WZSrWacPE-7lfqAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Sarcastrophe",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPUWhTHJSE2U4gtaUzkU_094Kda2a9AAKJeQAC5VyZSkQ3D-yQ5di8NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "The Devil in I",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPUmhTHJXhDgi348ff4JHJVyvXoZuEAAKJgAACz2WZSofthMC-UPPJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "The Negative One",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPU2hTHJfOAAHX2y8JMLDfaCFUfU7ojAACioAAAs9lmUqUswOGhSoCmzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "If Rain Is What You Want",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPVGhTHJhcpf0bAj-ovihFgRPvtPe1AAKLgAACz2WZSmC7PX6ymsITNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "Override",
+        "performer": "Slipknot",
+        "genre": "Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPVWhTHJuRZBuG-tIPvHwr3mi85ShoAAKMgAACz2WZSrHkhm-lS10jNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": ".5  The Grey Chapter",
+        "title": "The Burden",
+        "performer": "Slipknot",
+        "genre": "Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPVmhTHJ3quo0gowJFMrux8h0_efDWAAKNgAACz2WZStJsyY_hf_zENgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPJmhTGbhT98VDYGc-fcP3QS6L0O6cAAKh-zEbz2WZSvM1MzkEz-jjAQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Birth Of The Cruel",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPV2hTHJ4kd_nTOxHOHd9BK5ydETYqAAKOgAACz2WZSmzsZIwseqzuNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Nero Forte",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPWGhTHJ-d1i_NY_A19SZaS_DuP-gTAAKPgAACz2WZSsScVwMEQSGINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Critical Darling",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPWWhTHKAKMneoBdaFrZKtoui1GL7yAAKRgAACz2WZSkZ809qctfaINgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "A Liar's Funeral",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPWmhTHKJmmAcfBqBjfRQ7wsAPEAiDAAKSgAACz2WZSnBXOmiqClQQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Spiders",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPW2hTHKPW13NFoqvrSxOdV78QEWYpAAKTgAACz2WZSo-Ixfm4xMscNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Orphan",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPXGhTHKRLIAwq79sSxU9U4_mDMCrgAAKUgAACz2WZSozMXAc8w9TqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "My Pain",
+        "performer": "Slipknot",
+        "genre": "Rock& Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPXWhTHKW89U3w87-TS3iaC0uL2B29AAKVgAACz2WZSh1VCvKKVXGhNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Not Long for This World",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPXmhTHKdLZHh3g1eolaGch6_ZrHaXAAKWgAACz2WZShFpGCNrfUnXNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "We Are Not Your Kind",
+        "title": "Solway Firth",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPX2hTHKgY5v0ixtT_9T3yd3_nIhLeAAKXgAACz2WZSrBETYrj11iFNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPM2hTGqhR-F1YCijjpymAl-V8XsV7AAKv-zEbz2WZSh36w3xw8Jx4AQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Adderall",
+        "performer": "Slipknot",
+        "genre": "Rock, Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPYGhTHKo_9E1dvo9njRrDtNT6rWmyAAKYgAACz2WZShWu9EeJ04ADNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "The Chapeltown Rag",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPYWhTHKuugDel0XZRsYUcF2V3uKlkAAKZgAACz2WZSo7KBT0mys6ZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Medicine for the Dead",
+        "performer": "Slipknot",
+        "genre": "Rock, Heavy Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPYmhTHKwar2zK9muXdJRO3RoI_ooyAAKagAACz2WZSre_B1920XT1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    },
+    {
+        "album": "The End, So Far",
+        "title": "Acidic",
+        "performer": "Slipknot",
+        "genre": "Rock & Metal",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIPY2hTHK1JRJDT6YJpqafLRSdx9iqFAAKbgAACz2WZSm0aS2sHWyO5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIPOmhTG8G-gaKduuXXRsOw2fZToOoZAAK1-zEbz2WZSqzvOQItiZGOAQADAgADeQADNgQ"
+    }
+]

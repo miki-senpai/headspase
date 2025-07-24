@@ -1,667 +1,621 @@
-{
-    "albums": [
-        {
-            "album": "Синглы",
-            "genre": "Electro, Dance",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
-            "date": ""
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE",
-            "date": "2002"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "genre": "Rock",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ",
-            "date": "2007"
-        },
-        {
-            "album": "This Is War",
-            "genre": "Alternative",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ",
-            "date": "2010-11-22"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "genre": "Alternative",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ",
-            "date": "2013"
-        },
-        {
-            "album": "AMERICA",
-            "genre": "Alternative",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ",
-            "date": "2018"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "genre": "Alternative",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ",
-            "date": "2023"
-        }
-    ],
-    "tracks": [
-        {
-            "album": "Синглы",
-            "title": "Wouldn’t Change A Thing",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Electro, Dance",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICM2hC11XBeHxcpj5ghuwbsmVZO4MAA_Z0AALAWRlKuTLFsL0XT_Q2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
-            "date": "2021-10-15"
-        },
-        {
-            "album": "Синглы",
-            "title": "Stay",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICNGhC11YU8ztwfX_gsNni0y--FuecAAL3dAACwFkZSuJkNK2M6MISNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
-            "date": "2014-07-01"
-        },
-        {
-            "album": "Синглы",
-            "title": "City of Angels (Markus Schulz Remix)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Dance",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICNWhC11eSkZDHKx88luk63DyqbA4JAAL4dAACwFkZSvAAAWi1nZiNdTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
-            "date": "2014-06-30"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Capricorn (A Brand New Name)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICN2hC11lhGRHQ9CrcgPVKEmtDwP5dAAL5dAACwFkZSjknW1lPq6SBNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Edge Of The Earth",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICOGhC11oZLwoIppUqPWq6fstwD3vGAAL6dAACwFkZSmAlLG6VMG7lNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Fallen",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICOWhC11vB_LkpmrQOuXJMumId--PqAAL7dAACwFkZSoQM_538iID5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Oblivion",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICOmhC11y-9_5WRiyTdK3dGLDkDSfEAAL8dAACwFkZSvNn3Yl9xlIzNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Buddha For Mary",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICO2hC115UpRDDygABO62rHQG03Wy_WAAC_XQAAsBZGUrmZi2ttOXJCjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Welcome To The Universe",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICPGhC11_a7zd2YNmYNBwWMMF0POWfAAL-dAACwFkZSry4yIZppT5uNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Echelon",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICPWhC12CDpOe_NxTyAVYkojl1nvyTAAL_dAACwFkZSpY07B64-eIJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "The Mission",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICPmhC12HASoUct1cjYurIfMgxP5IvAAN1AALAWRlKLHXUhWK3m0s2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "End Of The Beginning",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICP2hC12MUHPqzIqpm-lV1IujUGFnBAAICdQACwFkZSqnbrYD1lpk6NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "93 Million Miles",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICQGhC12Qzckn8RI-yYq6VQSkTBU43AAIDdQACwFkZSohqgU5ioOpuNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "30 Seconds To Mars",
-            "title": "Year Zero",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICQWhC12bKDKA2AAG4cG9rivQIfdlSwwACBHUAAsBZGUq2f3MeHOuqrDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Attack",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICQ2hC12cXtV-awMp75CwQvplCgUzPAAIFdQACwFkZSoPqSlQ9oIgzNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "A Beautiful Lie",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICRGhC12nSfmEi_xoq-bHitDPHvyaMAAIGdQACwFkZSpxnPBSBAf92NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Was It A Dream?",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICRWhC15F0j9FtWtqjLmYCvJUVXICXAAIJdQACwFkZSl1eVOTFGLLmNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "The Fantasy",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICRmhC15J7kmNiIO2iRh3a5VmZXti5AAIKdQACwFkZSsQQY3z607RBNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Savior",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICR2hC15MlG6nVTaFbQEdTuCaBXpNOAAILdQACwFkZSlgQcJ2HKwUiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "From Yesterday",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICSGhC15SE4Cbje1_OfrMaL2lMkZJ3AAIMdQACwFkZSniXi2LT1EjeNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "The Story",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICSWhC15U90JSPjczNZFT-jXRblfxlAAINdQACwFkZSoCbg6mWedXyNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Battle Of One",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICSmhC15bs5-LqsrIKmPnzK28YBaxIAAIOdQACwFkZShsw0nat5yL9NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "A Modern Myth",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICS2hC15evLQwAAeiNnD9td56YOSffzgACD3UAAsBZGUpvXOmygEwb5zYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "R-Evolve",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICTGhC15g4-xSnKtRZeHHx5-KT4uC2AAIRdQACwFkZSm1GRQGhKbl1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Hunter",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICTWhC15mGwdqOtgom2dfoXTq8guXCAAITdQACwFkZShKsWavSgeFDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "Attack (Live)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICTmhC15q59NNz7B5eoRXIsFaaU8jOAAIUdQACwFkZSjXh7yFLmrJcNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Escape",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICUGhC1583VadOc92x5ZE6I_Q8yV_2AAIVdQACwFkZSsAuZxcxJFAMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Night Of The Hunter",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICUWhC16A-zp-6GB8l8ehCDH12cAoEAAIWdQACwFkZSnz2bDylvS6QNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Kings And Queens",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICUmhC16Le0NWlHhe1mpw-q7cKWNkvAAIXdQACwFkZSpa4xsAv2_ohNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "100 Suns",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICU2hC16P7w1yp9IFHFToVcq2itER4AAIYdQACwFkZSvtfL4RUsxkPNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "This Is War",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICVGhC16TMeDj3Qgi6lbCx-BDZEdLqAAIZdQACwFkZSizLFzU_fuUuNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Hurricane",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICVWhC16ZLlljFFpVR673vvgg9TtShAALvdwAC3TMYSopbA77NoFyPNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Closer To The Edge",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICVmhC16hPPyY0jAiGBzGKB6XgsX5jAAIadQACwFkZSi-aEjIx8TtpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Vox Populi",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICV2hC16pQiU2V78en5JuNdiQ2Ew7jAAIbdQACwFkZSoHHtCDkMOK1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Search And Destroy",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICWGhC16yjz2Z_9PPciTnGvTeOxtavAAIcdQACwFkZSvH1MXYZRBRJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "L490",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICWWhC1-bQSuQcGCSBzGgGIrXKUO14AAIgdQACwFkZStZLD9SOre-PNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Hurricane 2.0",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICWmhC1-pGwq0979nqA5LBl5x1ZRBoAAL8dwAC3TMYSsTVc31gJZs0NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Bad Romance (Live)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICW2hC1-w9T0Gx-myK37PaGm95FshFAAIjdQACwFkZSkE8L09cjJMgNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Stronger (Live)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICXWhC1-9eU6U_IdCTWhVpD7usHZ2tAAIldQACwFkZSgleX-gnBPJfNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Birth",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICX2hC1_FXxJtht7GTHni8mAAB7O6cMwACKHUAAsBZGUrwC__25r2JrDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Conquistador",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICYGhC1_N3NZUnFEjozWq74GMLyycFAAIpdQACwFkZSuEnul0khM1cNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Up In The Air",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICYWhC1_Z9jZV3yvfavlxyRbabRuWXAAIqdQACwFkZSraJ02QeyOyqNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "City Of Angels",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICYmhC1_k_FL59M9jTrajnSPUkfmKYAAItdQACwFkZSrwHTry3GMtENgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "The Race",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICY2hC1_sZlmLAEA_TDQRUhvhGqt9hAAIudQACwFkZSjZS0Nvz1JxpNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "End Of All Days",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICZGhC1_4QJLPh9dHf1Xpz2BOJJ-a2AALUbwACh0QZSp_qpCZt0MY5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Pyres Of Varanasi",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICZWhC1__S2c7rPBEn0FRarw4RRlmJAAIDeAAC3TMYSg2BAvu1NU4gNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Bright Lights",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICZmhC2AecYD3ssxJLlSIZl1lftKflAAIwdQACwFkZSuhpInwQmzbMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Convergence",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICZ2hC2BL_s9P-qaknvSakmKLx-miyAAIzdQACwFkZSpGqWIrkRQ4UNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Depuis Le Début",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICaWhC2BzuYpNXrndSf-xKMG6wGI0xAAI2dQACwFkZSl_Z2bcd3vtQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Northern Lights",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICamhC2CJWvESMfwz_b_RgXA2shzC3AAI3dQACwFkZSn194N_yBvRTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Walk On Water",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICbGhC2CiDyyyJM0-LaoFh5hpX80l8AAI6dQACwFkZSkjqB8u4ClQLNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Dangerous Night",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICbWhC2DnS78Gch5uqeeX8O4MxThhRAAI-dQACwFkZSjiv8qArqRHCNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Rescue Me",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICbmhC2EMo23YC5rbN2c95sh_HWWhcAAI_dQACwFkZSkGaWjCJF0LhNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Monolith",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICb2hC2EgkaP8WSNsPmuisw680RbOwAAJBdQACwFkZSrPe--uIeg2QNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "One Track Mind",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICcGhC2FAq9Pq32lA7V6XceyuFtNbvAAJCdQACwFkZSiwZK-Af7hlHNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Love Is Madness",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICcWhC2FNnNorD8JaG3uDefLKtMzkyAAJDdQACwFkZSq_aRJbGGZqRNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Great Wide Open",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICcmhC2FdQNGR4B_fcMM35C0Xmxh-XAAJEdQACwFkZSqxzAbr48O39NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Hail To The Victor",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICc2hC2FpFiRxoRdLsazqRci3Y1VD-AAJFdQACwFkZSmODDL8OHt76NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Dawn Will Rise",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICdGhC2F4gdvAalLPicqFxouAMBDKsAAJGdQACwFkZSgABD7aGRzZQtDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Remedy",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICdWhC2GD-6v7AqGnB48AAAfM52itsVAACSHUAAsBZGUolkCcAAVwlDwQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Rider",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICdmhC2GMxSPPK7fxYd5uayCnSouJTAAJJdQACwFkZSoKdkhMG4rTkNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "AMERICA",
-            "title": "Live Like A Dream",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICd2hC2GUU2bphuslxSfQse7oxAvsnAAJKdQACwFkZSq7HF0AXcTcUNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Stuck",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICeWhC2GizbuFjCVeV3PN-apAWn5r3AAJLdQACwFkZSkQGUnPNdBnxNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Love These Days",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICemhC2GpJQYc0CZdhzLUu_2-7M8VZAAJMdQACwFkZSnAln1bAYPYONgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Get Up Kid",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICe2hC2GtARTLHcVM79bcR_xxjWZKZAAJNdQACwFkZSkTYQtUtPOXJNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Seasons",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICfGhC2G6VX7eR8_CzOimHWjb1puQuAAJOdQACwFkZSrI6X9LqMOIaNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Life Is Beautiful",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICfWhC2Hr3-UU3EIqJ5c1QD8NeIGVmAAJQdQACwFkZSk17pyK3Cc64NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "7:1",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICfmhC2Ir9cE3--BSOstra_TSnMICOAAJSdQACwFkZSp23w2RfHxPZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "World On Fire",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICf2hC2Jadefuzd2tYaAwk2oMqEPjSAAJTdQACwFkZSr3cPu1MeHp3NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Never Not Love You",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICgGhC2KHay6jxe-S0vwTnFsPPy9jfAAJUdQACwFkZSiotbRGnbh5TNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Lost These Days",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICgWhC2LSEgbke38OtvEoTwqEP2cz_AAJWdQACwFkZSlstE1zHxSr0NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Midnight Prayer",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICgmhC2MCSVH9Is1sWCLHD0D-nW5HHAAJYdQACwFkZSou-_0HxEF4bNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Alibi",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIChGhC2PNoliAl6RQUUiKxkj5xxC1VAAJedQACwFkZSgg9lPS3Wn5-NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "This Is War",
-            "title": "Stranger In A Strange Land",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIChWhC2PTp13vxF9DyMJoUf6tloelFAAJfdQACwFkZSr4i3mNyQnFANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
-        },
-        {
-            "album": "LOVE LUST FAITH + DREAMS",
-            "title": "Do Or Die",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIChmhC2PZiA7KFpZALuMCkuIunbUl2AAJgdQACwFkZSirnNGExiQAB-DYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
-        },
-        {
-            "album": "It's The End Of The World But It's A Beautiful Day",
-            "title": "Avalanche",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Alternative",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICh2hC2PdeSVncTwk7TtqyZ0Ez31jmAAJhdQACwFkZSsLivFSj7XYlNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
-        },
-        {
-            "album": "A Beautiful Lie",
-            "title": "The Kill (Bury Me)",
-            "performer": "Thirty Seconds To Mars",
-            "genre": "Rock",
-            "file_id": "CQACAgIAAyEGAASavGeAAAICimhC2dfp5W6scaAxbIsW8lgsrgsaAAJ5dQACwFkZSg_oggyZqjj_NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
-        }
-    ]
-}
+[
+    {
+        "album": "Синглы",
+        "title": "Wouldn’t Change A Thing",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Electro, Dance",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICM2hC11XBeHxcpj5ghuwbsmVZO4MAA_Z0AALAWRlKuTLFsL0XT_Q2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
+        "date": "2021-10-15"
+    },
+    {
+        "album": "Синглы",
+        "title": "Stay",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICNGhC11YU8ztwfX_gsNni0y--FuecAAL3dAACwFkZSuJkNK2M6MISNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
+        "date": "2014-07-01"
+    },
+    {
+        "album": "Синглы",
+        "title": "City of Angels (Markus Schulz Remix)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Dance",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICNWhC11eSkZDHKx88luk63DyqbA4JAAL4dAACwFkZSvAAAWi1nZiNdTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICMmhC11NOvWgxLxG8mqCAInXreQ48AAK49DEbwFkZSpdg6OP1A03qAQADAgADeQADNgQ",
+        "date": "2014-06-30"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Capricorn (A Brand New Name)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICN2hC11lhGRHQ9CrcgPVKEmtDwP5dAAL5dAACwFkZSjknW1lPq6SBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Edge Of The Earth",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICOGhC11oZLwoIppUqPWq6fstwD3vGAAL6dAACwFkZSmAlLG6VMG7lNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Fallen",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICOWhC11vB_LkpmrQOuXJMumId--PqAAL7dAACwFkZSoQM_538iID5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Oblivion",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICOmhC11y-9_5WRiyTdK3dGLDkDSfEAAL8dAACwFkZSvNn3Yl9xlIzNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Buddha For Mary",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICO2hC115UpRDDygABO62rHQG03Wy_WAAC_XQAAsBZGUrmZi2ttOXJCjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Welcome To The Universe",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICPGhC11_a7zd2YNmYNBwWMMF0POWfAAL-dAACwFkZSry4yIZppT5uNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Echelon",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICPWhC12CDpOe_NxTyAVYkojl1nvyTAAL_dAACwFkZSpY07B64-eIJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "The Mission",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICPmhC12HASoUct1cjYurIfMgxP5IvAAN1AALAWRlKLHXUhWK3m0s2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "End Of The Beginning",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICP2hC12MUHPqzIqpm-lV1IujUGFnBAAICdQACwFkZSqnbrYD1lpk6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "93 Million Miles",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICQGhC12Qzckn8RI-yYq6VQSkTBU43AAIDdQACwFkZSohqgU5ioOpuNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "30 Seconds To Mars",
+        "title": "Year Zero",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICQWhC12bKDKA2AAG4cG9rivQIfdlSwwACBHUAAsBZGUq2f3MeHOuqrDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICNmhC11jD5sLJQJtzG8JUi6pzLt8zAALf9DEbh0QZSmUuoSdKd5wAAQEAAwIAA3kAAzYE"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Attack",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICQ2hC12cXtV-awMp75CwQvplCgUzPAAIFdQACwFkZSoPqSlQ9oIgzNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "A Beautiful Lie",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICRGhC12nSfmEi_xoq-bHitDPHvyaMAAIGdQACwFkZSpxnPBSBAf92NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Was It A Dream?",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICRWhC15F0j9FtWtqjLmYCvJUVXICXAAIJdQACwFkZSl1eVOTFGLLmNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "The Fantasy",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICRmhC15J7kmNiIO2iRh3a5VmZXti5AAIKdQACwFkZSsQQY3z607RBNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Savior",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICR2hC15MlG6nVTaFbQEdTuCaBXpNOAAILdQACwFkZSlgQcJ2HKwUiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "From Yesterday",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICSGhC15SE4Cbje1_OfrMaL2lMkZJ3AAIMdQACwFkZSniXi2LT1EjeNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "The Story",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICSWhC15U90JSPjczNZFT-jXRblfxlAAINdQACwFkZSoCbg6mWedXyNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Battle Of One",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICSmhC15bs5-LqsrIKmPnzK28YBaxIAAIOdQACwFkZShsw0nat5yL9NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "A Modern Myth",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICS2hC15evLQwAAeiNnD9td56YOSffzgACD3UAAsBZGUpvXOmygEwb5zYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "R-Evolve",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICTGhC15g4-xSnKtRZeHHx5-KT4uC2AAIRdQACwFkZSm1GRQGhKbl1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Hunter",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICTWhC15mGwdqOtgom2dfoXTq8guXCAAITdQACwFkZShKsWavSgeFDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "Attack (Live)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICTmhC15q59NNz7B5eoRXIsFaaU8jOAAIUdQACwFkZSjXh7yFLmrJcNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Escape",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICUGhC1583VadOc92x5ZE6I_Q8yV_2AAIVdQACwFkZSsAuZxcxJFAMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Night Of The Hunter",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICUWhC16A-zp-6GB8l8ehCDH12cAoEAAIWdQACwFkZSnz2bDylvS6QNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Kings And Queens",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICUmhC16Le0NWlHhe1mpw-q7cKWNkvAAIXdQACwFkZSpa4xsAv2_ohNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "100 Suns",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICU2hC16P7w1yp9IFHFToVcq2itER4AAIYdQACwFkZSvtfL4RUsxkPNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "This Is War",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICVGhC16TMeDj3Qgi6lbCx-BDZEdLqAAIZdQACwFkZSizLFzU_fuUuNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Hurricane",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICVWhC16ZLlljFFpVR673vvgg9TtShAALvdwAC3TMYSopbA77NoFyPNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Closer To The Edge",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICVmhC16hPPyY0jAiGBzGKB6XgsX5jAAIadQACwFkZSi-aEjIx8TtpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Vox Populi",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICV2hC16pQiU2V78en5JuNdiQ2Ew7jAAIbdQACwFkZSoHHtCDkMOK1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Search And Destroy",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICWGhC16yjz2Z_9PPciTnGvTeOxtavAAIcdQACwFkZSvH1MXYZRBRJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "L490",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICWWhC1-bQSuQcGCSBzGgGIrXKUO14AAIgdQACwFkZStZLD9SOre-PNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Hurricane 2.0",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICWmhC1-pGwq0979nqA5LBl5x1ZRBoAAL8dwAC3TMYSsTVc31gJZs0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Bad Romance (Live)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICW2hC1-w9T0Gx-myK37PaGm95FshFAAIjdQACwFkZSkE8L09cjJMgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Stronger (Live)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICXWhC1-9eU6U_IdCTWhVpD7usHZ2tAAIldQACwFkZSgleX-gnBPJfNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Birth",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICX2hC1_FXxJtht7GTHni8mAAB7O6cMwACKHUAAsBZGUrwC__25r2JrDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Conquistador",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICYGhC1_N3NZUnFEjozWq74GMLyycFAAIpdQACwFkZSuEnul0khM1cNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Up In The Air",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICYWhC1_Z9jZV3yvfavlxyRbabRuWXAAIqdQACwFkZSraJ02QeyOyqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "City Of Angels",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICYmhC1_k_FL59M9jTrajnSPUkfmKYAAItdQACwFkZSrwHTry3GMtENgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "The Race",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICY2hC1_sZlmLAEA_TDQRUhvhGqt9hAAIudQACwFkZSjZS0Nvz1JxpNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "End Of All Days",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICZGhC1_4QJLPh9dHf1Xpz2BOJJ-a2AALUbwACh0QZSp_qpCZt0MY5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Pyres Of Varanasi",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICZWhC1__S2c7rPBEn0FRarw4RRlmJAAIDeAAC3TMYSg2BAvu1NU4gNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Bright Lights",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICZmhC2AecYD3ssxJLlSIZl1lftKflAAIwdQACwFkZSuhpInwQmzbMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Convergence",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICZ2hC2BL_s9P-qaknvSakmKLx-miyAAIzdQACwFkZSpGqWIrkRQ4UNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Depuis Le Début",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICaWhC2BzuYpNXrndSf-xKMG6wGI0xAAI2dQACwFkZSl_Z2bcd3vtQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Northern Lights",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICamhC2CJWvESMfwz_b_RgXA2shzC3AAI3dQACwFkZSn194N_yBvRTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Walk On Water",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICbGhC2CiDyyyJM0-LaoFh5hpX80l8AAI6dQACwFkZSkjqB8u4ClQLNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Dangerous Night",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICbWhC2DnS78Gch5uqeeX8O4MxThhRAAI-dQACwFkZSjiv8qArqRHCNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Rescue Me",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICbmhC2EMo23YC5rbN2c95sh_HWWhcAAI_dQACwFkZSkGaWjCJF0LhNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Monolith",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICb2hC2EgkaP8WSNsPmuisw680RbOwAAJBdQACwFkZSrPe--uIeg2QNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "One Track Mind",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICcGhC2FAq9Pq32lA7V6XceyuFtNbvAAJCdQACwFkZSiwZK-Af7hlHNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Love Is Madness",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICcWhC2FNnNorD8JaG3uDefLKtMzkyAAJDdQACwFkZSq_aRJbGGZqRNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Great Wide Open",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICcmhC2FdQNGR4B_fcMM35C0Xmxh-XAAJEdQACwFkZSqxzAbr48O39NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Hail To The Victor",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICc2hC2FpFiRxoRdLsazqRci3Y1VD-AAJFdQACwFkZSmODDL8OHt76NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Dawn Will Rise",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICdGhC2F4gdvAalLPicqFxouAMBDKsAAJGdQACwFkZSgABD7aGRzZQtDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Remedy",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICdWhC2GD-6v7AqGnB48AAAfM52itsVAACSHUAAsBZGUolkCcAAVwlDwQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Rider",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICdmhC2GMxSPPK7fxYd5uayCnSouJTAAJJdQACwFkZSoKdkhMG4rTkNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "AMERICA",
+        "title": "Live Like A Dream",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICd2hC2GUU2bphuslxSfQse7oxAvsnAAJKdQACwFkZSq7HF0AXcTcUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICa2hC2CMl1vuMLrYi7gPUfszb9iTOAALe7zEb3TMYSn68w9rnfbpFAQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Stuck",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICeWhC2GizbuFjCVeV3PN-apAWn5r3AAJLdQACwFkZSkQGUnPNdBnxNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Love These Days",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICemhC2GpJQYc0CZdhzLUu_2-7M8VZAAJMdQACwFkZSnAln1bAYPYONgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Get Up Kid",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICe2hC2GtARTLHcVM79bcR_xxjWZKZAAJNdQACwFkZSkTYQtUtPOXJNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Seasons",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICfGhC2G6VX7eR8_CzOimHWjb1puQuAAJOdQACwFkZSrI6X9LqMOIaNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Life Is Beautiful",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICfWhC2Hr3-UU3EIqJ5c1QD8NeIGVmAAJQdQACwFkZSk17pyK3Cc64NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "7:1",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICfmhC2Ir9cE3--BSOstra_TSnMICOAAJSdQACwFkZSp23w2RfHxPZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "World On Fire",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICf2hC2Jadefuzd2tYaAwk2oMqEPjSAAJTdQACwFkZSr3cPu1MeHp3NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Never Not Love You",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICgGhC2KHay6jxe-S0vwTnFsPPy9jfAAJUdQACwFkZSiotbRGnbh5TNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Lost These Days",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICgWhC2LSEgbke38OtvEoTwqEP2cz_AAJWdQACwFkZSlstE1zHxSr0NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Midnight Prayer",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICgmhC2MCSVH9Is1sWCLHD0D-nW5HHAAJYdQACwFkZSou-_0HxEF4bNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Alibi",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIChGhC2PNoliAl6RQUUiKxkj5xxC1VAAJedQACwFkZSgg9lPS3Wn5-NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "This Is War",
+        "title": "Stranger In A Strange Land",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIChWhC2PTp13vxF9DyMJoUf6tloelFAAJfdQACwFkZSr4i3mNyQnFANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICT2hC1552DqLYJy-hHsQVJkp31qT8AAK69DEbwFkZSkMeJK_50roeAQADAgADeQADNgQ"
+    },
+    {
+        "album": "LOVE LUST FAITH + DREAMS",
+        "title": "Do Or Die",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIChmhC2PZiA7KFpZALuMCkuIunbUl2AAJgdQACwFkZSirnNGExiQAB-DYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICXmhC1_DhF8rWu7ZjDWOcxEhvZVYZAAK99DEbwFkZSlzzK4moo72LAQADAgADeAADNgQ"
+    },
+    {
+        "album": "It's The End Of The World But It's A Beautiful Day",
+        "title": "Avalanche",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Alternative",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICh2hC2PdeSVncTwk7TtqyZ0Ez31jmAAJhdQACwFkZSsLivFSj7XYlNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICeGhC2GYzGnFJOwyWcdiNujj4b5U-AALB9DEbwFkZSnZKdMlXx0G2AQADAgADeAADNgQ"
+    },
+    {
+        "album": "A Beautiful Lie",
+        "title": "The Kill (Bury Me)",
+        "performer": "Thirty Seconds To Mars",
+        "genre": "Rock",
+        "file_id": "CQACAgIAAyEGAASavGeAAAICimhC2dfp5W6scaAxbIsW8lgsrgsaAAJ5dQACwFkZSg_oggyZqjj_NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAICQmhC12eoDcaktslNuMNV422SwrXtAAK59DEbwFkZSnfGkV8wCwhpAQADAgADeQADNgQ"
+    }
+]

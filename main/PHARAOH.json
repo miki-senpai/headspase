@@ -1,1849 +1,1749 @@
-{
-    "albums": [
-        {
-            "album": "10:13",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA",
-            "date": "2025-04-25"
-        },
-        {
-            "album": "DOLOR",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA",
-            "date": "2015-07-31"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA",
-            "date": "2021-03-19"
-        },
-        {
-            "album": "Paywall",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA",
-            "date": "2015-01-05"
-        },
-        {
-            "album": "PHILARMONIA",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA",
-            "date": "2022-11-25"
-        },
-        {
-            "album": "PHLORA",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA",
-            "date": "2014-01-01"
-        },
-        {
-            "album": "PHOSPHOR",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA",
-            "date": "2016-07-13"
-        },
-        {
-            "album": "PHREQUENCY",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA",
-            "date": "2023-08-18"
-        },
-        {
-            "album": "PHUNERAL",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA",
-            "date": "2018-08-23"
-        },
-        {
-            "album": "Pink Phloyd",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA",
-            "date": "2017-07-08"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA",
-            "date": "2015-10-18"
-        },
-        {
-            "album": "Кондитерская",
-            "genre": "Unknown Genre",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ",
-            "date": "2016"
-        },
-        {
-            "album": "Плакшери",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA",
-            "date": "2016-02-24"
-        },
-        {
-            "album": "Правило",
-            "genre": "Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ",
-            "date": "2020-03-27"
-        },
-        {
-            "album": "Синглы",
-            "genre": "Unknown Genre",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": ""
-        },
-        {
-            "album": "УАДЖЕТ",
-            "genre": "Alternative, Rap/Hip Hop",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ",
-            "date": "2014-01-01"
-        }
-    ],
-    "tracks": [
-        {
-            "album": "10:13",
-            "title": "Родная Душа",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMuaDxkVx6bA8aUrqvol_9wGE-ASDUAAgxzAAJCC-FJ5jBL2bijWHE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Бензобак",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMvaDxkWJkZSSboPfYafuLH2gK6Ap4AAg1zAAJCC-FJdi9CGsWE_2w2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Москва (Не Про)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMwaDxkWfiENkzY7nOigVOWFxNHQJIAAg5zAAJCC-FJtPzMHk3RAAFNNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Для Насилия",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMxaDxkWtzB2vt6-M31OYnAz6m-U8YAAg9zAAJCC-FJZqVGLqkmdtY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Рок Стар Sh",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMyaDxkW49BN6-CDncJtVGB2ZPhB5UAAhBzAAJCC-FJFIJ2Jy8zuvg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Своя У Каждого",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAMzaDxkWwYJ3DfgjX1C5C9sSkEny4wAAhFzAAJCC-FJjunx09cCgzo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "НЛО",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM0aDxkXOLiE00h3VTl2Bf-cj7D8Z8AAhJzAAJCC-FJQ1AcDQi5H6U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "10:13",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM1aDxkXfaEwYXzTJ3kxAFY_NHbVAsAAhNzAAJCC-FJiKClGVExquI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Танцы На Останках",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM2aDxkXmO5M3E49x4R9VfubdSr7hEAAhRzAAJCC-FJeqMFPHPHQfE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Запах Лилий",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM3aDxkYhCr7WRX47cz0e3imBksqnkAAhVzAAJCC-FJ0AK9gPTe-pA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "На Крышах",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM4aDxkZARxwdm0mfms7_7yLTzqK34AAhZzAAJCC-FJRluTMFvyknc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Бóльшая Цель",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM5aDxkZRmLgtCW3mjSn4TwsilfocwAAhdzAAJCC-FJzE0cCkAklQg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Москва 2",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM6aDxkZgXrptLaTswZN9X33hxFvFUAAhhzAAJCC-FJtXlg_vT7YGo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Факты",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM7aDxkZ-w8-czJS0ubvbTe8biM7oUAAhlzAAJCC-FJKRejNgu2L142BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Чисто Символически",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM8aDxkaEglPiJ9ru1H6mzoGQEnVukAAhpzAAJCC-FJXHumCaNyrjY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "На Убийство (Ради Тебя)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM9aDxkaegAAbROH5M6c6TjLccAAdFwKgACG3MAAkIL4UnNqj2RaEKNZTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Солнце (Bonus)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM-aDxkak2o-Ol96OfQ5ZqUDROBGHEAAhxzAAJCC-FJcN7ngGzvMuk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "Не По-Христиански (Bonus)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAM_aDxka-ZdwxsITzDUrFEYOoQ7pNMAAh1zAAJCC-FJEkpl3LKbVf02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "10:13",
-            "title": "OMEGA",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANAaDxkbCCTSBN-BNx2Epj8l2JYpKoAAh5zAAJCC-FJin00BA2hseM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Cold Siemens",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANDaDxknDNaJiT9NcbwRveChItE_jwAAiJzAAJCC-FJCvOWdvY8tuw2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Передай привет",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANEaDxkndCEohuC0S61v__FQLuKLE4AAiNzAAJCC-FJeT-2DF7YdKs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Идол",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANFaDxknkZYX58E_4BLfsUlwmHZRnUAAiRzAAJCC-FJEPhxObOuP-M2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Пекло",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANGaDxkn5nHKGqyDpM0560gGIYBomEAAiVzAAJCC-FJJjEPd-3se9U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Голое дерево",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANHaDxkoB_Z7CJnLFeXdbO1nHoYmesAAiZzAAJCC-FJJUV4lYLVhak2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Невыносимая боль",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANIaDxkobICZgm7ZDhS8dd4rUVvAAE5AAIncwACQgvhSYo-soxEsTTqNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Пожар",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANKaDxkop39n8zs7CEqjmOZc03zOC4AAilzAAJCC-FJf_cmtlcy-Hk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "В ванной",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANLaDxko6xOQJ3abFdFvi86BLdYasUAAipzAAJCC-FJPHpgdVWizC82BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "RUSTRELL",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANMaDxkpMMCdCtmqX969aqOta90EBUAAitzAAJCC-FJlfmBzgvTsWg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "На твоём теле",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANNaDxkqF8IjiE6I7yoOIg_ZzN4MWsAAixzAAJCC-FJJddEN8agVXU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Новая эра",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANOaDxkqUb2HGStcymUMuJWnD2mkEgAAi1zAAJCC-FJvnimAuxpFmU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Беги от меня",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANPaDxkqv1ezhgvfvdJk19RkgFNjYYAAi5zAAJCC-FJRdgsN4yNuPo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Клуб 18. До тла",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANQaDxkq8yU16hjauv8RXWMVBImPKYAAi9zAAJCC-FJ62UEsXS74Zg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Козловский",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANRaDxkrNfIix1MasU2b8Z9f-ssHfgAAjBzAAJCC-FJr5VuPXCJ6vE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Перед Смертью Все Равны",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANUaDxksY8ftpL_jhsS7vtVh2w-k4YAAjFzAAJCC-FJ0stPQXy5hd42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Всему Свое Время",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANVaDxk1AqKVH2KIR3SH6upjZ_u6KMAAjRzAAJCC-FJCR_NNpXH8sg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Нет Сердца",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANWaDxk1nbY27jxpLCWftLDSo2d7KcAAjVzAAJCC-FJEzM9VfuW8N42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Никогда Опять",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANXaDxk2JBZdj792-b2r-oL6RC2krgAAjZzAAJCC-FJ-kXQFNbbkQc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Эми",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANYaDxk2ypIpSxNx-JVasOpBij65pcAAjdzAAJCC-FJeQABea49CrTsNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Route 333 OST",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANZaDxk3WR8KAPkULEaPN_U117ytX8AAgx2AAIL-ulJpxnX8AUqOdA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Судный День",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANaaDxk39rRPbIVMJf-rWkdoJ6k4zQAAjhzAAJCC-FJWlNgVpdQBCo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "1 из Легенд",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANbaDxk4RCfVygsIKlSP-rUB9wbH6cAAjlzAAJCC-FJG_dIlEQyWHQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "The Real Unplugged (Acceptance of Darkness)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANcaDxk46neWLB6uyw_mP2eJcOTJKQAAjpzAAJCC-FJLHl4ebci_lM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Silence !",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANdaDxk5ltewxzdIDKGBPNUCxdY8ZQAAjtzAAJCC-FJxZobtQ5nLY42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "ДНМП",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANeaDxk7ri48j84y92JCXoP92I5_OQAAjxzAAJCC-FJCaNa8KhiTGU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Ода Сочиненная Изнанкой",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANgaDxlAWKE8mvvyux5W4fDrLxoCuEAAj9zAAJCC-FJ43ws9u-RfNA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "Ведьмин дом",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANlaDxlM78eT_Ixs9x1zuVxCHdT9c4AAkZzAAJCC-FJdihDtJ9N0f02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "Zatoichi",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANmaDxlNXFS1kQUc5TLiP9dLeQ_2VQAAkdzAAJCC-FJQ9uL7LNRyDU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "Внутренности в кейсе",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANnaDxlN5rjcyR9gJxBCoQ1plG6spAAAkhzAAJCC-FJ6IJzlZK0BH02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "Tearz",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANoaDxlOCFJOe5_OjzU-vS9VATNu7QAAklzAAJCC-FJMGxXe6NsIWQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Может Расскажешь, Что Ты Чувствуешь (Главные Ворота)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANraDxlOo8IEBL0whnY21BZi8E8lC8AAkpzAAJCC-FJ2-nKgjmsC7Y2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Соната Ей",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANsaDxlO-p2MOccH0xwDayQrpId2f0AAktzAAJCC-FJ9MbPxqWK2tE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Идиот",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANtaDxlPEcT23jZif7hOpHeqHo_EscAAkxzAAJCC-FJqfTIkjuqixU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Драгоценный Металл",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANuaDxlQBme2qOWK5MGifq7epWfp2kAAk1zAAJCC-FJZPJniSkSBHM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Белые Нити (Незабываема)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANvaDxlQdP5AVD52BCPd4hBbnmqknsAAk5zAAJCC-FJLZ-afr5qJUg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Колыбель На Судный День",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANwaDxlQtmTOghQhGJSAf1Bc99m86gAAk9zAAJCC-FJRE1fm51Id182BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Океан Бассейн Вид",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANxaDxlQzsJZdD2mW-5usBDDuTY-9YAAlBzAAJCC-FJgDlXUC1Zzog2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Я Смотрел Как Ты Танцуешь",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANyaDxlRJJYu2p3R3cse1IIW3rigO4AAlFzAAJCC-FJel3vpHok5Z42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Я Потратил Ночь На Поиск",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAANzaDxlRe6vH5aBLbyrK2qLNzW5pdUAAlJzAAJCC-FJWkvKit7vI0s2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Кто-Нибудь Знает, О Чем Эта Песня?",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN0aDxlRhdyNDHnNXQtkZvZAVKoKV8AAlNzAAJCC-FJLqcFzMwsr3U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Такими, Как Сейчас (Время Гасить Свечи)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN1aDxlVVhKQ5jtLFU1e9IDV8h0LH4AAlRzAAJCC-FJJi1rChwKRRs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Незабываема (Hamovniki House Mafia Remix)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN2aDxlVgHWZfDked4tw-GuH8qrjhEAAlVzAAJCC-FJangB8DZKSKU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Нет сети",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN5aDxlWM8HIwxoKlwQMfSNtXUuMFoAAldzAAJCC-FJ2PwtL-5FDMU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Фруктовый",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN6aDxlXDYLdHhTHjfpK8hiy1dWNRsAAllzAAJCC-FJEZ-WDNSrmcc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Листопад",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN7aDxlXS6p1yTDmdtKKgW9YdoOcG0AAlpzAAJCC-FJ_k93vriD3_c2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Чёрный плащ",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN8aDxlXkCNxZe4Hh26-4Rm_kSVeYsAAltzAAJCC-FJynC_WCQfwJY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Phlow.iso",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN9aDxlX700YNvu0pI50LM6uD4FBkoAAlxzAAJCC-FJtkP3v_LIihI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Digital капотня",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN-aDxlYDNG1YT-H-DPyC7wC6bmsT4AAl1zAAJCC-FJKwgIq2AifOw2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Флора",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAN_aDxlZPb-zqyT1I1GR36JBeRF3qEAAl5zAAJCC-FJ5bQOFHZJ2VU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Феникс",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOAaDxlZSSSI8pPFz2bot5smhtJ-HIAAuJxAALzi-BJkTfphMDWnEQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Поссейдон",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOBaDxlZvsmNVnSemWub_-8el9Xdx4AAl9zAAJCC-FJLpvRAatcuQABNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "RAW",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOCaDxlZuE6B9ZomKwJCvBeOG8QCq4AAmBzAAJCC-FJR5NfiYsaMmA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Ртуть",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAODaDxlZ74-YlYiizw92gFzabDvR_4AAmFzAAJCC-FJiRtI3h9jKn42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Слякоть",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOEaDxla-TrQq8n3H3jAAH8Qv_0XgqxAAJicwACQgvhSU6MJPlQVmqbNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHLORA",
-            "title": "Бойсбэнд",
-            "performer": "PHARAOH",
-            "genre": "Alternative& Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOFaDxlbCpEbNlE50_-viW5P07S-OAAAmNzAAJCC-FJFh4UGXhFNB02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Надеюсь у тебя нет аллергии на клубнику",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOJaDxlpKZy-H4ZxYFzpidxt_slxM8AAmdzAAJCC-FJu3wlSLMh2YI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Разложение",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOKaDxlrJkCC5xMJl9bjdkAAbG1OIokAAJpcwACQgvhSVDWr35thIheNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Выродок",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOLaDxlvlZTMdQf4F7G3Y5cp4nmj1kAAmxzAAJCC-FJve9T1dIXH2U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Я помню, как мы сожгли письма у канала",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOMaDxl0RBW1PgsoQ2Q7G75yzGC9jAAAm5zAAJCC-FJ5mIyyZBvwyU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Фосфор",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAONaDxl3VEfVP7iAbahAXlfevk4vooAAiJ2AAIL-ulJCEvM_aXnrGA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Конечно оригинал, заказывал из штатов",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOOaDxl3wmOTyh2MZScRK6WO5Gzoy8AAiN2AAIL-ulJ0xaYfr0OSXI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Вальс",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOPaDxl4XPsekusVkHG73NZIwR5etAAAm9zAAJCC-FJ7Dw1uqAjSzo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Мотая на кисть",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOQaDxl4jg-XDtOc1w0cxWvdBiu9QIAAiR2AAIL-ulJjHCYgvL2tRI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Вспоминая о светлом",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAORaDxl4oGGf-7z3_WDHkXL05-2mf4AAnFzAAJCC-FJVsmKwXGpl1Q2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Морион",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOTaDxl49I0CLTKkRFkfmCI1aaphzYAAnNzAAJCC-FJHiwX6iI4gEg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Давай останемся дома",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOUaDxl5MQaLIJHiehT67AHxJnX0HsAAnRzAAJCC-FJ-Au2t1K0Uto2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Ты, на луне, забери меня нах_й отсюда",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOVaDxl5rYVfsS7kZI1foQpG_SeBq8AAnVzAAJCC-FJsEytp6KorIM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Позволив молодости жить",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOWaDxl6jjn97gGTW6cWUKz_V0mgjUAAuhxAALzi-BJrQnhwv2pr042BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Клюква",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOXaDxl66fwYAam2z7bGi0fo1GkaBAAAndzAAJCC-FJG7xtc7FI2lc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Зачем ты это слушаешь, выключи",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOYaDxl7IsY2gKtNz-Pel5LNPDD2GQAAnhzAAJCC-FJjA9U8-aVXLE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "ММ (Bonus Track)",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOZaDxl7Qyumta0MIjxNdOuMenQ628AAnlzAAJCC-FJ85hXfmH-VFI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "На Одну Улыбку Больше",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOcaDxl8jfLa168K9_sq2q4_mW2EmUAAnpzAAJCC-FJaVcp_Mgbv282BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Лазарь",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOdaDxl8xcTwfOfeWC5itXeQffZL3sAAntzAAJCC-FJapiryvwVd7g2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "В Прошлых Жизнях",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOeaDxl9Ftv504MKipzEC5DKmN8og8AAnxzAAJCC-FJ2PQCMA_h8LI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Взглянем В Глаза Правде",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOfaDxl9fm1eDbL5YtzbfqqMh4I25wAAn1zAAJCC-FJJ8ecXQN4_FY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Чья Вина",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOgaDxl9iiwSIBQNxW795GN12YPA6gAAn5zAAJCC-FJ4GRge9qLIz42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Другие Души",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOhaDxl9wABdxwAASYFn74minjo0NmLDwACf3MAAkIL4Uk5HRfSFUBfrDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Не Могу",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOiaDxl-JwGlcnOdozX3q7vi64Ou70AAoBzAAJCC-FJIufeuXwq0Qk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "В Огне",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOjaDxmIIW5IbFOwSiAYkIUBDsb9WoAAodzAAJCC-FJ_zIOR8rSr982BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Время Вспять",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOkaDxmIU-1unMDyF09TFwoq1iYrwUAAohzAAJCC-FJyVoewPOtKuI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Пост Фактум",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOlaDxmI3dGtbdhNlz_rHvkmmE59z8AAolzAAJCC-FJsd7NPoNE5Os2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Дефект",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOoaDxmKL1njYcIbBqJetmB0C6cDiEAAopzAAJCC-FJQuVsvqmcS5Y2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Смарт",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOpaDxmKQ-ogQNW3umYT_ezQf-uI8IAAotzAAJCC-FJUn25RpO6HH82BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "10:0 фристайл",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOqaDxmKmSdP2ax3ODjeKzdwog-9dUAAo1zAAJCC-FJC3t85sMoW8o2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Флешгроб",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOraDxmKyybVUwva9N2fHlV82pAPp4AAo5zAAJCC-FJV29qmFOW7B02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Откровение успешного человека",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOsaDxmLGTRb6uovMUEYje3U30ReBkAAo9zAAJCC-FJj9iq2HuBbWQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Омертвение",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOtaDxmLtgYWPMhFmjoA3uceb7bJfIAApBzAAJCC-FJ354K4qE40bE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Солярис",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOuaDxmL-XmPZmDLfy19JQ5DF2Xm5sAApFzAAJCC-FJzOYcZ0uhgpM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Мой кайф",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOvaDxmMImqWT0gelT8PNW34GVC78sAApJzAAJCC-FJ50g0VAABZqXANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Последний трек на стене",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOwaDxmMo5bZ5voqfjWGj_3md5FKKMAApNzAAJCC-FJbs90sSgk-KA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Шипучка",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOxaDxmM4_-_psJSis4UHdtmewzDQoAApRzAAJCC-FJBUmdWiSjiLs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "1996",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOyaDxmNbTXTL8MxuMsTcsMWXn1h5wAApVzAAJCC-FJSM5i8S1DGCs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "RAW 2",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAOzaDxmNxgXQtIFKaVchDET5orGRXUAApZzAAJCC-FJaSrx9gjekfM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Пэрис Хилтон хоум видео",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO0aDxmORdA69U7LRHNQSUqFFqxHakAAu1xAALzi-BJv88UecnXi3c2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Лантана",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO1aDxmOkqNrVf25dQ0ps_FNRhZA44AApdzAAJCC-FJZHPIfUY3YEM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHUNERAL",
-            "title": "Пломбир (Bonus)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO2aDxmPHPJGcwndHRA0GJceIfilBsAAphzAAJCC-FJnSwheM5Zx_Y2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Проблемы",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO4aDxmdu4E9zdpf9dm_z8SlrEohO8AAptzAAJCC-FJaT-qHoxjZcA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Дико, например",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO5aDxmd8CrcnvAS5-QeChip3gvZTcAApxzAAJCC-FJznXfY1IUpR82BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Школа",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO6aDxmeOkxfsD7YQQJul5pEPZ6YtMAAp1zAAJCC-FJ88Za-oTByfE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Твоё место",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO7aDxmeXV4DP45mUZgXj6M0t67HM4AAp9zAAJCC-FJblJQKZszdms2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Реквием по эго (Interlude)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO8aDxmeqQ0toRybC-QOXOzjDDXh9IAAqBzAAJCC-FJY-ADcBdSwpQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Лаллипап",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO9aDxme-PhhcqdAAG4aLCjFSz3F6LmAAKhcwACQgvhScmoLyoigF52NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Louis Vuitton Kiss",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO-aDxmfG9WNqwVLAqHJDHOvUmhuSwAAqJzAAJCC-FJ0qywFKLIDXk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Одним целым",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAO_aDxmfYrvTPpzuFt5w4mqrucD1nMAAqNzAAJCC-FJnPEp7sjTaF02BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Много дел",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPAaDxmflbRILK8KKA08aax4PJOOLgAAqRzAAJCC-FJMJCbFNxVq1k2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Спроси моих друзей",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPBaDxmf7Dh3hiQBI7imhnK-ao6BRUAAqVzAAJCC-FJrj45hQ0aEwU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Мелисса / Моя сука",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPCaDxmgLHgN69DKj1wIBDKSYl7etYAAqZzAAJCC-FJkLHcNS3mgMI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Без меня",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPDaDxmgV0pHoByH8WWaI_28NFAKOoAAqdzAAJCC-FJNVUbWtEJfn82BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Одинокая звезда",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPEaDxmglGm2kSqBRC0C69qlD3AaGoAAqhzAAJCC-FJFqB_pkKsKo42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Порнозвезда (Remix) (Bonus Track)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPFaDxmhLP6jKNDS_eE5kFMH60hQA4AAqlzAAJCC-FJe_E6eWpK8KY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "From Dusk Till Dawn",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPIaDxmiY3wa-IGZSdExMmlZ7OFMXcAAqpzAAJCC-FJFNdDBpiFEHo2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "Enemy of the State",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPJaDxmiryx2Zbp8ZpYf59NBawVGAMAAqtzAAJCC-FJVTh6kKG_3jY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "1-800-Siemensixone",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPKaDxmixbi8s-dFh2C3ydJj2g0FA0AAqxzAAJCC-FJ5OC-poNnDcg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "Rage Mode (Killing Spree)",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPMaDxmnx6gwOnG9bwpky_GZWxs8W0AAq5zAAJCC-FJJ2SjSU6lSmc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "Empire Strikes Back",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPNaDxmoALllnq2cP9rqdZAZ32NhSQAAq9zAAJCC-FJnFDqp-Wp3Dk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "Call the Ambulance",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPOaDxmoRK5bhiXdshgJc2xYMjkw_EAArBzAAJCC-FJ_wABtA3l8vQUNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "Порнозвезда",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPRaDxmp1pZyGotwsGaf2Kc7vJdiREAArFzAAJCC-FJOtLrh_fVnvA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "Кекс",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPSaDxmqZnsyFEL4wPuRX7Lynq50hoAArJzAAJCC-FJHX10cP-JW3o2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "Золотые рыбки",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPTaDxmq-5VjlRfmeLHOvxpaDgCgKEAArNzAAJCC-FJvWVz6-SnlzQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "9 жизней",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPUaDxmrcfFIBoSsWZSxbtck2_JA90AArRzAAJCC-FJ5CknPD4elHk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "PiT",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPVaDxmrii4jlULRBLvE21I4JFO8DMAArVzAAJCC-FJVNuKnR3IfoM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Кондитерская",
-            "title": "Неон",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPWaDxmsLLQaPzQuERmkAf-24_YL5AAArZzAAJCC-FJGs0I_AdzkFc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Проснись и пеки",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPZaDxmskqja6Wm6ctl3PmMKPoQ7QIAArdzAAJCC-FJgzdasV5DEOk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "До харвеста",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPaaDxmtDp9Co3bxcrlXizxapd0ExQAArhzAAJCC-FJfHtlmS0EF7I2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "5 минут назад",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPbaDxmtc3tzSe2VUWow-IYg2U_PmgAAjB2AAIL-ulJMpcB_W_a6Ak2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Сюр",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPcaDxmtgABhfKgCA3rujQggW7muwxYAAK6cwACQgvhSetKRj0GkBBvNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Плакшери",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPdaDxmt4aD2T85Wv7cWkRMZMKsgL8AArtzAAJCC-FJA5ThzvIQTwg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Послушай сука",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPeaDxmubE2NiwrcDfal9f5cF8SanQAArxzAAJCC-FJ5AwFktM_Qsk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Cabernet Sauvignon",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPfaDxm2xIqbR63ZL0eVLBGfOrQbmoAAr9zAAJCC-FJXnIfJGSTbHk2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "Max Payne",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPgaDxm3N4DUWsKoWPVQuuKywABv_VDAALAcwACQgvhScCpLi1R_T1lNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Правило",
-            "title": "Ночь пятницы",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPjaDxm31WTVtl0GTiJOkBsQIL8eSEAAsFzAAJCC-FJ4fNKvPmt1ls2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Без ключа",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPkaDxm4lrUdeFQy-6gb61t2SZaKgYAAsJzAAJCC-FJtkGhkUwDAqw2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Не хочу",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPlaDxm4zK7f4WLz1-UoweXqpFb6qUAAsNzAAJCC-FJjasDz5n-HrE2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Тост",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPmaDxm5Fj2JopLGOW7L_rxkBaVI1kAAsRzAAJCC-FJ59pi_Ko7iFQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "AMG",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPnaDxm5ZcaMsd7b6n2kP2VcPdTSsQAAsVzAAJCC-FJC6hP2MXEfvA2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "То, чего нет",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPoaDxm5lbkjKj5EVPCFfOEaoio000AAsZzAAJCC-FJ5Yhqr37WOKs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Баллада",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPpaDxm6hZ6yT5svZODh6uFUTE0suoAAsdzAAJCC-FJnaItF1FZxTM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "За решёткой",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPqaDxm6yIYTHMl56_zBGOJ3IQIvx4AAshzAAJCC-FJrhQ8svhUrv42BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Лоулайф",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPraDxm6w6WsJVNJmQ5rVlLXs9a3TIAAslzAAJCC-FJt6w-Oll9vbI2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Призрак",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPsaDxm7CvyEZfQC8IUb9ktB_JNSbYAAspzAAJCC-FJ_UUVq1kmL5Y2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Чувствую",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPtaDxm7Xnqe35ytVxUAAEcjFc_mHgpAALLcwACQgvhSR3ljbP7ms21NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Семейные узы",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPuaDxm8bSRpuWUWZgSdQs4hYrM4pQAAsxzAAJCC-FJAAFb6de5_3DcNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Правило",
-            "title": "Из-за тебя",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPvaDxm8zSpB8f83PCePQdiKBi-dhkAAs5zAAJCC-FJGd3BgD9Sq2o2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
-        },
-        {
-            "album": "Синглы",
-            "title": "Клюква (Remix)",
-            "performer": "PHARAOH",
-            "genre": "Unknown Genre",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPyaDxm9n6ws-H3JYw8HUpkwce3OzMAAs9zAAJCC-FJcMB6iZD1fBg2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2020"
-        },
-        {
-            "album": "Синглы",
-            "title": "Boom Boom",
-            "performer": "PHARAOH",
-            "genre": "Pop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAPzaDxnLDFW7BprKIycCT3WOjxvcpoAAtFzAAJCC-FJGkTXEOAp8TM2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2020-07-31"
-        },
-        {
-            "album": "Синглы",
-            "title": "404",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP0aDxnN46Ayjkl8YCLhzKvdR5JN9oAAtNzAAJCC-FJLxqs14D2vPY2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016-06-30"
-        },
-        {
-            "album": "Синглы",
-            "title": "Smart",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP1aDxnQaDKj5LP0IAQTttiPbcb_F8AAtRzAAJCC-FJAAGje7tlO76FNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2018-08-08"
-        },
-        {
-            "album": "Синглы",
-            "title": "X-Ray",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP2aDxnVFf6bo68IUE7GGyf8v8zUnAAAtVzAAJCC-FJ3HMENf48-oQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016-06-29"
-        },
-        {
-            "album": "Синглы",
-            "title": "На луне",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP4aDxnavgjG0enNwwEQtUzHmjtK00AAtdzAAJCC-FJO7b5FibYpfU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2018-06-02"
-        },
-        {
-            "album": "Синглы",
-            "title": "Не по пути",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP5aDxna0j0kW7LtiamZwfU937xsYEAAthzAAJCC-FJzxYfw-edlug2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2018-10-11"
-        },
-        {
-            "album": "Синглы",
-            "title": "УБИЙЦА",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP6aDxnbEKv64l3McnccV1eH9rQUyQAAtlzAAJCC-FJghauXG4BN4A2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2018-03-16"
-        },
-        {
-            "album": "Синглы",
-            "title": "УЗЫ МОБА",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP7aDxnbuWWJpJp3oRYgXMleuISGRkAAtpzAAJCC-FJWuprwOy0eIQ2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2018-03-24"
-        },
-        {
-            "album": "Синглы",
-            "title": "Эми",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP8aDxnb08D42z4aKPlS9K65OYbe6EAAttzAAJCC-FJn9q4SklJj1U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2021-03-05"
-        },
-        {
-            "album": "Синглы",
-            "title": "Champagne Squirt",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP9aDxncJO96hYF5nihH7f4jhobt0EAAtxzAAJCC-FJlNTcUEeYQLs2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016-06-29"
-        },
-        {
-            "album": "Синглы",
-            "title": "Homeless God",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP-aDxncZi8pabEFe4U2ZKboDPhyNwAAt1zAAJCC-FJemrYmnm3UcU2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016-06-30"
-        },
-        {
-            "album": "Синглы",
-            "title": "Акид",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAP_aDxncjAu0fVa-tCWn6GH0PhLwb0AAt5zAAJCC-FJjvW1iDpK3Pc2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2021-12-17"
-        },
-        {
-            "album": "Синглы",
-            "title": "Герой",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBAAFoPGd0zvMZ-fuU9EV6551SSWw6qgAC33MAAkIL4UlYtyYF0QJwajYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-01-20"
-        },
-        {
-            "album": "Синглы",
-            "title": "Unplugged 2: Love Kills",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBAWg8Z3UrKEcqDqW9Towzddp-RYlaAALgcwACQgvhSfyKR2BUui0YNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-08-04"
-        },
-        {
-            "album": "Синглы",
-            "title": "Unplugged (Interlude)",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBAmg8Z3aaFdSme3a4wdJx4-1uRZOcAALhcwACQgvhSXoFw-vd5vkAATYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-02-27"
-        },
-        {
-            "album": "Синглы",
-            "title": "Глушитель",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBA2g8Z3eT_F1U6x0j5fok9y66X0h6AALicwACQgvhSTJul0gBwzKTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-12-03"
-        },
-        {
-            "album": "Синглы",
-            "title": "Pronto",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBBGg8Z3g0QaYPxTTibdZSLtb7PUAdAALjcwACQgvhSX6yHkYjZbLZNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-06-12"
-        },
-        {
-            "album": "Синглы",
-            "title": "Козловский (Remix)",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBBWg8Z3m_Uq0KfWXuN6IRmX0_fvuQAALkcwACQgvhSWfJ6mldIJLyNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016-06-30"
-        },
-        {
-            "album": "Синглы",
-            "title": "Мой ангел убил себя, я не успел с ним попрощаться",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBBmg8Z3p0_a2TZQT9P4DU0N0Cfg3AAALlcwACQgvhSccGfdMtyM9hNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-08-11"
-        },
-        {
-            "album": "Синглы",
-            "title": "Цвет Золота (из сериала «Прелесть»)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBB2g8Z3s1RY-pJ7yyCqTGE8SDkE9xAALmcwACQgvhSfvH-SRaO5r5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2024-01-18"
-        },
-        {
-            "album": "Синглы",
-            "title": "Bullet (feat. Pharaon)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBCGg8Z3yaBUBSd2IRpgc4Z_OM715-AALncwACQgvhSVe3BGXAPla7NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2015-07-19"
-        },
-        {
-            "album": "Синглы",
-            "title": "Not 4 U (feat. Pharaoh)",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBCWg8Z33_VJdlNnpWu6tSNVI5vuNhAALocwACQgvhSYLMTvFYcandNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-07-07"
-        },
-        {
-            "album": "Синглы",
-            "title": "Black Siemens",
-            "performer": "PHARAOH",
-            "genre": "Rap",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBCmg8Z3_lRxKStzIa4_z7aZbJCOApAALpcwACQgvhSf3mZh0riyf1NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2016"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Ничего не изменилось",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBDWg8Z6rghc9FfhC7bP_cn7M3kARmAALrcwACQgvhSRGcbq8aSH__NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "На дно",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBDmg8Z6xkLUSvMiQRq_Ail7kgMsdMAALscwACQgvhSRjOOV9dbIlcNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "2002",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBD2g8Z61YwtQvrTZUJMhj7jDuRCCTAALtcwACQgvhSXHHcaNekOonNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Уаджет",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBEGg8Z659dWNJoslUkRVZNeXz5dSuAAIPcgAC84vgSQZl8LSillPANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Виноградный день",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBEWg8Z68ozQnpipCyf_D-BVfR810TAALucwACQgvhSUuImioy1HqNNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Мёртвый сутенер",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBEmg8Z7Dub0bbvF66CMFj5x2yRxXwAALvcwACQgvhSbCeh6TlagABrTYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "В зоне",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBE2g8Z7JxBULCQMu2NkzOvGm3M-KUAALwcwACQgvhSWm8OtitFBcsNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Фак ми айм дэд",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBFGg8Z7Pc2UBjxjXXdEU-EnyW-Q08AAJDdgACC_rpSQGEP3tinG2yNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Ликантропия",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBFWg8Z7NaGnzFP9HlesvkGaWsd1HFAALycwACQgvhSfjG0vKju_aANgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Cadillac",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBFmg8Z7VMbu8hhSkbLwY3yDvhNrOrAAIQcgAC84vgSW9Ou6H_xrFuNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "УАДЖЕТ",
-            "title": "Исход",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBF2g8Z7UV6Lnw5oakWYDzoJXLUEn1AALzcwACQgvhSYpJG7LIAAFsPDYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
-        },
-        {
-            "album": "10:13",
-            "title": "Добро Пожаловать На Луну",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBGWg8aB_j9mL77QABG0viF_VFoGQkgQAC9HMAAkIL4UlUz6DZHwABt6U2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "DOLOR",
-            "title": "Клуб 18. Начало",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBG2g8aCDvhihuLG41IM4Cjh_cko_uAAL1cwACQgvhSTNlOJ_3sVzVNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Печаль Cо Знаком 8",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBHWg8aCL2titSM12qt0uYTD9lfElGAAL2cwACQgvhScsrIuTN7xQ6NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Рискк",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBHmg8aCZEFBy0kjqf3eT0VlAxfQ82AAL3cwACQgvhSa12vrkYf0WTNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Million Dollar Depression",
-            "title": "Во Имя Тьмы",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBH2g8aCeTEoROLmQb-PmhHB11SQZBAAL4cwACQgvhSWEoC92D6zELNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "Tekken Thug",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBIWg8aCnTkmGg2mwDp3gEH8iRQbF8AAL5cwACQgvhScXSt5LrZrhiNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Paywall",
-            "title": "POKENAV",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBImg8aCq4_X4Xk25ZNJC2kM71IooLAAL6cwACQgvhSdSux5tX8k6pNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHILARMONIA",
-            "title": "Вечеринка В Холмах",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBJGg8aC8TxbGr0yWMj2EVG_QrA9QuAAL7cwACQgvhScEmLxe_eUVDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Сфагнум",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBJmg8aDAoVoANBG4cLYFMftfB4b_3AAL8cwACQgvhSRIN8JlX3-pQNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Мой мрак",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBJ2g8aDG8Olb6xnZIbEC9_SwM6fwBAAL9cwACQgvhSeX1vY91aPy5NgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHOSPHOR",
-            "title": "Псы всегда попадают в рай",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBKGg8aDYHWIk9UGr0Cm8awhccDKVfAAL-cwACQgvhSZIFg3K1HlPzNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "PHREQUENCY",
-            "title": "Снайпер",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBKmg8aDdGWzK2RSRTIsvWOjhghcELAAL_cwACQgvhSXaUl8byRdKgNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Pink Phloyd",
-            "title": "Pink Phloyd",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBLGg8aDgIm2qEfYq3y2RbJ9rs6v7VAAN0AAJCC-FJ07CCb8k-3Iw2BA",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
-        },
-        {
-            "album": "Плакшери",
-            "title": "В сердце тьмы",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBLmg8aGNIiiNSo9mtCMK1_qNFgWQYAAIBdAACQgvhSeshOzyDd7uDNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
-        },
-        {
-            "album": "Синглы",
-            "title": "Chainsaw",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBMGg8aGTms5Mn2gf86hNpvcl5lHUdAAICdAACQgvhScpUcQ5sgQAB9DYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-09-26"
-        },
-        {
-            "album": "Синглы",
-            "title": "Дико, например",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBMWg8aGXE7GbdO-lcLhi7AtAw8kQyAAIDdAACQgvhScb9sxbBo1sMNgQ",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-05-28"
-        },
-        {
-            "album": "Синглы",
-            "title": "Caramel",
-            "performer": "PHARAOH",
-            "genre": "Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBMmg8aGlQ7K8B6IPliQAByyGsoIAnRgACBHQAAkIL4UlnKzj6jx3iYjYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
-            "date": "2017-11-25"
-        },
-        {
-            "album": "Rage Mode (Rare Action)",
-            "title": "Crackhouse",
-            "performer": "PHARAOH",
-            "genre": "Alternative, Rap/Hip Hop",
-            "file_id": "CQACAgIAAyEGAASavGeAAAIBNWg8aK11CCaYAAFNGag-sThWBAKPmQACF3IAAvOL4EkaQMBFWIKTlzYE",
-            "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
-        }
-    ]
-}
+[
+    {
+        "album": "10:13",
+        "title": "Родная Душа",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMuaDxkVx6bA8aUrqvol_9wGE-ASDUAAgxzAAJCC-FJ5jBL2bijWHE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Бензобак",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMvaDxkWJkZSSboPfYafuLH2gK6Ap4AAg1zAAJCC-FJdi9CGsWE_2w2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Москва (Не Про)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMwaDxkWfiENkzY7nOigVOWFxNHQJIAAg5zAAJCC-FJtPzMHk3RAAFNNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Для Насилия",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMxaDxkWtzB2vt6-M31OYnAz6m-U8YAAg9zAAJCC-FJZqVGLqkmdtY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Рок Стар Sh",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMyaDxkW49BN6-CDncJtVGB2ZPhB5UAAhBzAAJCC-FJFIJ2Jy8zuvg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Своя У Каждого",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAMzaDxkWwYJ3DfgjX1C5C9sSkEny4wAAhFzAAJCC-FJjunx09cCgzo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "НЛО",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM0aDxkXOLiE00h3VTl2Bf-cj7D8Z8AAhJzAAJCC-FJQ1AcDQi5H6U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "10:13",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM1aDxkXfaEwYXzTJ3kxAFY_NHbVAsAAhNzAAJCC-FJiKClGVExquI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Танцы На Останках",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM2aDxkXmO5M3E49x4R9VfubdSr7hEAAhRzAAJCC-FJeqMFPHPHQfE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Запах Лилий",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM3aDxkYhCr7WRX47cz0e3imBksqnkAAhVzAAJCC-FJ0AK9gPTe-pA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "На Крышах",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM4aDxkZARxwdm0mfms7_7yLTzqK34AAhZzAAJCC-FJRluTMFvyknc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Бóльшая Цель",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM5aDxkZRmLgtCW3mjSn4TwsilfocwAAhdzAAJCC-FJzE0cCkAklQg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Москва 2",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM6aDxkZgXrptLaTswZN9X33hxFvFUAAhhzAAJCC-FJtXlg_vT7YGo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Факты",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM7aDxkZ-w8-czJS0ubvbTe8biM7oUAAhlzAAJCC-FJKRejNgu2L142BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Чисто Символически",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM8aDxkaEglPiJ9ru1H6mzoGQEnVukAAhpzAAJCC-FJXHumCaNyrjY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "На Убийство (Ради Тебя)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM9aDxkaegAAbROH5M6c6TjLccAAdFwKgACG3MAAkIL4UnNqj2RaEKNZTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Солнце (Bonus)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM-aDxkak2o-Ol96OfQ5ZqUDROBGHEAAhxzAAJCC-FJcN7ngGzvMuk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "Не По-Христиански (Bonus)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAM_aDxka-ZdwxsITzDUrFEYOoQ7pNMAAh1zAAJCC-FJEkpl3LKbVf02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "10:13",
+        "title": "OMEGA",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANAaDxkbCCTSBN-BNx2Epj8l2JYpKoAAh5zAAJCC-FJin00BA2hseM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Cold Siemens",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANDaDxknDNaJiT9NcbwRveChItE_jwAAiJzAAJCC-FJCvOWdvY8tuw2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Передай привет",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANEaDxkndCEohuC0S61v__FQLuKLE4AAiNzAAJCC-FJeT-2DF7YdKs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Идол",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANFaDxknkZYX58E_4BLfsUlwmHZRnUAAiRzAAJCC-FJEPhxObOuP-M2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Пекло",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANGaDxkn5nHKGqyDpM0560gGIYBomEAAiVzAAJCC-FJJjEPd-3se9U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Голое дерево",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANHaDxkoB_Z7CJnLFeXdbO1nHoYmesAAiZzAAJCC-FJJUV4lYLVhak2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Невыносимая боль",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANIaDxkobICZgm7ZDhS8dd4rUVvAAE5AAIncwACQgvhSYo-soxEsTTqNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Пожар",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANKaDxkop39n8zs7CEqjmOZc03zOC4AAilzAAJCC-FJf_cmtlcy-Hk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "В ванной",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANLaDxko6xOQJ3abFdFvi86BLdYasUAAipzAAJCC-FJPHpgdVWizC82BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "RUSTRELL",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANMaDxkpMMCdCtmqX969aqOta90EBUAAitzAAJCC-FJlfmBzgvTsWg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "На твоём теле",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANNaDxkqF8IjiE6I7yoOIg_ZzN4MWsAAixzAAJCC-FJJddEN8agVXU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Новая эра",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANOaDxkqUb2HGStcymUMuJWnD2mkEgAAi1zAAJCC-FJvnimAuxpFmU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Беги от меня",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANPaDxkqv1ezhgvfvdJk19RkgFNjYYAAi5zAAJCC-FJRdgsN4yNuPo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Клуб 18. До тла",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANQaDxkq8yU16hjauv8RXWMVBImPKYAAi9zAAJCC-FJ62UEsXS74Zg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Козловский",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANRaDxkrNfIix1MasU2b8Z9f-ssHfgAAjBzAAJCC-FJr5VuPXCJ6vE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Перед Смертью Все Равны",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANUaDxksY8ftpL_jhsS7vtVh2w-k4YAAjFzAAJCC-FJ0stPQXy5hd42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Всему Свое Время",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANVaDxk1AqKVH2KIR3SH6upjZ_u6KMAAjRzAAJCC-FJCR_NNpXH8sg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Нет Сердца",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANWaDxk1nbY27jxpLCWftLDSo2d7KcAAjVzAAJCC-FJEzM9VfuW8N42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Никогда Опять",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANXaDxk2JBZdj792-b2r-oL6RC2krgAAjZzAAJCC-FJ-kXQFNbbkQc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Эми",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANYaDxk2ypIpSxNx-JVasOpBij65pcAAjdzAAJCC-FJeQABea49CrTsNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Route 333 OST",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANZaDxk3WR8KAPkULEaPN_U117ytX8AAgx2AAIL-ulJpxnX8AUqOdA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Судный День",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANaaDxk39rRPbIVMJf-rWkdoJ6k4zQAAjhzAAJCC-FJWlNgVpdQBCo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "1 из Легенд",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANbaDxk4RCfVygsIKlSP-rUB9wbH6cAAjlzAAJCC-FJG_dIlEQyWHQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "The Real Unplugged (Acceptance of Darkness)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANcaDxk46neWLB6uyw_mP2eJcOTJKQAAjpzAAJCC-FJLHl4ebci_lM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Silence !",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANdaDxk5ltewxzdIDKGBPNUCxdY8ZQAAjtzAAJCC-FJxZobtQ5nLY42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "ДНМП",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANeaDxk7ri48j84y92JCXoP92I5_OQAAjxzAAJCC-FJCaNa8KhiTGU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Ода Сочиненная Изнанкой",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANgaDxlAWKE8mvvyux5W4fDrLxoCuEAAj9zAAJCC-FJ43ws9u-RfNA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "Ведьмин дом",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANlaDxlM78eT_Ixs9x1zuVxCHdT9c4AAkZzAAJCC-FJdihDtJ9N0f02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "Zatoichi",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANmaDxlNXFS1kQUc5TLiP9dLeQ_2VQAAkdzAAJCC-FJQ9uL7LNRyDU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "Внутренности в кейсе",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANnaDxlN5rjcyR9gJxBCoQ1plG6spAAAkhzAAJCC-FJ6IJzlZK0BH02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "Tearz",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANoaDxlOCFJOe5_OjzU-vS9VATNu7QAAklzAAJCC-FJMGxXe6NsIWQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Может Расскажешь, Что Ты Чувствуешь (Главные Ворота)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANraDxlOo8IEBL0whnY21BZi8E8lC8AAkpzAAJCC-FJ2-nKgjmsC7Y2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Соната Ей",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANsaDxlO-p2MOccH0xwDayQrpId2f0AAktzAAJCC-FJ9MbPxqWK2tE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Идиот",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANtaDxlPEcT23jZif7hOpHeqHo_EscAAkxzAAJCC-FJqfTIkjuqixU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Драгоценный Металл",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANuaDxlQBme2qOWK5MGifq7epWfp2kAAk1zAAJCC-FJZPJniSkSBHM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Белые Нити (Незабываема)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANvaDxlQdP5AVD52BCPd4hBbnmqknsAAk5zAAJCC-FJLZ-afr5qJUg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Колыбель На Судный День",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANwaDxlQtmTOghQhGJSAf1Bc99m86gAAk9zAAJCC-FJRE1fm51Id182BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Океан Бассейн Вид",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANxaDxlQzsJZdD2mW-5usBDDuTY-9YAAlBzAAJCC-FJgDlXUC1Zzog2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Я Смотрел Как Ты Танцуешь",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANyaDxlRJJYu2p3R3cse1IIW3rigO4AAlFzAAJCC-FJel3vpHok5Z42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Я Потратил Ночь На Поиск",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAANzaDxlRe6vH5aBLbyrK2qLNzW5pdUAAlJzAAJCC-FJWkvKit7vI0s2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Кто-Нибудь Знает, О Чем Эта Песня?",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN0aDxlRhdyNDHnNXQtkZvZAVKoKV8AAlNzAAJCC-FJLqcFzMwsr3U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Такими, Как Сейчас (Время Гасить Свечи)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN1aDxlVVhKQ5jtLFU1e9IDV8h0LH4AAlRzAAJCC-FJJi1rChwKRRs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Незабываема (Hamovniki House Mafia Remix)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN2aDxlVgHWZfDked4tw-GuH8qrjhEAAlVzAAJCC-FJangB8DZKSKU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Нет сети",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN5aDxlWM8HIwxoKlwQMfSNtXUuMFoAAldzAAJCC-FJ2PwtL-5FDMU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Фруктовый",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN6aDxlXDYLdHhTHjfpK8hiy1dWNRsAAllzAAJCC-FJEZ-WDNSrmcc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Листопад",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN7aDxlXS6p1yTDmdtKKgW9YdoOcG0AAlpzAAJCC-FJ_k93vriD3_c2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Чёрный плащ",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN8aDxlXkCNxZe4Hh26-4Rm_kSVeYsAAltzAAJCC-FJynC_WCQfwJY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Phlow.iso",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN9aDxlX700YNvu0pI50LM6uD4FBkoAAlxzAAJCC-FJtkP3v_LIihI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Digital капотня",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN-aDxlYDNG1YT-H-DPyC7wC6bmsT4AAl1zAAJCC-FJKwgIq2AifOw2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Флора",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAN_aDxlZPb-zqyT1I1GR36JBeRF3qEAAl5zAAJCC-FJ5bQOFHZJ2VU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Феникс",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOAaDxlZSSSI8pPFz2bot5smhtJ-HIAAuJxAALzi-BJkTfphMDWnEQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Поссейдон",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOBaDxlZvsmNVnSemWub_-8el9Xdx4AAl9zAAJCC-FJLpvRAatcuQABNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "RAW",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOCaDxlZuE6B9ZomKwJCvBeOG8QCq4AAmBzAAJCC-FJR5NfiYsaMmA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Ртуть",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAODaDxlZ74-YlYiizw92gFzabDvR_4AAmFzAAJCC-FJiRtI3h9jKn42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Слякоть",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOEaDxla-TrQq8n3H3jAAH8Qv_0XgqxAAJicwACQgvhSU6MJPlQVmqbNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHLORA",
+        "title": "Бойсбэнд",
+        "performer": "PHARAOH",
+        "genre": "Alternative& Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOFaDxlbCpEbNlE50_-viW5P07S-OAAAmNzAAJCC-FJFh4UGXhFNB02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAN4aDxlVxRCchcZEbERB28oJUx7k-IAAlnxMRtCC-FJmpD2p1JFYlEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Надеюсь у тебя нет аллергии на клубнику",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOJaDxlpKZy-H4ZxYFzpidxt_slxM8AAmdzAAJCC-FJu3wlSLMh2YI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Разложение",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOKaDxlrJkCC5xMJl9bjdkAAbG1OIokAAJpcwACQgvhSVDWr35thIheNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Выродок",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOLaDxlvlZTMdQf4F7G3Y5cp4nmj1kAAmxzAAJCC-FJve9T1dIXH2U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Я помню, как мы сожгли письма у канала",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOMaDxl0RBW1PgsoQ2Q7G75yzGC9jAAAm5zAAJCC-FJ5mIyyZBvwyU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Фосфор",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAONaDxl3VEfVP7iAbahAXlfevk4vooAAiJ2AAIL-ulJCEvM_aXnrGA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Конечно оригинал, заказывал из штатов",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOOaDxl3wmOTyh2MZScRK6WO5Gzoy8AAiN2AAIL-ulJ0xaYfr0OSXI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Вальс",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOPaDxl4XPsekusVkHG73NZIwR5etAAAm9zAAJCC-FJ7Dw1uqAjSzo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Мотая на кисть",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOQaDxl4jg-XDtOc1w0cxWvdBiu9QIAAiR2AAIL-ulJjHCYgvL2tRI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Вспоминая о светлом",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAORaDxl4oGGf-7z3_WDHkXL05-2mf4AAnFzAAJCC-FJVsmKwXGpl1Q2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Морион",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOTaDxl49I0CLTKkRFkfmCI1aaphzYAAnNzAAJCC-FJHiwX6iI4gEg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Давай останемся дома",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOUaDxl5MQaLIJHiehT67AHxJnX0HsAAnRzAAJCC-FJ-Au2t1K0Uto2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Ты, на луне, забери меня нах_й отсюда",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOVaDxl5rYVfsS7kZI1foQpG_SeBq8AAnVzAAJCC-FJsEytp6KorIM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Позволив молодости жить",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOWaDxl6jjn97gGTW6cWUKz_V0mgjUAAuhxAALzi-BJrQnhwv2pr042BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Клюква",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOXaDxl66fwYAam2z7bGi0fo1GkaBAAAndzAAJCC-FJG7xtc7FI2lc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Зачем ты это слушаешь, выключи",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOYaDxl7IsY2gKtNz-Pel5LNPDD2GQAAnhzAAJCC-FJjA9U8-aVXLE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "ММ (Bonus Track)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOZaDxl7Qyumta0MIjxNdOuMenQ628AAnlzAAJCC-FJ85hXfmH-VFI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "На Одну Улыбку Больше",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOcaDxl8jfLa168K9_sq2q4_mW2EmUAAnpzAAJCC-FJaVcp_Mgbv282BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Лазарь",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOdaDxl8xcTwfOfeWC5itXeQffZL3sAAntzAAJCC-FJapiryvwVd7g2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "В Прошлых Жизнях",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOeaDxl9Ftv504MKipzEC5DKmN8og8AAnxzAAJCC-FJ2PQCMA_h8LI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Взглянем В Глаза Правде",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOfaDxl9fm1eDbL5YtzbfqqMh4I25wAAn1zAAJCC-FJJ8ecXQN4_FY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Чья Вина",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOgaDxl9iiwSIBQNxW795GN12YPA6gAAn5zAAJCC-FJ4GRge9qLIz42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Другие Души",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOhaDxl9wABdxwAASYFn74minjo0NmLDwACf3MAAkIL4Uk5HRfSFUBfrDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Не Могу",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOiaDxl-JwGlcnOdozX3q7vi64Ou70AAoBzAAJCC-FJIufeuXwq0Qk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "В Огне",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOjaDxmIIW5IbFOwSiAYkIUBDsb9WoAAodzAAJCC-FJ_zIOR8rSr982BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Время Вспять",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOkaDxmIU-1unMDyF09TFwoq1iYrwUAAohzAAJCC-FJyVoewPOtKuI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Пост Фактум",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOlaDxmI3dGtbdhNlz_rHvkmmE59z8AAolzAAJCC-FJsd7NPoNE5Os2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Дефект",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOoaDxmKL1njYcIbBqJetmB0C6cDiEAAopzAAJCC-FJQuVsvqmcS5Y2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Смарт",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOpaDxmKQ-ogQNW3umYT_ezQf-uI8IAAotzAAJCC-FJUn25RpO6HH82BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "10:0 фристайл",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOqaDxmKmSdP2ax3ODjeKzdwog-9dUAAo1zAAJCC-FJC3t85sMoW8o2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Флешгроб",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOraDxmKyybVUwva9N2fHlV82pAPp4AAo5zAAJCC-FJV29qmFOW7B02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Откровение успешного человека",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOsaDxmLGTRb6uovMUEYje3U30ReBkAAo9zAAJCC-FJj9iq2HuBbWQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Омертвение",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOtaDxmLtgYWPMhFmjoA3uceb7bJfIAApBzAAJCC-FJ354K4qE40bE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Солярис",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOuaDxmL-XmPZmDLfy19JQ5DF2Xm5sAApFzAAJCC-FJzOYcZ0uhgpM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Мой кайф",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOvaDxmMImqWT0gelT8PNW34GVC78sAApJzAAJCC-FJ50g0VAABZqXANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Последний трек на стене",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOwaDxmMo5bZ5voqfjWGj_3md5FKKMAApNzAAJCC-FJbs90sSgk-KA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Шипучка",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOxaDxmM4_-_psJSis4UHdtmewzDQoAApRzAAJCC-FJBUmdWiSjiLs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "1996",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOyaDxmNbTXTL8MxuMsTcsMWXn1h5wAApVzAAJCC-FJSM5i8S1DGCs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "RAW 2",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAOzaDxmNxgXQtIFKaVchDET5orGRXUAApZzAAJCC-FJaSrx9gjekfM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Пэрис Хилтон хоум видео",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO0aDxmORdA69U7LRHNQSUqFFqxHakAAu1xAALzi-BJv88UecnXi3c2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Лантана",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO1aDxmOkqNrVf25dQ0ps_FNRhZA44AApdzAAJCC-FJZHPIfUY3YEM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHUNERAL",
+        "title": "Пломбир (Bonus)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO2aDxmPHPJGcwndHRA0GJceIfilBsAAphzAAJCC-FJnSwheM5Zx_Y2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOnaDxmI7YhIySLPDzQTze1q0ZFH-0AAlzxMRtCC-FJXwNpaH5te-cBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Проблемы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO4aDxmdu4E9zdpf9dm_z8SlrEohO8AAptzAAJCC-FJaT-qHoxjZcA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Дико, например",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO5aDxmd8CrcnvAS5-QeChip3gvZTcAApxzAAJCC-FJznXfY1IUpR82BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Школа",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO6aDxmeOkxfsD7YQQJul5pEPZ6YtMAAp1zAAJCC-FJ88Za-oTByfE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Твоё место",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO7aDxmeXV4DP45mUZgXj6M0t67HM4AAp9zAAJCC-FJblJQKZszdms2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Реквием по эго (Interlude)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO8aDxmeqQ0toRybC-QOXOzjDDXh9IAAqBzAAJCC-FJY-ADcBdSwpQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Лаллипап",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO9aDxme-PhhcqdAAG4aLCjFSz3F6LmAAKhcwACQgvhScmoLyoigF52NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Louis Vuitton Kiss",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO-aDxmfG9WNqwVLAqHJDHOvUmhuSwAAqJzAAJCC-FJ0qywFKLIDXk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Одним целым",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAO_aDxmfYrvTPpzuFt5w4mqrucD1nMAAqNzAAJCC-FJnPEp7sjTaF02BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Много дел",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPAaDxmflbRILK8KKA08aax4PJOOLgAAqRzAAJCC-FJMJCbFNxVq1k2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Спроси моих друзей",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPBaDxmf7Dh3hiQBI7imhnK-ao6BRUAAqVzAAJCC-FJrj45hQ0aEwU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Мелисса / Моя сука",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPCaDxmgLHgN69DKj1wIBDKSYl7etYAAqZzAAJCC-FJkLHcNS3mgMI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Без меня",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPDaDxmgV0pHoByH8WWaI_28NFAKOoAAqdzAAJCC-FJNVUbWtEJfn82BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Одинокая звезда",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPEaDxmglGm2kSqBRC0C69qlD3AaGoAAqhzAAJCC-FJFqB_pkKsKo42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Порнозвезда (Remix) (Bonus Track)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPFaDxmhLP6jKNDS_eE5kFMH60hQA4AAqlzAAJCC-FJe_E6eWpK8KY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "From Dusk Till Dawn",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPIaDxmiY3wa-IGZSdExMmlZ7OFMXcAAqpzAAJCC-FJFNdDBpiFEHo2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "Enemy of the State",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPJaDxmiryx2Zbp8ZpYf59NBawVGAMAAqtzAAJCC-FJVTh6kKG_3jY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "1-800-Siemensixone",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPKaDxmixbi8s-dFh2C3ydJj2g0FA0AAqxzAAJCC-FJ5OC-poNnDcg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "Rage Mode (Killing Spree)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPMaDxmnx6gwOnG9bwpky_GZWxs8W0AAq5zAAJCC-FJJ2SjSU6lSmc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "Empire Strikes Back",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPNaDxmoALllnq2cP9rqdZAZ32NhSQAAq9zAAJCC-FJnFDqp-Wp3Dk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "Call the Ambulance",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPOaDxmoRK5bhiXdshgJc2xYMjkw_EAArBzAAJCC-FJ_wABtA3l8vQUNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "Порнозвезда",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPRaDxmp1pZyGotwsGaf2Kc7vJdiREAArFzAAJCC-FJOtLrh_fVnvA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "Кекс",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPSaDxmqZnsyFEL4wPuRX7Lynq50hoAArJzAAJCC-FJHX10cP-JW3o2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "Золотые рыбки",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPTaDxmq-5VjlRfmeLHOvxpaDgCgKEAArNzAAJCC-FJvWVz6-SnlzQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "9 жизней",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPUaDxmrcfFIBoSsWZSxbtck2_JA90AArRzAAJCC-FJ5CknPD4elHk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "PiT",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPVaDxmrii4jlULRBLvE21I4JFO8DMAArVzAAJCC-FJVNuKnR3IfoM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Кондитерская",
+        "title": "Неон",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPWaDxmsLLQaPzQuERmkAf-24_YL5AAArZzAAJCC-FJGs0I_AdzkFc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASa9BkCAAIBs2grrpXCa9J7mDilS65bx-r78wTdAALw7DEblnBgSTlYYOnpgXOfAQADAgADeAADNgQ"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Проснись и пеки",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPZaDxmskqja6Wm6ctl3PmMKPoQ7QIAArdzAAJCC-FJgzdasV5DEOk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "До харвеста",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPaaDxmtDp9Co3bxcrlXizxapd0ExQAArhzAAJCC-FJfHtlmS0EF7I2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "5 минут назад",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPbaDxmtc3tzSe2VUWow-IYg2U_PmgAAjB2AAIL-ulJMpcB_W_a6Ak2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Сюр",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPcaDxmtgABhfKgCA3rujQggW7muwxYAAK6cwACQgvhSetKRj0GkBBvNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Плакшери",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPdaDxmt4aD2T85Wv7cWkRMZMKsgL8AArtzAAJCC-FJA5ThzvIQTwg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Послушай сука",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPeaDxmubE2NiwrcDfal9f5cF8SanQAArxzAAJCC-FJ5AwFktM_Qsk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Cabernet Sauvignon",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPfaDxm2xIqbR63ZL0eVLBGfOrQbmoAAr9zAAJCC-FJXnIfJGSTbHk2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "Max Payne",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPgaDxm3N4DUWsKoWPVQuuKywABv_VDAALAcwACQgvhScCpLi1R_T1lNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Правило",
+        "title": "Ночь пятницы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPjaDxm31WTVtl0GTiJOkBsQIL8eSEAAsFzAAJCC-FJ4fNKvPmt1ls2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Без ключа",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPkaDxm4lrUdeFQy-6gb61t2SZaKgYAAsJzAAJCC-FJtkGhkUwDAqw2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Не хочу",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPlaDxm4zK7f4WLz1-UoweXqpFb6qUAAsNzAAJCC-FJjasDz5n-HrE2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Тост",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPmaDxm5Fj2JopLGOW7L_rxkBaVI1kAAsRzAAJCC-FJ59pi_Ko7iFQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "AMG",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPnaDxm5ZcaMsd7b6n2kP2VcPdTSsQAAsVzAAJCC-FJC6hP2MXEfvA2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "То, чего нет",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPoaDxm5lbkjKj5EVPCFfOEaoio000AAsZzAAJCC-FJ5Yhqr37WOKs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Баллада",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPpaDxm6hZ6yT5svZODh6uFUTE0suoAAsdzAAJCC-FJnaItF1FZxTM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "За решёткой",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPqaDxm6yIYTHMl56_zBGOJ3IQIvx4AAshzAAJCC-FJrhQ8svhUrv42BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Лоулайф",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPraDxm6w6WsJVNJmQ5rVlLXs9a3TIAAslzAAJCC-FJt6w-Oll9vbI2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Призрак",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPsaDxm7CvyEZfQC8IUb9ktB_JNSbYAAspzAAJCC-FJ_UUVq1kmL5Y2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Чувствую",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPtaDxm7Xnqe35ytVxUAAEcjFc_mHgpAALLcwACQgvhSR3ljbP7ms21NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Семейные узы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPuaDxm8bSRpuWUWZgSdQs4hYrM4pQAAsxzAAJCC-FJAAFb6de5_3DcNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Правило",
+        "title": "Из-за тебя",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPvaDxm8zSpB8f83PCePQdiKBi-dhkAAs5zAAJCC-FJGd3BgD9Sq2o2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPiaDxm3hzqxT9fIgtbQDNkv3MAATdxAAJi8TEbQgvhSZaE_QOTKXTPAQADAgADeQADNgQ"
+    },
+    {
+        "album": "Синглы",
+        "title": "Клюква (Remix)",
+        "performer": "PHARAOH",
+        "genre": "Unknown Genre",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPyaDxm9n6ws-H3JYw8HUpkwce3OzMAAs9zAAJCC-FJcMB6iZD1fBg2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2020"
+    },
+    {
+        "album": "Синглы",
+        "title": "Boom Boom",
+        "performer": "PHARAOH",
+        "genre": "Pop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAPzaDxnLDFW7BprKIycCT3WOjxvcpoAAtFzAAJCC-FJGkTXEOAp8TM2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2020-07-31"
+    },
+    {
+        "album": "Синглы",
+        "title": "404",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP0aDxnN46Ayjkl8YCLhzKvdR5JN9oAAtNzAAJCC-FJLxqs14D2vPY2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016-06-30"
+    },
+    {
+        "album": "Синглы",
+        "title": "Smart",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP1aDxnQaDKj5LP0IAQTttiPbcb_F8AAtRzAAJCC-FJAAGje7tlO76FNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2018-08-08"
+    },
+    {
+        "album": "Синглы",
+        "title": "X-Ray",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP2aDxnVFf6bo68IUE7GGyf8v8zUnAAAtVzAAJCC-FJ3HMENf48-oQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016-06-29"
+    },
+    {
+        "album": "Синглы",
+        "title": "На луне",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP4aDxnavgjG0enNwwEQtUzHmjtK00AAtdzAAJCC-FJO7b5FibYpfU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2018-06-02"
+    },
+    {
+        "album": "Синглы",
+        "title": "Не по пути",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP5aDxna0j0kW7LtiamZwfU937xsYEAAthzAAJCC-FJzxYfw-edlug2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2018-10-11"
+    },
+    {
+        "album": "Синглы",
+        "title": "УБИЙЦА",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP6aDxnbEKv64l3McnccV1eH9rQUyQAAtlzAAJCC-FJghauXG4BN4A2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2018-03-16"
+    },
+    {
+        "album": "Синглы",
+        "title": "УЗЫ МОБА",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP7aDxnbuWWJpJp3oRYgXMleuISGRkAAtpzAAJCC-FJWuprwOy0eIQ2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2018-03-24"
+    },
+    {
+        "album": "Синглы",
+        "title": "Эми",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP8aDxnb08D42z4aKPlS9K65OYbe6EAAttzAAJCC-FJn9q4SklJj1U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2021-03-05"
+    },
+    {
+        "album": "Синглы",
+        "title": "Champagne Squirt",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP9aDxncJO96hYF5nihH7f4jhobt0EAAtxzAAJCC-FJlNTcUEeYQLs2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016-06-29"
+    },
+    {
+        "album": "Синглы",
+        "title": "Homeless God",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP-aDxncZi8pabEFe4U2ZKboDPhyNwAAt1zAAJCC-FJemrYmnm3UcU2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016-06-30"
+    },
+    {
+        "album": "Синглы",
+        "title": "Акид",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAP_aDxncjAu0fVa-tCWn6GH0PhLwb0AAt5zAAJCC-FJjvW1iDpK3Pc2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2021-12-17"
+    },
+    {
+        "album": "Синглы",
+        "title": "Герой",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBAAFoPGd0zvMZ-fuU9EV6551SSWw6qgAC33MAAkIL4UlYtyYF0QJwajYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-01-20"
+    },
+    {
+        "album": "Синглы",
+        "title": "Unplugged 2: Love Kills",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBAWg8Z3UrKEcqDqW9Towzddp-RYlaAALgcwACQgvhSfyKR2BUui0YNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-08-04"
+    },
+    {
+        "album": "Синглы",
+        "title": "Unplugged (Interlude)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBAmg8Z3aaFdSme3a4wdJx4-1uRZOcAALhcwACQgvhSXoFw-vd5vkAATYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-02-27"
+    },
+    {
+        "album": "Синглы",
+        "title": "Глушитель",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBA2g8Z3eT_F1U6x0j5fok9y66X0h6AALicwACQgvhSTJul0gBwzKTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-12-03"
+    },
+    {
+        "album": "Синглы",
+        "title": "Pronto",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBBGg8Z3g0QaYPxTTibdZSLtb7PUAdAALjcwACQgvhSX6yHkYjZbLZNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-06-12"
+    },
+    {
+        "album": "Синглы",
+        "title": "Козловский (Remix)",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBBWg8Z3m_Uq0KfWXuN6IRmX0_fvuQAALkcwACQgvhSWfJ6mldIJLyNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016-06-30"
+    },
+    {
+        "album": "Синглы",
+        "title": "Мой ангел убил себя, я не успел с ним попрощаться",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBBmg8Z3p0_a2TZQT9P4DU0N0Cfg3AAALlcwACQgvhSccGfdMtyM9hNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-08-11"
+    },
+    {
+        "album": "Синглы",
+        "title": "Цвет Золота (из сериала «Прелесть»)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBB2g8Z3s1RY-pJ7yyCqTGE8SDkE9xAALmcwACQgvhSfvH-SRaO5r5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2024-01-18"
+    },
+    {
+        "album": "Синглы",
+        "title": "Bullet (feat. Pharaon)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBCGg8Z3yaBUBSd2IRpgc4Z_OM715-AALncwACQgvhSVe3BGXAPla7NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2015-07-19"
+    },
+    {
+        "album": "Синглы",
+        "title": "Not 4 U (feat. Pharaoh)",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBCWg8Z33_VJdlNnpWu6tSNVI5vuNhAALocwACQgvhSYLMTvFYcandNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-07-07"
+    },
+    {
+        "album": "Синглы",
+        "title": "Black Siemens",
+        "performer": "PHARAOH",
+        "genre": "Rap",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBCmg8Z3_lRxKStzIa4_z7aZbJCOApAALpcwACQgvhSf3mZh0riyf1NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2016"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Ничего не изменилось",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBDWg8Z6rghc9FfhC7bP_cn7M3kARmAALrcwACQgvhSRGcbq8aSH__NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "На дно",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBDmg8Z6xkLUSvMiQRq_Ail7kgMsdMAALscwACQgvhSRjOOV9dbIlcNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "2002",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBD2g8Z61YwtQvrTZUJMhj7jDuRCCTAALtcwACQgvhSXHHcaNekOonNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Уаджет",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBEGg8Z659dWNJoslUkRVZNeXz5dSuAAIPcgAC84vgSQZl8LSillPANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Виноградный день",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBEWg8Z68ozQnpipCyf_D-BVfR810TAALucwACQgvhSUuImioy1HqNNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Мёртвый сутенер",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBEmg8Z7Dub0bbvF66CMFj5x2yRxXwAALvcwACQgvhSbCeh6TlagABrTYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "В зоне",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBE2g8Z7JxBULCQMu2NkzOvGm3M-KUAALwcwACQgvhSWm8OtitFBcsNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Фак ми айм дэд",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBFGg8Z7Pc2UBjxjXXdEU-EnyW-Q08AAJDdgACC_rpSQGEP3tinG2yNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Ликантропия",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBFWg8Z7NaGnzFP9HlesvkGaWsd1HFAALycwACQgvhSfjG0vKju_aANgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Cadillac",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBFmg8Z7VMbu8hhSkbLwY3yDvhNrOrAAIQcgAC84vgSW9Ou6H_xrFuNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "УАДЖЕТ",
+        "title": "Исход",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBF2g8Z7UV6Lnw5oakWYDzoJXLUEn1AALzcwACQgvhSYpJG7LIAAFsPDYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIBDGg8Z6hwlJCSWxL8seq9Ubr7Vi5SAAJm8TEbQgvhSctuGYFwuSC3AQADAgADeQADNgQ"
+    },
+    {
+        "album": "10:13",
+        "title": "Добро Пожаловать На Луну",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBGWg8aB_j9mL77QABG0viF_VFoGQkgQAC9HMAAkIL4UlUz6DZHwABt6U2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAMtaDxkVVZ_6owjq3mUk_SYivp3CzYAAk7xMRtCC-FJpQf9c_Jjd5IBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "DOLOR",
+        "title": "Клуб 18. Начало",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBG2g8aCDvhihuLG41IM4Cjh_cko_uAAL1cwACQgvhSTNlOJ_3sVzVNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANCaDxklWGykChuMgyj4qfO-zUefjgAAlHxMRtCC-FJdRQ45jPLYOcBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Печаль Cо Знаком 8",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBHWg8aCL2titSM12qt0uYTD9lfElGAAL2cwACQgvhScsrIuTN7xQ6NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Рискк",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBHmg8aCZEFBy0kjqf3eT0VlAxfQ82AAL3cwACQgvhSa12vrkYf0WTNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Million Dollar Depression",
+        "title": "Во Имя Тьмы",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBH2g8aCeTEoROLmQb-PmhHB11SQZBAAL4cwACQgvhSWEoC92D6zELNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANTaDxksAHPzMwWiPxdQiA7OJbs_kwAAlLxMRtCC-FJodQ3HzEDF0YBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "Tekken Thug",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBIWg8aCnTkmGg2mwDp3gEH8iRQbF8AAL5cwACQgvhScXSt5LrZrhiNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Paywall",
+        "title": "POKENAV",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBImg8aCq4_X4Xk25ZNJC2kM71IooLAAL6cwACQgvhSdSux5tX8k6pNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANiaDxlFyMzobnL7Tl29cQGMDLCERQAAlbxMRtCC-FJZ8MSiX36db4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHILARMONIA",
+        "title": "Вечеринка В Холмах",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBJGg8aC8TxbGr0yWMj2EVG_QrA9QuAAL7cwACQgvhScEmLxe_eUVDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAANqaDxlOQaXhkokvjfJC9hknJxHVfIAAljxMRtCC-FJ_7xHJbCHq_MBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Сфагнум",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBJmg8aDAoVoANBG4cLYFMftfB4b_3AAL8cwACQgvhSRIN8JlX3-pQNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Мой мрак",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBJ2g8aDG8Olb6xnZIbEC9_SwM6fwBAAL9cwACQgvhSeX1vY91aPy5NgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHOSPHOR",
+        "title": "Псы всегда попадают в рай",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBKGg8aDYHWIk9UGr0Cm8awhccDKVfAAL-cwACQgvhSZIFg3K1HlPzNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAOHaDxlbQmMoMzOM8VLu2-hIrRcLvwAAlrxMRtCC-FJm99BQ9gXzAUBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "PHREQUENCY",
+        "title": "Снайпер",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBKmg8aDdGWzK2RSRTIsvWOjhghcELAAL_cwACQgvhSXaUl8byRdKgNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAObaDxl8Z6sM3c-R7Ze1ox9yQaLY6gAAlvxMRtCC-FJObuayNHUDS4BAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Pink Phloyd",
+        "title": "Pink Phloyd",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBLGg8aDgIm2qEfYq3y2RbJ9rs6v7VAAN0AAJCC-FJ07CCb8k-3Iw2BA",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAO3aDxmYLQIr_Fh2QtdYeXyg7P7RLEAAl3xMRtCC-FJ8b9vtCw3xg0BAAMCAAN4AAM2BA"
+    },
+    {
+        "album": "Плакшери",
+        "title": "В сердце тьмы",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBLmg8aGNIiiNSo9mtCMK1_qNFgWQYAAIBdAACQgvhSeshOzyDd7uDNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPYaDxmsfPmkVUh0ZWNbjjPC5-mXVIAAl_xMRtCC-FJCAeiMMu8qNEBAAMCAAN5AAM2BA"
+    },
+    {
+        "album": "Синглы",
+        "title": "Chainsaw",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBMGg8aGTms5Mn2gf86hNpvcl5lHUdAAICdAACQgvhScpUcQ5sgQAB9DYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-09-26"
+    },
+    {
+        "album": "Синглы",
+        "title": "Дико, например",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBMWg8aGXE7GbdO-lcLhi7AtAw8kQyAAIDdAACQgvhScb9sxbBo1sMNgQ",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-05-28"
+    },
+    {
+        "album": "Синглы",
+        "title": "Caramel",
+        "performer": "PHARAOH",
+        "genre": "Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBMmg8aGlQ7K8B6IPliQAByyGsoIAnRgACBHQAAkIL4UlnKzj6jx3iYjYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPxaDxm9FBo2DXQKNH-mrilnjPDabcAAmTxMRtCC-FJDM7Q6EhjefYBAAMCAAN5AAM2BA",
+        "date": "2017-11-25"
+    },
+    {
+        "album": "Rage Mode (Rare Action)",
+        "title": "Crackhouse",
+        "performer": "PHARAOH",
+        "genre": "Alternative, Rap/Hip Hop",
+        "file_id": "CQACAgIAAyEGAASavGeAAAIBNWg8aK11CCaYAAFNGag-sThWBAKPmQACF3IAAvOL4EkaQMBFWIKTlzYE",
+        "cover_file_id": "AgACAgIAAyEGAASavGeAAAPHaDxmh7P9Vxwoniyv__5hyWPhm2sAAl7xMRtCC-FJ-dXjpmpehqIBAAMCAAN5AAM2BA"
+    }
+]
