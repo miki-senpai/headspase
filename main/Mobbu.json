@@ -1,432 +1,472 @@
-[
-    {
-        "album": "Up Next",
-        "title": "My way",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINYGhTBIqgNEjz-Vq-4Yb9gmgLe5sRAALSfQACz2WZSj0wsuuhaq5sNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Up Next",
-        "title": "Yard talk",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINYmhTBJw4VlRYxxaYs-ibPopJD2-vAALVfQACz2WZSkDBU_tZizIqNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Up Next",
-        "title": "Hendrixx (feat. soraxleblanc)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINY2hTBK6kZr6SE8h0J3PWh9CCeKZhAALYfQACz2WZSvvC6N2EWjquNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Up Next",
-        "title": "Avatar freestyle",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINZGhTBL2BczWmKhuLl8nNN9CeDuJrAALafQACz2WZShOp6AdTgAX8NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "fine",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINZ2hTBNYck08E6K2i4WMfNi9gawxSAALcfQACz2WZSiRnOEVLi7J5NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "smile",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINaGhTBOTLemY9IaG9M37yrnXCtLCjAALidwAC5VyZSt7XF_83sVJbNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "poor",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINaWhTBPNUBmxbqBwFOqHleQMrzWciAALffQACz2WZStx8PztWAAE2wTYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "far from life",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINa2hTBPc1ImAUzSHgvYWmm_454EEQAALgfQACz2WZSj7JeOUiG0FTNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "autophobia",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINbGhTBP1dIO52jVhyKI7qsxtDbK9uAALhfQACz2WZSkvqaUlu1ErANgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    },
-    {
-        "album": "midnight era",
-        "title": "midnight era",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINbmhTBQTmCR1VCza49Aek7ybHC1WbAALifQACz2WZSqYwq5sCQHsqNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
-    },
-    {
-        "album": "midnight era",
-        "title": "my turn",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINb2hTBQn8n2bm5QZiPbsBfu9btxoJAALjfQACz2WZSqPU74dDrVYZNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
-    },
-    {
-        "album": "midnight era",
-        "title": "culture (feat. Aqua Raps)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINcGhTBQ3_lPreaaHDw398aUEWplmSAALkfQACz2WZSoc3RobQyrxPNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
-    },
-    {
-        "album": "midnight era",
-        "title": "money dreams",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINcWhTBRH5sHcsAAENukGLLGWbDgVKjAAC5X0AAs9lmUpMPh4o_142YjYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
-    },
-    {
-        "album": "midnight era",
-        "title": "hunnid round rifle",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINcmhTBRYefBNqTQABR6qNdWqtsq7lYgAC5n0AAs9lmUrAXXsVi4Xx9TYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Faster",
-        "title": "Faster (slowed down) (feat. pxiqzes)",
-        "performer": "Mobbu",
-        "genre": "Alternative, Indie Pop, Indie Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINdGhTBR2oyUqgEQPjtyNKTvqVB7AOAALpfQACz2WZSgQzcKw4BgRSNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Faster",
-        "title": "Faster (sped up) (feat. pxiqzes)",
-        "performer": "Mobbu",
-        "genre": "Alternative, Indie Pop, Indie Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINdWhTBSLlkAPANKf0SVYzKH7er7aaAALqfQACz2WZSlDt1Dg84et5NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Faster",
-        "title": "Faster (feat. pxiqzes)",
-        "performer": "Mobbu",
-        "genre": "Alternative, Indie Pop, Indie Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINdmhTBSch3O2-bh0eWGu3E7QIrn0vAALsfQACz2WZSkHPy6w08JLvNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Синглы",
-        "title": "Growing up",
-        "performer": "Mobbu",
-        "genre": "R&B",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINeGhTBS1DYvaMPtV9H7rElwWi7I0PAALufQACz2WZSvhlmS5Ebgf-NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-09-03"
-    },
-    {
-        "album": "Синглы",
-        "title": "Older",
-        "performer": "Mobbu",
-        "genre": "Folk",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINeWhTBTLVFgSh5B4he7rPV5ppmA6KAALvfQACz2WZSu2iFp8kv3fINgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-07-10"
-    },
-    {
-        "album": "Синглы",
-        "title": "Killa (feat. ISSBROKIE)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINemhTBTcsLkqkMvx5f8xaZorfKtaGAALwfQACz2WZSk3M1SUDceCxNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-07-06"
-    },
-    {
-        "album": "Синглы",
-        "title": "YA UNCLE! (feat. zaptanicus, blxdesmith, ROASTED & mobbu)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINe2hTBUD-tJm9P-ktMSm1riw9pGlzAALxfQACz2WZSgxeffH5PnSlNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-01-31"
-    },
-    {
-        "album": "Синглы",
-        "title": "Still Searching",
-        "performer": "Mobbu",
-        "genre": "Electro",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINfGhTBUXtODOsn75f6U_NK7UIRFHcAALOfwACIr-ZStlkHpDP8QmLNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-02-02"
-    },
-    {
-        "album": "Синглы",
-        "title": "Snake walk",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINfWhTBUpt1FAVSOoh1HuAmwM1bDi6AALqdwAC5VyZSpSDr4NZA90iNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-09-20"
-    },
-    {
-        "album": "Синглы",
-        "title": "Toothless",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINfmhTBVBDQC02SVkGTiHCTOTzMZLCAALyfQACz2WZSn0Mac0sMY5yNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-11-01"
-    },
-    {
-        "album": "Синглы",
-        "title": "Dodgin' Bullets (TheNitroPower Remix)",
-        "performer": "Mobbu",
-        "genre": "Electro, Dance",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINf2hTBVXMqASeJxDXkHd0eeO_FLTbAAL0fQACz2WZSjcZ6pUPg_NfNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-09-23"
-    },
-    {
-        "album": "Синглы",
-        "title": "stand tall",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINgGhTBVlNJcTS3BEijeC9A9y9qoM6AAL1fQACz2WZSvcDkP8jkMIPNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-10-25"
-    },
-    {
-        "album": "Синглы",
-        "title": "Shangri La",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINgWhTBV4iiU6ByKxSfz4NTiwwcscOAAL2fQACz2WZSjO5HdskeO-PNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-10-28"
-    },
-    {
-        "album": "Синглы",
-        "title": "pocket rocket",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINgmhTBWMPQRG9BX2dw4y1yS5n3QK6AAL3fQACz2WZSgABMUv5Lf0aoDYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2024-10-04"
-    },
-    {
-        "album": "Синглы",
-        "title": "FALTER (feat. SUPXR & pxiqzes)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINg2hTBWnIM2Hc0hdgRRz7LAJmAAFRPgAC-H0AAs9lmUpaiWmd69ISEzYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-05-23"
-    },
-    {
-        "album": "Синглы",
-        "title": "trouble. (feat. ISSBROKIE)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINhGhTBXBvbKjc0CAQxXATyxfeAQgQAAL5fQACz2WZSpgmFEji1KOxNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-05-02"
-    },
-    {
-        "album": "Синглы",
-        "title": "Fonked out",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINhWhTBXZkcXzr2EWLIaobHAbelucQAAL6fQACz2WZSs7zJgP1OqPwNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-04-11"
-    },
-    {
-        "album": "Синглы",
-        "title": "floor 555",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINhmhTBXxnWj6kOgN6rlq8mwHN3N_NAAL8fQACz2WZSqw3D6Tn6CK6NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-02-28"
-    },
-    {
-        "album": "Синглы",
-        "title": "turn me up",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINh2hTBYJjyHv0buP2pcLzwSqZAAHySAAC_X0AAs9lmUqhzA_BUH4M0DYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-02-28"
-    },
-    {
-        "album": "Синглы",
-        "title": "still here?",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINiGhTBYZf6C3t18YGz-TNQUEkJpPmAAL_fQACz2WZSlsRgezckoYWNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-02-28"
-    },
-    {
-        "album": "Синглы",
-        "title": "RN",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINiWhTBYqDa6Ss2zjzubLld6sPUmN6AAN-AALPZZlKZ_kc1VoT6CU2BA",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-01-24"
-    },
-    {
-        "album": "Синглы",
-        "title": "new year new me ig",
-        "performer": "Mobbu",
-        "genre": "Folk",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINimhTBY4UdDDtHKfuK7Mi8bCJYj_iAAIBfgACz2WZSuaVJJCZ2FJpNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-01-01"
-    },
-    {
-        "album": "Синглы",
-        "title": "bad habits",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINi2hTBZMLCLF7UoaVkpcc9NS_xcX-AAICfgACz2WZSrKs4pf8bgMnNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-01-10"
-    },
-    {
-        "album": "Синглы",
-        "title": "hopeless romantic (slowed)",
-        "performer": "Mobbu",
-        "genre": "R&B",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINjGhTBZn9w15glnP_UeeTaImhOokVAAIEfgACz2WZSidCyPvS5hLsNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-06-13"
-    },
-    {
-        "album": "Синглы",
-        "title": "hopeless romantic",
-        "performer": "Mobbu",
-        "genre": "R&B",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINjWhTBZ7E_IItpvAyJ3S_9tArRxBqAAIHfgACz2WZSuKcx2tPa9sXNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
-        "date": "2025-06-13"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Velvet",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINj2hTBaS0oz-AqN85dniB9UvT_E62AAIIfgACz2WZSuz8Eir3UI6dNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Right now",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINkGhTBalQKs_JHE7tdJiSb44x3gnmAAIJfgACz2WZSp7c24xdpt8MNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Bad habits",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINkWhTBa13QRIx0y0SsFT0DqvBi3Z7AAILfgACz2WZSvX2IoNO8VdPNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Too heavy (feat. waera)",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINkmhTBbFwmCAf4mJj7B9WVqZNJD29AAINfgACz2WZSgM3910kw81RNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "10:56",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINk2hTBbYyL74xi0b8fk80yaAaw-mzAAIQfgACz2WZSsKoftb_ewxtNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "P2",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINlGhTBbyBjPQde2YGr-2uYBsy24trAAISfgACz2WZSmzMOCSM8Oy9NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Red light",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINlWhTBcBmdSyaCqcv5MIcTggJICSDAAITfgACz2WZSrE_XYLXWSq_NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Turn me up",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINlmhTBcYjnFrndTm9fq-NJqe80QTuAAIUfgACz2WZSrVfh6brAdqBNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Fonked out",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINl2hTBcx9uQlMxyYvVWdOlOujEE1cAAIWfgACz2WZSpBzl20uC-ezNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "old dog, new tricks",
-        "title": "Priceless",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINmGhTBdBy2KNVGKFwPHzSvaaOKF1TAAIXfgACz2WZSlXT57cnbyGeNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Up Next",
-        "title": "Rolled up",
-        "performer": "Mobbu",
-        "genre": "Rap/Hip Hop",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINmWhTBdw9Ta846q4-4hyTYAuWkBwFAAIYfgACz2WZSjCJkhB7tNArNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
-    },
-    {
-        "album": "from the heart",
-        "title": "serenity",
-        "performer": "Mobbu",
-        "genre": "Singer & Songwriter",
-        "file_id": "CQACAgIAAyEGAASavGeAAAINmmhTBd2bPwABKxBPUQABE0A7TNjam-AAAhl-AALPZZlKTV8huw9mrcg2BA",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
-    }
-]
+{
+    "albums": [
+        {
+            "album": "Up Next",
+            "genre": "Rap/Hip Hop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ",
+            "date": "2024-09-06"
+        },
+        {
+            "album": "from the heart",
+            "genre": "Singer & Songwriter",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ",
+            "date": "2024-10-18"
+        },
+        {
+            "album": "midnight era",
+            "genre": "Rap/Hip Hop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ",
+            "date": "2024-12-06"
+        },
+        {
+            "album": "Faster",
+            "genre": "Alternative, Indie Pop, Indie Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ",
+            "date": "2025-06-06"
+        },
+        {
+            "album": "Синглы",
+            "genre": "R&B",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": ""
+        },
+        {
+            "album": "old dog, new tricks",
+            "genre": "Rap/Hip Hop",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ",
+            "date": "2025-04-25"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "Up Next",
+            "title": "My way",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINYGhTBIqgNEjz-Vq-4Yb9gmgLe5sRAALSfQACz2WZSj0wsuuhaq5sNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Up Next",
+            "title": "Yard talk",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINYmhTBJw4VlRYxxaYs-ibPopJD2-vAALVfQACz2WZSkDBU_tZizIqNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Up Next",
+            "title": "Hendrixx (feat. soraxleblanc)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINY2hTBK6kZr6SE8h0J3PWh9CCeKZhAALYfQACz2WZSvvC6N2EWjquNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Up Next",
+            "title": "Avatar freestyle",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINZGhTBL2BczWmKhuLl8nNN9CeDuJrAALafQACz2WZShOp6AdTgAX8NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "fine",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINZ2hTBNYck08E6K2i4WMfNi9gawxSAALcfQACz2WZSiRnOEVLi7J5NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "smile",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINaGhTBOTLemY9IaG9M37yrnXCtLCjAALidwAC5VyZSt7XF_83sVJbNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "poor",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINaWhTBPNUBmxbqBwFOqHleQMrzWciAALffQACz2WZStx8PztWAAE2wTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "far from life",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINa2hTBPc1ImAUzSHgvYWmm_454EEQAALgfQACz2WZSj7JeOUiG0FTNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "autophobia",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINbGhTBP1dIO52jVhyKI7qsxtDbK9uAALhfQACz2WZSkvqaUlu1ErANgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        },
+        {
+            "album": "midnight era",
+            "title": "midnight era",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINbmhTBQTmCR1VCza49Aek7ybHC1WbAALifQACz2WZSqYwq5sCQHsqNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
+        },
+        {
+            "album": "midnight era",
+            "title": "my turn",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINb2hTBQn8n2bm5QZiPbsBfu9btxoJAALjfQACz2WZSqPU74dDrVYZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
+        },
+        {
+            "album": "midnight era",
+            "title": "culture (feat. Aqua Raps)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINcGhTBQ3_lPreaaHDw398aUEWplmSAALkfQACz2WZSoc3RobQyrxPNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
+        },
+        {
+            "album": "midnight era",
+            "title": "money dreams",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINcWhTBRH5sHcsAAENukGLLGWbDgVKjAAC5X0AAs9lmUpMPh4o_142YjYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
+        },
+        {
+            "album": "midnight era",
+            "title": "hunnid round rifle",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINcmhTBRYefBNqTQABR6qNdWqtsq7lYgAC5n0AAs9lmUrAXXsVi4Xx9TYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINbWhTBP6LX5Zhs3sIzZR18brt8g8UAAIN-zEbz2WZStidOirqDuVHAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Faster",
+            "title": "Faster (slowed down) (feat. pxiqzes)",
+            "performer": "Mobbu",
+            "genre": "Alternative, Indie Pop, Indie Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINdGhTBR2oyUqgEQPjtyNKTvqVB7AOAALpfQACz2WZSgQzcKw4BgRSNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Faster",
+            "title": "Faster (sped up) (feat. pxiqzes)",
+            "performer": "Mobbu",
+            "genre": "Alternative, Indie Pop, Indie Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINdWhTBSLlkAPANKf0SVYzKH7er7aaAALqfQACz2WZSlDt1Dg84et5NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Faster",
+            "title": "Faster (feat. pxiqzes)",
+            "performer": "Mobbu",
+            "genre": "Alternative, Indie Pop, Indie Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINdmhTBSch3O2-bh0eWGu3E7QIrn0vAALsfQACz2WZSkHPy6w08JLvNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINc2hTBRe4QUUtFWCMAoWrjtXBZ73BAALy9DEb5VyZSuJk1B5PSDcpAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Growing up",
+            "performer": "Mobbu",
+            "genre": "R&B",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINeGhTBS1DYvaMPtV9H7rElwWi7I0PAALufQACz2WZSvhlmS5Ebgf-NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-09-03"
+        },
+        {
+            "album": "Синглы",
+            "title": "Older",
+            "performer": "Mobbu",
+            "genre": "Folk",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINeWhTBTLVFgSh5B4he7rPV5ppmA6KAALvfQACz2WZSu2iFp8kv3fINgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-07-10"
+        },
+        {
+            "album": "Синглы",
+            "title": "Killa (feat. ISSBROKIE)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINemhTBTcsLkqkMvx5f8xaZorfKtaGAALwfQACz2WZSk3M1SUDceCxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-07-06"
+        },
+        {
+            "album": "Синглы",
+            "title": "YA UNCLE! (feat. zaptanicus, blxdesmith, ROASTED & mobbu)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINe2hTBUD-tJm9P-ktMSm1riw9pGlzAALxfQACz2WZSgxeffH5PnSlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-01-31"
+        },
+        {
+            "album": "Синглы",
+            "title": "Still Searching",
+            "performer": "Mobbu",
+            "genre": "Electro",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINfGhTBUXtODOsn75f6U_NK7UIRFHcAALOfwACIr-ZStlkHpDP8QmLNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-02-02"
+        },
+        {
+            "album": "Синглы",
+            "title": "Snake walk",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINfWhTBUpt1FAVSOoh1HuAmwM1bDi6AALqdwAC5VyZSpSDr4NZA90iNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-09-20"
+        },
+        {
+            "album": "Синглы",
+            "title": "Toothless",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINfmhTBVBDQC02SVkGTiHCTOTzMZLCAALyfQACz2WZSn0Mac0sMY5yNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-11-01"
+        },
+        {
+            "album": "Синглы",
+            "title": "Dodgin' Bullets (TheNitroPower Remix)",
+            "performer": "Mobbu",
+            "genre": "Electro, Dance",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINf2hTBVXMqASeJxDXkHd0eeO_FLTbAAL0fQACz2WZSjcZ6pUPg_NfNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-09-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "stand tall",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINgGhTBVlNJcTS3BEijeC9A9y9qoM6AAL1fQACz2WZSvcDkP8jkMIPNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-10-25"
+        },
+        {
+            "album": "Синглы",
+            "title": "Shangri La",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINgWhTBV4iiU6ByKxSfz4NTiwwcscOAAL2fQACz2WZSjO5HdskeO-PNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-10-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "pocket rocket",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINgmhTBWMPQRG9BX2dw4y1yS5n3QK6AAL3fQACz2WZSgABMUv5Lf0aoDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2024-10-04"
+        },
+        {
+            "album": "Синглы",
+            "title": "FALTER (feat. SUPXR & pxiqzes)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINg2hTBWnIM2Hc0hdgRRz7LAJmAAFRPgAC-H0AAs9lmUpaiWmd69ISEzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-05-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "trouble. (feat. ISSBROKIE)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINhGhTBXBvbKjc0CAQxXATyxfeAQgQAAL5fQACz2WZSpgmFEji1KOxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-05-02"
+        },
+        {
+            "album": "Синглы",
+            "title": "Fonked out",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINhWhTBXZkcXzr2EWLIaobHAbelucQAAL6fQACz2WZSs7zJgP1OqPwNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-04-11"
+        },
+        {
+            "album": "Синглы",
+            "title": "floor 555",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINhmhTBXxnWj6kOgN6rlq8mwHN3N_NAAL8fQACz2WZSqw3D6Tn6CK6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-02-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "turn me up",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINh2hTBYJjyHv0buP2pcLzwSqZAAHySAAC_X0AAs9lmUqhzA_BUH4M0DYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-02-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "still here?",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINiGhTBYZf6C3t18YGz-TNQUEkJpPmAAL_fQACz2WZSlsRgezckoYWNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-02-28"
+        },
+        {
+            "album": "Синглы",
+            "title": "RN",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINiWhTBYqDa6Ss2zjzubLld6sPUmN6AAN-AALPZZlKZ_kc1VoT6CU2BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-01-24"
+        },
+        {
+            "album": "Синглы",
+            "title": "new year new me ig",
+            "performer": "Mobbu",
+            "genre": "Folk",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINimhTBY4UdDDtHKfuK7Mi8bCJYj_iAAIBfgACz2WZSuaVJJCZ2FJpNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-01-01"
+        },
+        {
+            "album": "Синглы",
+            "title": "bad habits",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINi2hTBZMLCLF7UoaVkpcc9NS_xcX-AAICfgACz2WZSrKs4pf8bgMnNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-01-10"
+        },
+        {
+            "album": "Синглы",
+            "title": "hopeless romantic (slowed)",
+            "performer": "Mobbu",
+            "genre": "R&B",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINjGhTBZn9w15glnP_UeeTaImhOokVAAIEfgACz2WZSidCyPvS5hLsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-06-13"
+        },
+        {
+            "album": "Синглы",
+            "title": "hopeless romantic",
+            "performer": "Mobbu",
+            "genre": "R&B",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINjWhTBZ7E_IItpvAyJ3S_9tArRxBqAAIHfgACz2WZSuKcx2tPa9sXNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINd2hTBShLcUktBnPCT_1Cx1j4DLWxAAL09DEb5VyZSmWm07xr2u9LAQADAgADeQADNgQ",
+            "date": "2025-06-13"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Velvet",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINj2hTBaS0oz-AqN85dniB9UvT_E62AAIIfgACz2WZSuz8Eir3UI6dNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Right now",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINkGhTBalQKs_JHE7tdJiSb44x3gnmAAIJfgACz2WZSp7c24xdpt8MNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Bad habits",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINkWhTBa13QRIx0y0SsFT0DqvBi3Z7AAILfgACz2WZSvX2IoNO8VdPNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Too heavy (feat. waera)",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINkmhTBbFwmCAf4mJj7B9WVqZNJD29AAINfgACz2WZSgM3910kw81RNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "10:56",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINk2hTBbYyL74xi0b8fk80yaAaw-mzAAIQfgACz2WZSsKoftb_ewxtNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "P2",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINlGhTBbyBjPQde2YGr-2uYBsy24trAAISfgACz2WZSmzMOCSM8Oy9NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Red light",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINlWhTBcBmdSyaCqcv5MIcTggJICSDAAITfgACz2WZSrE_XYLXWSq_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Turn me up",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINlmhTBcYjnFrndTm9fq-NJqe80QTuAAIUfgACz2WZSrVfh6brAdqBNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Fonked out",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINl2hTBcx9uQlMxyYvVWdOlOujEE1cAAIWfgACz2WZSpBzl20uC-ezNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "old dog, new tricks",
+            "title": "Priceless",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINmGhTBdBy2KNVGKFwPHzSvaaOKF1TAAIXfgACz2WZSlXT57cnbyGeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINjmhTBZ-wm-NNKZpIEx7-9bONkWNlAAIQ-zEbz2WZStDKdqovqtexAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Up Next",
+            "title": "Rolled up",
+            "performer": "Mobbu",
+            "genre": "Rap/Hip Hop",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINmWhTBdw9Ta846q4-4hyTYAuWkBwFAAIYfgACz2WZSjCJkhB7tNArNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINX2hTBIGgAxUrDujw2lqSLOeq1cE8AAIJ-zEbz2WZSskojdZ4OnYmAQADAgADeQADNgQ"
+        },
+        {
+            "album": "from the heart",
+            "title": "serenity",
+            "performer": "Mobbu",
+            "genre": "Singer & Songwriter",
+            "file_id": "CQACAgIAAyEGAASavGeAAAINmmhTBd2bPwABKxBPUQABE0A7TNjam-AAAhl-AALPZZlKTV8huw9mrcg2BA",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAINZWhTBMV1SjYlnNyIiNf-z2l6pR5zAALr9DEb5VyZSkyWL21ENuyfAQADAgADeQADNgQ"
+        }
+    ]
+}

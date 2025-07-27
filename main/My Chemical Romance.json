@@ -1,594 +1,634 @@
-[
-    {
-        "album": "The Mad Gear And Missile Kid",
-        "title": "Black Dragon Fighting Society",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR8WhWkrPWUu-WvpY_QJ5zKaoMOlRkAAIsdAACVLW5Sh9okk6DekZ6NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Mad Gear And Missile Kid",
-        "title": "Mastas of Ravenkroft",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR8mhWksSfEfN4rIkosyJFB_FAdLHuAAIudAACVLW5Su-fZvRxC_ZNNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Mad Gear And Missile Kid",
-        "title": "F.T.W.W.W.",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR82hWktE2FeNW7bRclUC90tn_VCkpAAIvdAACVLW5SlYkkFYmtyX-NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Синглы",
-        "title": "Zero Percent",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR9WhWkuOW6Xrrz42PuNwyn7v7zwudAAJrdgAC_9CxSv0lV2NZjvKqNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2010-11-05"
-    },
-    {
-        "album": "Синглы",
-        "title": "Kill All Your Friends",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR92hWkwUKVRN3raQLl9psDnqY361FAAI0dAACVLW5SgkdxrtdIu_mNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2007-01-22"
-    },
-    {
-        "album": "Синглы",
-        "title": "The Foundations of Decay",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR-WhWkykP2yYvQ2YvdkD-jxECGXXwAAI4dAACVLW5ShqKjsHhPUKXNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2022"
-    },
-    {
-        "album": "Синглы",
-        "title": "Fake Your Death",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR-mhWkzDHdfHAis-B8RA2BA2tKYDgAAI5dAACVLW5SujRDs55qaAmNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2014-02-17"
-    },
-    {
-        "album": "Синглы",
-        "title": "Surrender the Night",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR-2hWkzUPVgshXhCzJrzX7gsSC3BKAAI6dAACVLW5SsSmtIP8sCHmNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2013-02-05"
-    },
-    {
-        "album": "Синглы",
-        "title": "Burn Bright",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR_GhWkzogvlRVoJbX2xGVsCNimvI1AAKHcQACh-G5Svl83kQZObSINgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2013-02-05"
-    },
-    {
-        "album": "Синглы",
-        "title": "Kiss the Ring",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR_WhWkz_8yf6ThykbqdRssxUtX8P8AAI8dAACVLW5Snz7HKvNc96HNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2013-01-08"
-    },
-    {
-        "album": "Синглы",
-        "title": "The World Is Ugly",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR_mhWk0VeRs4hWIzNh4WzLpvRVRhoAAI-dAACVLW5SoLaqvCDeqDkNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-12-18"
-    },
-    {
-        "album": "Синглы",
-        "title": "Make Room!!!!",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAIR_2hWk0qsnaruavvtocmyUMkwSmeMAAI_dAACVLW5Sjy0P0TnG2wlNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2013-01-08"
-    },
-    {
-        "album": "Синглы",
-        "title": "AMBULANCE",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISAAFoVpNQX2ziIvZGnXv-Hfr4yY1IugACbnEAAlrXuEob9zi75GXomzYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-11-23"
-    },
-    {
-        "album": "Синглы",
-        "title": "The Light Behind Your Eyes",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISAWhWk1rNHivu8Ux0w9LwvZhkgP2fAAJAdAACVLW5SnE0QfzhLWVxNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-12-18"
-    },
-    {
-        "album": "Синглы",
-        "title": "Boy Division",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISAmhWk2E9I3qwdd8uMp6Qqcg3LTNgAAJBdAACVLW5SgnkovTFpKoUNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-10-30"
-    },
-    {
-        "album": "Синглы",
-        "title": "Gun.",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISA2hWk2vCi-XoPN7FA72XpAgVJi26AAJDdAACVLW5Sh6lKE8i1DVGNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-11-23"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Vampires Will Never Hurt You",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISBmhWk4EJBCjl5IHTeqR5QuQORIZOAAJGdAACVLW5ShZjN1-5z1ZNNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Romance",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISB2hWk4ZM4N0FdCWWinQ2T97juW1xAAJHdAACVLW5SiLATSxNORYmNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISCGhWk5AHkbgFPPDvJSvPo0zYL1lrAAJJdAACVLW5Soc7NVU4Pc8CNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Our Lady of Sorrows",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISCWhWk5VK3nHrjj7c66QnHXtFGYfDAAKOcQACh-G5SrWVbQNAqF-TNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Early Sunsets Over Monroeville",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISCmhWk6H4lAo0HqdIdREQ9t0xUWrRAAJNdAACVLW5SvtjcVj2nJvcNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Drowning Lessons",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISC2hWk6k-dua5QOBn5mKr9cOfLbsTAAJPdAACVLW5SrdwH-Bw1STxNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Headfirst for Halos",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISDGhWk68W7dA6SWgRaJAKwJid0EBzAAJQdAACVLW5SvCfyO8upczlNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Demolition Lovers",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISDWhWk7kS-_ThCPjYh1D2najDu73LAAJSdAACVLW5SqKSWy7wi2W7NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Skylines and Turnstiles",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISDmhWk8DSHDv0146kOv4iFKw_7305AAJTdAACVLW5SlTbQNObCgoeNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "This Is the Best Day Ever",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISD2hWk8Vtgzx8QtijWSiKegIQejwYAAJUdAACVLW5SpkLvK_vxwzlNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "I Brought You My Bullets, You Brought Me Your Love",
-        "title": "Cubicles",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISEGhWk8t3uDtFaHwNPLNzkJN6UmFdAAJVdAACVLW5SuolOabJZ0-6NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "You Know What They Do to Guys Like Us in Prison",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISEmhWk9HbKa7jVkfUNho2W9tx8OimAAJYdAACVLW5StDmbndohUtHNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "To the End",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISE2hWk9iXBibhN1wnzJCWsP-kIBIzAAJZdAACVLW5SgTWyjbW50_gNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Give 'Em Hell, Kid",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISFGhWk9yQ9WQnEhiKAVUprmVeo0ywAAJadAACVLW5Sv05tK675FgVNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Helena",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISFWhWk-JgeQRJTv4Fa1tT-mbljdqKAAJcdAACVLW5Sn3RQD-a-y0yNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "I'm Not Okay (I Promise)",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISFmhWk-hcwn6koyafK5wHqMXOPa24AAJddAACVLW5SkWaUvtJBl7XNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Interlude",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISF2hWk-pnfqQLuBafluNh9-Gr3l50AAJedAACVLW5SqMtts94ZclZNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "The Ghost of You",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISGGhWk-_Eia44sEdqZnuvrQpxPE94AAJfdAACVLW5SlpYHumO4s8SNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Thank You for the Venom",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISGWhWk_QYjSH_8JPkBfzzsHAqBmmOAAKScQACh-G5Sg9-pxo6MpDrNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Hang 'Em High",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISGmhWk_n6UIcNe5JVd0Ey_9owqZW5AAJhdAACVLW5Sq3TLHHwXk4GNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "It's Not a Fashion Statement, It's a Deathwish",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISG2hWk_7mKyAFZaaGiDb61z0uKyRqAAJidAACVLW5Slk5BN87njccNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "Cemetery Drive",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISHGhWlAQDJTV8Wdyq_Azsr2I7UeInAAJjdAACVLW5ShP6c-DpGn04NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "I Never Told You What I Do for a Living",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISHWhWlAxRl8VHYMqD-OaGHoe7okGiAAJkdAACVLW5St_GWCq49CvYNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "Three Cheers for Sweet Revenge",
-        "title": "The Jetset Life Is Gonna Kill You",
-        "performer": "My Chemical Romance",
-        "genre": "Rock",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISHmhWlBJpn8osi6MrarZg3uVN4KPdAAJmdAACVLW5SnhOyPWbejfsNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Famous Last Words",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISIGhWlBtmzJlAukTNsYQRNqq2HQ77AAJndAACVLW5Su3FFsvWkE6_NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "The End.",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISIWhWlDp72xFjg2qgI_pSMRUE4gEhAAJqdAACVLW5SkU0Eat1H_MAATYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Dead!",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISImhWlEFno-s6qRYAAbbvtsFmy3EDXAACa3QAAlS1uUq_Jh9alptRBjYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "This Is How I Disappear",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISI2hWlEcmcMRABBHm5HUfMR5x5LajAAJsdAACVLW5SqVkQOiBrtkyNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "The Sharpest Lives",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISJGhWlE7s-AlAZ714YXustNYtgGoEAAJudAACVLW5SiamVaUrDZcaNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "I Don't Love You",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISJWhWlFOhztmf0vKy5Hh0Ee6stB3cAAJvdAACVLW5SoSo41D2hoqRNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Disenchanted",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISJmhWlGgnTh0AAeLqDOr6bUnXu7qqrgACcnQAAlS1uUrUym4EGroeujYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Cancer",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISJ2hWlHxGe5fC3L23lLPoyWLiaBLJAAJ2dAACVLW5SqxtCYl7AAGV-TYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "House of Wolves",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISKGhWlI_FFwtr2Dkun-sB_GCVOuImAAJ4dAACVLW5Sjcx53H5i2PANgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Sleep",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISKWhWlJ834tfGB-4y5X0DhIzc3R8RAAJ8dAACVLW5SmgNjLiThHGFNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Blood (Hidden Track)",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISK2hWlKV5D57uaeC5WRdG-gGR5uhlAAJ-dAACVLW5SgtXBjSdypRsNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Mama",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISLGhWlK3P1txUWlyRIrQDrbMVQl6OAAKAdAACVLW5SsisJSaMCblhNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Look Alive, Sunshine",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISLmhWlLDSOtNQEQbkeWMGJfsRjEcwAAKCdAACVLW5SsokAAFXTBuhTDYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISL2hWlLZdi5osZNtQBin2JQyF6Hp6AAKDdAACVLW5SqA80or3N1-mNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "SING",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISMGhWlLwfufrZwZtiNnhsFklo0sirAAKFdAACVLW5SjYBGOJClfAPNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Planetary (GO!)",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISMWhWlMPGM-8ZUU1znb0Zb6fEz7OyAAKIdAACVLW5Sliu_42AbzS3NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Jet-Star and the Kobra Kid / Traffic Report",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISMmhWlMVWDNAe3C8vBaIzL1WLXCfsAAKJdAACVLW5Sul6YGUDN6lfNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "The Only Hope for Me Is You",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISM2hWlM7NU65Cw6k6Pfr-whYzvt96AAKNdAACVLW5SlyLJzcWAzOONgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Bulletproof Heart",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISNGhWlNWibl0UE7ywwk_vgznGmVelAAKPdAACVLW5SrHYk1sEhpmmNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Party Poison",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISNWhWlNs3sCUM5w0M6HF3s6yHZepIAAKQdAACVLW5SnA_LyYP9kt6NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Save Yourself, I'll Hold Them Back",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISNmhWlOLb2l_itCWW7HajfXGIZLLfAAKRdAACVLW5ShOot9n2FQMdNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "S/C/A/R/E/C/R/O/W",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISN2hWlOrO1jsM69tGnqUPWNskZbcTAAKTdAACVLW5So9tE3_HwwABOTYE",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "DESTROYA",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISOGhWlQRT5bGOTvQW52ucYecsx1y-AAKgcQACh-G5SoDWbtnKFWaENgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Vampire Money",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISOmhWlUG_A3Wwy5UIE6CmENz031ZZAAKZdAACVLW5StnQ-dvSHxWgNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Summertime",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISO2hWlUk_eXxOmw0xcS8-8UZ94a4gAAKadAACVLW5SrbvcCM9EnhVNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Синглы",
-        "title": "My Way Home Is Through You",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISPGhWlWeIJAeawMioODlZhCgxR6OxAAKddAACVLW5SljMn0FcUef4NgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2007"
-    },
-    {
-        "album": "Синглы",
-        "title": "Under Pressure",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISPWhWlXosqKCso8QbQbZv0ljDz1yNAAKedAACVLW5Sh7xFYdj9OGpNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2005-04-12"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Welcome to the Black Parade",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISPmhWlZAQVlFGWYLGfhH4awrhutYiAAKidAACVLW5SkJHqbL8P-KoNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "The Black Parade",
-        "title": "Teenagers",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISP2hWlZJHHCLDFc7h42vZyZU82iTOAAKjdAACVLW5SsceXXpAdUKcNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "The Kids from Yesterday",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISQWhWlZQPefP1OfyrR1A1_e_j0xquAAKldAACVLW5Srivn_uMhz2zNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Danger Days  The True Lives of the Fabulous Killjoys",
-        "title": "Goodnite, Dr. Death",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISQmhWlZTSw0wb1COqfmXQUvo7IW7HAAKmdAACVLW5SpUnZbo0wBYJNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
-    },
-    {
-        "album": "Синглы",
-        "title": "Tomorrow's Money",
-        "performer": "My Chemical Romance",
-        "genre": "Alternative",
-        "file_id": "CQACAgIAAyEGAASavGeAAAISQ2hWlaT8wUtJgGCDqV8kJXhdHtRIAAKndAACVLW5SjVV_cO_l4VoNgQ",
-        "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
-        "date": "2012-10-30"
-    }
-]
+{
+    "albums": [
+        {
+            "album": "The Mad Gear And Missile Kid",
+            "genre": "Alternative",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ",
+            "date": "2010-11-22"
+        },
+        {
+            "album": "Синглы",
+            "genre": "Alternative",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": ""
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "genre": "Alternative",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ",
+            "date": "2015-10-09"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "genre": "Rock",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ",
+            "date": "2004"
+        },
+        {
+            "album": "The Black Parade",
+            "genre": "Alternative",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ",
+            "date": "2006-10-23"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "genre": "Alternative",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE",
+            "date": "2010-11-05"
+        }
+    ],
+    "tracks": [
+        {
+            "album": "The Mad Gear And Missile Kid",
+            "title": "Black Dragon Fighting Society",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR8WhWkrPWUu-WvpY_QJ5zKaoMOlRkAAIsdAACVLW5Sh9okk6DekZ6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Mad Gear And Missile Kid",
+            "title": "Mastas of Ravenkroft",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR8mhWksSfEfN4rIkosyJFB_FAdLHuAAIudAACVLW5Su-fZvRxC_ZNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Mad Gear And Missile Kid",
+            "title": "F.T.W.W.W.",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR82hWktE2FeNW7bRclUC90tn_VCkpAAIvdAACVLW5SlYkkFYmtyX-NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR8GhWkqU20XfTCU1bZpw1goNyN9PEAAKM7jEbVLW5Sp9mKzAiaZl9AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Синглы",
+            "title": "Zero Percent",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR9WhWkuOW6Xrrz42PuNwyn7v7zwudAAJrdgAC_9CxSv0lV2NZjvKqNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2010-11-05"
+        },
+        {
+            "album": "Синглы",
+            "title": "Kill All Your Friends",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR92hWkwUKVRN3raQLl9psDnqY361FAAI0dAACVLW5SgkdxrtdIu_mNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2007-01-22"
+        },
+        {
+            "album": "Синглы",
+            "title": "The Foundations of Decay",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR-WhWkykP2yYvQ2YvdkD-jxECGXXwAAI4dAACVLW5ShqKjsHhPUKXNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2022"
+        },
+        {
+            "album": "Синглы",
+            "title": "Fake Your Death",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR-mhWkzDHdfHAis-B8RA2BA2tKYDgAAI5dAACVLW5SujRDs55qaAmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2014-02-17"
+        },
+        {
+            "album": "Синглы",
+            "title": "Surrender the Night",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR-2hWkzUPVgshXhCzJrzX7gsSC3BKAAI6dAACVLW5SsSmtIP8sCHmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2013-02-05"
+        },
+        {
+            "album": "Синглы",
+            "title": "Burn Bright",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR_GhWkzogvlRVoJbX2xGVsCNimvI1AAKHcQACh-G5Svl83kQZObSINgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2013-02-05"
+        },
+        {
+            "album": "Синглы",
+            "title": "Kiss the Ring",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR_WhWkz_8yf6ThykbqdRssxUtX8P8AAI8dAACVLW5Snz7HKvNc96HNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2013-01-08"
+        },
+        {
+            "album": "Синглы",
+            "title": "The World Is Ugly",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR_mhWk0VeRs4hWIzNh4WzLpvRVRhoAAI-dAACVLW5SoLaqvCDeqDkNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-12-18"
+        },
+        {
+            "album": "Синглы",
+            "title": "Make Room!!!!",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAIR_2hWk0qsnaruavvtocmyUMkwSmeMAAI_dAACVLW5Sjy0P0TnG2wlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2013-01-08"
+        },
+        {
+            "album": "Синглы",
+            "title": "AMBULANCE",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISAAFoVpNQX2ziIvZGnXv-Hfr4yY1IugACbnEAAlrXuEob9zi75GXomzYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-11-23"
+        },
+        {
+            "album": "Синглы",
+            "title": "The Light Behind Your Eyes",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISAWhWk1rNHivu8Ux0w9LwvZhkgP2fAAJAdAACVLW5SnE0QfzhLWVxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-12-18"
+        },
+        {
+            "album": "Синглы",
+            "title": "Boy Division",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISAmhWk2E9I3qwdd8uMp6Qqcg3LTNgAAJBdAACVLW5SgnkovTFpKoUNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-10-30"
+        },
+        {
+            "album": "Синглы",
+            "title": "Gun.",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISA2hWk2vCi-XoPN7FA72XpAgVJi26AAJDdAACVLW5Sh6lKE8i1DVGNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-11-23"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Vampires Will Never Hurt You",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISBmhWk4EJBCjl5IHTeqR5QuQORIZOAAJGdAACVLW5ShZjN1-5z1ZNNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Romance",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISB2hWk4ZM4N0FdCWWinQ2T97juW1xAAJHdAACVLW5SiLATSxNORYmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISCGhWk5AHkbgFPPDvJSvPo0zYL1lrAAJJdAACVLW5Soc7NVU4Pc8CNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Our Lady of Sorrows",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISCWhWk5VK3nHrjj7c66QnHXtFGYfDAAKOcQACh-G5SrWVbQNAqF-TNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Early Sunsets Over Monroeville",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISCmhWk6H4lAo0HqdIdREQ9t0xUWrRAAJNdAACVLW5SvtjcVj2nJvcNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Drowning Lessons",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISC2hWk6k-dua5QOBn5mKr9cOfLbsTAAJPdAACVLW5SrdwH-Bw1STxNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Headfirst for Halos",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISDGhWk68W7dA6SWgRaJAKwJid0EBzAAJQdAACVLW5SvCfyO8upczlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Demolition Lovers",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISDWhWk7kS-_ThCPjYh1D2najDu73LAAJSdAACVLW5SqKSWy7wi2W7NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Skylines and Turnstiles",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISDmhWk8DSHDv0146kOv4iFKw_7305AAJTdAACVLW5SlTbQNObCgoeNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "This Is the Best Day Ever",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISD2hWk8Vtgzx8QtijWSiKegIQejwYAAJUdAACVLW5SpkLvK_vxwzlNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "I Brought You My Bullets, You Brought Me Your Love",
+            "title": "Cubicles",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISEGhWk8t3uDtFaHwNPLNzkJN6UmFdAAJVdAACVLW5SuolOabJZ0-6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISBWhWk3iDJozTuwweDMM3-I4cu1QwAAKZ7jEbVLW5SpKfXKCSymhkAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "You Know What They Do to Guys Like Us in Prison",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISEmhWk9HbKa7jVkfUNho2W9tx8OimAAJYdAACVLW5StDmbndohUtHNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "To the End",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISE2hWk9iXBibhN1wnzJCWsP-kIBIzAAJZdAACVLW5SgTWyjbW50_gNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Give 'Em Hell, Kid",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISFGhWk9yQ9WQnEhiKAVUprmVeo0ywAAJadAACVLW5Sv05tK675FgVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Helena",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISFWhWk-JgeQRJTv4Fa1tT-mbljdqKAAJcdAACVLW5Sn3RQD-a-y0yNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "I'm Not Okay (I Promise)",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISFmhWk-hcwn6koyafK5wHqMXOPa24AAJddAACVLW5SkWaUvtJBl7XNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Interlude",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISF2hWk-pnfqQLuBafluNh9-Gr3l50AAJedAACVLW5SqMtts94ZclZNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "The Ghost of You",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISGGhWk-_Eia44sEdqZnuvrQpxPE94AAJfdAACVLW5SlpYHumO4s8SNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Thank You for the Venom",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISGWhWk_QYjSH_8JPkBfzzsHAqBmmOAAKScQACh-G5Sg9-pxo6MpDrNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Hang 'Em High",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISGmhWk_n6UIcNe5JVd0Ey_9owqZW5AAJhdAACVLW5Sq3TLHHwXk4GNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "It's Not a Fashion Statement, It's a Deathwish",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISG2hWk_7mKyAFZaaGiDb61z0uKyRqAAJidAACVLW5Slk5BN87njccNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "Cemetery Drive",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISHGhWlAQDJTV8Wdyq_Azsr2I7UeInAAJjdAACVLW5ShP6c-DpGn04NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "I Never Told You What I Do for a Living",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISHWhWlAxRl8VHYMqD-OaGHoe7okGiAAJkdAACVLW5St_GWCq49CvYNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "Three Cheers for Sweet Revenge",
+            "title": "The Jetset Life Is Gonna Kill You",
+            "performer": "My Chemical Romance",
+            "genre": "Rock",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISHmhWlBJpn8osi6MrarZg3uVN4KPdAAJmdAACVLW5SnhOyPWbejfsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISEWhWk8ze2-x8QOYMfIXy2guKlCXQAAKc7jEbVLW5Sv6WwDzzb405AQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Famous Last Words",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISIGhWlBtmzJlAukTNsYQRNqq2HQ77AAJndAACVLW5Su3FFsvWkE6_NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "The End.",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISIWhWlDp72xFjg2qgI_pSMRUE4gEhAAJqdAACVLW5SkU0Eat1H_MAATYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Dead!",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISImhWlEFno-s6qRYAAbbvtsFmy3EDXAACa3QAAlS1uUq_Jh9alptRBjYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "This Is How I Disappear",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISI2hWlEcmcMRABBHm5HUfMR5x5LajAAJsdAACVLW5SqVkQOiBrtkyNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "The Sharpest Lives",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISJGhWlE7s-AlAZ714YXustNYtgGoEAAJudAACVLW5SiamVaUrDZcaNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "I Don't Love You",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISJWhWlFOhztmf0vKy5Hh0Ee6stB3cAAJvdAACVLW5SoSo41D2hoqRNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Disenchanted",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISJmhWlGgnTh0AAeLqDOr6bUnXu7qqrgACcnQAAlS1uUrUym4EGroeujYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Cancer",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISJ2hWlHxGe5fC3L23lLPoyWLiaBLJAAJ2dAACVLW5SqxtCYl7AAGV-TYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "House of Wolves",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISKGhWlI_FFwtr2Dkun-sB_GCVOuImAAJ4dAACVLW5Sjcx53H5i2PANgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Sleep",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISKWhWlJ834tfGB-4y5X0DhIzc3R8RAAJ8dAACVLW5SmgNjLiThHGFNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Blood (Hidden Track)",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISK2hWlKV5D57uaeC5WRdG-gGR5uhlAAJ-dAACVLW5SgtXBjSdypRsNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Mama",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISLGhWlK3P1txUWlyRIrQDrbMVQl6OAAKAdAACVLW5SsisJSaMCblhNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Look Alive, Sunshine",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISLmhWlLDSOtNQEQbkeWMGJfsRjEcwAAKCdAACVLW5SsokAAFXTBuhTDYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISL2hWlLZdi5osZNtQBin2JQyF6Hp6AAKDdAACVLW5SqA80or3N1-mNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "SING",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISMGhWlLwfufrZwZtiNnhsFklo0sirAAKFdAACVLW5SjYBGOJClfAPNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Planetary (GO!)",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISMWhWlMPGM-8ZUU1znb0Zb6fEz7OyAAKIdAACVLW5Sliu_42AbzS3NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Jet-Star and the Kobra Kid / Traffic Report",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISMmhWlMVWDNAe3C8vBaIzL1WLXCfsAAKJdAACVLW5Sul6YGUDN6lfNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "The Only Hope for Me Is You",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISM2hWlM7NU65Cw6k6Pfr-whYzvt96AAKNdAACVLW5SlyLJzcWAzOONgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Bulletproof Heart",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISNGhWlNWibl0UE7ywwk_vgznGmVelAAKPdAACVLW5SrHYk1sEhpmmNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Party Poison",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISNWhWlNs3sCUM5w0M6HF3s6yHZepIAAKQdAACVLW5SnA_LyYP9kt6NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Save Yourself, I'll Hold Them Back",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISNmhWlOLb2l_itCWW7HajfXGIZLLfAAKRdAACVLW5ShOot9n2FQMdNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "S/C/A/R/E/C/R/O/W",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISN2hWlOrO1jsM69tGnqUPWNskZbcTAAKTdAACVLW5So9tE3_HwwABOTYE",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "DESTROYA",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISOGhWlQRT5bGOTvQW52ucYecsx1y-AAKgcQACh-G5SoDWbtnKFWaENgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Vampire Money",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISOmhWlUG_A3Wwy5UIE6CmENz031ZZAAKZdAACVLW5StnQ-dvSHxWgNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Summertime",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISO2hWlUk_eXxOmw0xcS8-8UZ94a4gAAKadAACVLW5SrbvcCM9EnhVNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Синглы",
+            "title": "My Way Home Is Through You",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISPGhWlWeIJAeawMioODlZhCgxR6OxAAKddAACVLW5SljMn0FcUef4NgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2007"
+        },
+        {
+            "album": "Синглы",
+            "title": "Under Pressure",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISPWhWlXosqKCso8QbQbZv0ljDz1yNAAKedAACVLW5Sh7xFYdj9OGpNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2005-04-12"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Welcome to the Black Parade",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISPmhWlZAQVlFGWYLGfhH4awrhutYiAAKidAACVLW5SkJHqbL8P-KoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "The Black Parade",
+            "title": "Teenagers",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISP2hWlZJHHCLDFc7h42vZyZU82iTOAAKjdAACVLW5SsceXXpAdUKcNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISH2hWlBOLxJYXwECCDOcfil2TxD2NAAKd7jEbVLW5SgimW8B9wPyUAQADAgADeQADNgQ"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "The Kids from Yesterday",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISQWhWlZQPefP1OfyrR1A1_e_j0xquAAKldAACVLW5Srivn_uMhz2zNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Danger Days  The True Lives of the Fabulous Killjoys",
+            "title": "Goodnite, Dr. Death",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISQmhWlZTSw0wb1COqfmXQUvo7IW7HAAKmdAACVLW5SpUnZbo0wBYJNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAISLWhWlK6uehV8zgABtEbB2q-Xz51H_AACou4xG1S1uUpu2qSR0V_JXgEAAwIAA3kAAzYE"
+        },
+        {
+            "album": "Синглы",
+            "title": "Tomorrow's Money",
+            "performer": "My Chemical Romance",
+            "genre": "Alternative",
+            "file_id": "CQACAgIAAyEGAASavGeAAAISQ2hWlaT8wUtJgGCDqV8kJXhdHtRIAAKndAACVLW5SjVV_cO_l4VoNgQ",
+            "cover_file_id": "AgACAgIAAyEGAASavGeAAAIR9GhWktOyrl1aQpHop1fnMX8jPnebAAKN7jEbVLW5SuCrru4I_PVjAQADAgADeQADNgQ",
+            "date": "2012-10-30"
+        }
+    ]
+}
