@@ -1,0 +1,109 @@
+{
+  "summary": {
+    "total_time": 83924,
+    "total_hours": 23.31222222222222,
+    "total_plays": 442,
+    "unique_artists": 22,
+    "most_skipped": [
+      {
+        "artist": "ATL",
+        "count": 9,
+        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfy2istWVr1R1Bmys1J13LXmVloc1sAAIO-jEbrhdoSbnlkbC2ko83AQADAgADeAADNgQ"
+      },
+      {
+        "artist": "Хаски",
+        "count": 8,
+        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf1mitz40sq_NRiuZcb2MtLgAB9BGioQACmvgxGz40cUkizHF0LdNqPgEAAwIAA3gAAzYE"
+      },
+      {
+        "artist": "ДЕТИ RAVE",
+        "count": 8,
+        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
+      }
+    ]
+  },
+  "top_artists": [
+    {
+      "rank": 1,
+      "artist": "Djo",
+      "total_hours": 3.87,
+      "total_seconds": 13932,
+      "play_count": 76,
+      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIxwmj9IhxPtNkxX4DMgXR1QzXncxs7AAJ3BzIbW9XxS25zTRFHjpTuAQADAgADeQADNgQ"
+    },
+    {
+      "rank": 2,
+      "artist": "ДЕТИ RAVE",
+      "total_hours": 2.7688888888888887,
+      "total_seconds": 9968,
+      "play_count": 62,
+      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
+    },
+    {
+      "rank": 3,
+      "artist": "Стрыкало",
+      "total_hours": 2.595833333333333,
+      "total_seconds": 9345,
+      "play_count": 33,
+      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfv2isiioNxhQZIP22UsL2Bnyvw2LtAAK9-zEbrhdgSdmJJpv6Gn0GAQADAgADeAADNgQ"
+    }
+  ],
+  "top_albums": [
+    {
+      "rank": 1,
+      "artist": "Djo",
+      "album_name": "DECIDE",
+      "total_hours": 3.223333333333333,
+      "play_count": 67,
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+    },
+    {
+      "rank": 2,
+      "artist": "Стрыкало",
+      "album_name": "Развлечение",
+      "total_hours": 2.160277777777778,
+      "play_count": 27,
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVk2hccqMfmya1UAU_l631EUWpZG_4AAK0AAEyG92a4EqW-eWyeoyqoQEAAwIAA3kAAzYE"
+    },
+    {
+      "rank": 3,
+      "artist": "Три дня дождя",
+      "album_name": "Когда ты откроешь глаза",
+      "total_hours": 1.8302777777777777,
+      "play_count": 37,
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGjGhKq7t1gK_6FO5jt7LlWEEXMvKcAALT9jEbiLNZSju5Ekk_g0ogAQADAgADeQADNgQ"
+    }
+  ],
+  "top_tracks_by_plays": [
+    {
+      "rank": 1,
+      "artist": "Djo",
+      "track_name": "End of Beginning",
+      "album": "DECIDE",
+      "play_count": 13,
+      "total_hours": 0.5944444444444444,
+      "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJmj7qdR9L8t29wu4wcb6TGQXxoMnAAKgkQACbVfZS5DsrmCdY87RNgQ",
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+    },
+    {
+      "rank": 2,
+      "artist": "Djo",
+      "track_name": "Change",
+      "album": "DECIDE",
+      "play_count": 8,
+      "total_hours": 0.3933333333333333,
+      "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJ2j7qet94e9XJaj_HbFoi1TIPY_zAAKhkQACbVfZS1wPOCYVNafKNgQ",
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+    },
+    {
+      "rank": 3,
+      "artist": "Numano",
+      "track_name": "Distance",
+      "album": "Mirage",
+      "play_count": 6,
+      "total_hours": 0.41944444444444445,
+      "track_file_id": "CQACAgIAAyEGAASavGeAAAIuMmjr-EBeT0Jb9zbyTr6kZwlC6wmEAAK5jQACecJgS3QnZQljzV-aNgQ",
+      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIuMGjr-BNsnHoBlTrebK94suY1hYonAAJyAAEyG3nCYEve8_OvvSl5VgEAAwIAA3kAAzYE"
+    }
+  ]
+}
