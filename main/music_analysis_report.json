@@ -1,109 +1,244 @@
 {
-  "summary": {
-    "total_time": 83924,
-    "total_hours": 23.31222222222222,
-    "total_plays": 442,
-    "unique_artists": 22,
-    "most_skipped": [
-      {
-        "artist": "ATL",
-        "count": 9,
-        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfy2istWVr1R1Bmys1J13LXmVloc1sAAIO-jEbrhdoSbnlkbC2ko83AQADAgADeAADNgQ"
+  "users": {
+    "Itachi_22D3kf": {
+      "user": "Itachi_22D3kf",
+      "summary": {
+        "total_time": 9090,
+        "total_hours": 2.525,
+        "total_plays": 57,
+        "unique_artists": 3,
+        "unique_tracks": 43,
+        "unique_albums": 5,
+        "most_skipped": [
+          {
+            "artist": "Kizaru",
+            "count": 1,
+            "time": 47,
+            "time_hours": 0.013055555555555556,
+            "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfyGispsZqra_2Q9D735ITJN2UEAvUAALS_DEbrhdgSeMBJis56CrvAQADAgADeAADNgQ"
+          }
+        ]
       },
-      {
-        "artist": "Хаски",
-        "count": 8,
-        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf1mitz40sq_NRiuZcb2MtLgAB9BGioQACmvgxGz40cUkizHF0LdNqPgEAAwIAA3gAAzYE"
+      "top_artists": [
+        {
+          "rank": 1,
+          "artist": "Дора",
+          "total_hours": 1.27,
+          "total_seconds": 4565,
+          "play_count": 26,
+          "unique_tracks": 22,
+          "unique_albums": 3,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfhWioiKHnJwpY66aAX2-ppv9zq59hAAKn9zEbZPhASThhI-r9l9o7AQADAgADeAADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "Kizaru",
+          "total_hours": 1.01,
+          "total_seconds": 3645,
+          "play_count": 24,
+          "unique_tracks": 14,
+          "unique_albums": 1,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfyGispsZqra_2Q9D735ITJN2UEAvUAALS_DEbrhdgSeMBJis56CrvAQADAgADeAADNgQ"
+        },
+        {
+          "rank": 3,
+          "artist": "FACE",
+          "total_hours": 0.24,
+          "total_seconds": 880,
+          "play_count": 7,
+          "unique_tracks": 7,
+          "unique_albums": 1,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf4GiwMjsF6edo9eduMGgeGXU_u_lhAAIt-jEbvLaASfOq0SsggapMAQADAgADeQADNgQ"
+        }
+      ],
+      "top_albums": [
+        {
+          "rank": 1,
+          "artist": "Kizaru",
+          "album_name": "BANDANA I",
+          "total_hours": 1.01,
+          "play_count": 24,
+          "unique_tracks": 14,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJR2hN3cymFFC2FxUt7jqXNAt3Fph4AAJO8TEbuDhxSsGQGG-PZa9KAQADAgADeQADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "Дора",
+          "album_name": "Боже, храни кьют-рок",
+          "total_hours": 0.56,
+          "play_count": 12,
+          "unique_tracks": 9,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+          "rank": 3,
+          "artist": "Дора",
+          "album_name": "Младшая сестра",
+          "total_hours": 0.39,
+          "play_count": 8,
+          "unique_tracks": 7,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAILpGhS8zul4vo4-OBlYozj6WSPnbWGAAJ29DEb5VyZSsynOG-0reOdAQADAgADeQADNgQ"
+        }
+      ],
+      "top_tracks_by_plays": [
+        {
+          "rank": 1,
+          "artist": "Kizaru",
+          "track_name": "Big Tymers",
+          "album": "BANDANA I",
+          "play_count": 2,
+          "total_hours": 0.11,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAIJTmhN3lHn2gZVIqlXNdBqrrEUmJscAAKjfgACuDhxShgVjtAZRQGTNgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJR2hN3cymFFC2FxUt7jqXNAt3Fph4AAJO8TEbuDhxSsGQGG-PZa9KAQADAgADeQADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "Дора",
+          "track_name": "Осень пьяная",
+          "album": "Боже, храни кьют-рок",
+          "play_count": 2,
+          "total_hours": 0.09,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAILrmhS83pLFttP30gFDTBZQkfTrL57AAKyewACz2WZSiVbOsrfbig1NgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAILrGhS81UAAUCl3Bytj17gq-fWntUH6AACafoxG89lmUp9ii89xE_mYAEAAwIAA3kAAzYE"
+        },
+        {
+          "rank": 3,
+          "artist": "Kizaru",
+          "track_name": "Errbody Sleeping",
+          "album": "BANDANA I",
+          "play_count": 2,
+          "total_hours": 0.09,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAIJUGhN3mZSF4rWeRVCM5dgOEENBZ4yAAKlfgACuDhxSqK2LaTokD3wNgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIJR2hN3cymFFC2FxUt7jqXNAt3Fph4AAJO8TEbuDhxSsGQGG-PZa9KAQADAgADeQADNgQ"
+        }
+      ]
+    },
+    "Helen_17quY4": {
+      "user": "Helen_17quY4",
+      "summary": {
+        "total_time": 83924,
+        "total_hours": 23.31222222222222,
+        "total_plays": 442,
+        "unique_artists": 22,
+        "unique_tracks": 254,
+        "unique_albums": 43,
+        "most_skipped": [
+          {
+            "artist": "ATL",
+            "count": 9,
+            "time": 179,
+            "time_hours": 0.04972222222222222,
+            "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfy2istWVr1R1Bmys1J13LXmVloc1sAAIO-jEbrhdoSbnlkbC2ko83AQADAgADeAADNgQ"
+          },
+          {
+            "artist": "Хаски",
+            "count": 8,
+            "time": 260,
+            "time_hours": 0.07222222222222222,
+            "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf1mitz40sq_NRiuZcb2MtLgAB9BGioQACmvgxGz40cUkizHF0LdNqPgEAAwIAA3gAAzYE"
+          },
+          {
+            "artist": "ДЕТИ RAVE",
+            "count": 8,
+            "time": 77,
+            "time_hours": 0.021388888888888888,
+            "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
+          }
+        ]
       },
-      {
-        "artist": "ДЕТИ RAVE",
-        "count": 8,
-        "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
-      }
-    ]
-  },
-  "top_artists": [
-    {
-      "rank": 1,
-      "artist": "Djo",
-      "total_hours": 3.87,
-      "total_seconds": 13932,
-      "play_count": 76,
-      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIxwmj9IhxPtNkxX4DMgXR1QzXncxs7AAJ3BzIbW9XxS25zTRFHjpTuAQADAgADeQADNgQ"
-    },
-    {
-      "rank": 2,
-      "artist": "ДЕТИ RAVE",
-      "total_hours": 2.7688888888888887,
-      "total_seconds": 9968,
-      "play_count": 62,
-      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
-    },
-    {
-      "rank": 3,
-      "artist": "Стрыкало",
-      "total_hours": 2.595833333333333,
-      "total_seconds": 9345,
-      "play_count": 33,
-      "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfv2isiioNxhQZIP22UsL2Bnyvw2LtAAK9-zEbrhdgSdmJJpv6Gn0GAQADAgADeAADNgQ"
+      "top_artists": [
+        {
+          "rank": 1,
+          "artist": "Djo",
+          "total_hours": 3.87,
+          "total_seconds": 13932,
+          "play_count": 76,
+          "unique_tracks": 20,
+          "unique_albums": 3,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIxwmj9IhxPtNkxX4DMgXR1QzXncxs7AAJ3BzIbW9XxS25zTRFHjpTuAQADAgADeQADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "ДЕТИ RAVE",
+          "total_hours": 2.77,
+          "total_seconds": 9968,
+          "play_count": 62,
+          "unique_tracks": 43,
+          "unique_albums": 5,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIf0Gitq4-GDwyOj6HEuX-o033frCkyAAIs-zEbrhdwSVrcs_2bOzkDAQADAgADeAADNgQ"
+        },
+        {
+          "rank": 3,
+          "artist": "Стрыкало",
+          "total_hours": 2.6,
+          "total_seconds": 9345,
+          "play_count": 33,
+          "unique_tracks": 14,
+          "unique_albums": 2,
+          "photo_file_id": "AgACAgIAAyEGAASavGeAAAIfv2isiioNxhQZIP22UsL2Bnyvw2LtAAK9-zEbrhdgSdmJJpv6Gn0GAQADAgADeAADNgQ"
+        }
+      ],
+      "top_albums": [
+        {
+          "rank": 1,
+          "artist": "Djo",
+          "album_name": "DECIDE",
+          "total_hours": 3.22,
+          "play_count": 67,
+          "unique_tracks": 13,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "Стрыкало",
+          "album_name": "Развлечение",
+          "total_hours": 2.16,
+          "play_count": 27,
+          "unique_tracks": 8,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVk2hccqMfmya1UAU_l631EUWpZG_4AAK0AAEyG92a4EqW-eWyeoyqoQEAAwIAA3kAAzYE"
+        },
+        {
+          "rank": 3,
+          "artist": "Три дня дождя",
+          "album_name": "Когда ты откроешь глаза",
+          "total_hours": 1.83,
+          "play_count": 37,
+          "unique_tracks": 11,
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGjGhKq7t1gK_6FO5jt7LlWEEXMvKcAALT9jEbiLNZSju5Ekk_g0ogAQADAgADeQADNgQ"
+        }
+      ],
+      "top_tracks_by_plays": [
+        {
+          "rank": 1,
+          "artist": "Djo",
+          "track_name": "End of Beginning",
+          "album": "DECIDE",
+          "play_count": 13,
+          "total_hours": 0.59,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJmj7qdR9L8t29wu4wcb6TGQXxoMnAAKgkQACbVfZS5DsrmCdY87RNgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+        },
+        {
+          "rank": 2,
+          "artist": "Djo",
+          "track_name": "Change",
+          "album": "DECIDE",
+          "play_count": 8,
+          "total_hours": 0.39,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJ2j7qet94e9XJaj_HbFoi1TIPY_zAAKhkQACbVfZS1wPOCYVNafKNgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
+        },
+        {
+          "rank": 3,
+          "artist": "Numano",
+          "track_name": "Distance",
+          "album": "Mirage",
+          "play_count": 6,
+          "total_hours": 0.42,
+          "track_file_id": "CQACAgIAAyEGAASavGeAAAIuMmjr-EBeT0Jb9zbyTr6kZwlC6wmEAAK5jQACecJgS3QnZQljzV-aNgQ",
+          "cover_file_id": "AgACAgIAAyEGAASavGeAAAIuMGjr-BNsnHoBlTrebK94suY1hYonAAJyAAEyG3nCYEve8_OvvSl5VgEAAwIAA3kAAzYE"
+        }
+      ]
     }
-  ],
-  "top_albums": [
-    {
-      "rank": 1,
-      "artist": "Djo",
-      "album_name": "DECIDE",
-      "total_hours": 3.223333333333333,
-      "play_count": 67,
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
-    },
-    {
-      "rank": 2,
-      "artist": "Стрыкало",
-      "album_name": "Развлечение",
-      "total_hours": 2.160277777777778,
-      "play_count": 27,
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIVk2hccqMfmya1UAU_l631EUWpZG_4AAK0AAEyG92a4EqW-eWyeoyqoQEAAwIAA3kAAzYE"
-    },
-    {
-      "rank": 3,
-      "artist": "Три дня дождя",
-      "album_name": "Когда ты откроешь глаза",
-      "total_hours": 1.8302777777777777,
-      "play_count": 37,
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIGjGhKq7t1gK_6FO5jt7LlWEEXMvKcAALT9jEbiLNZSju5Ekk_g0ogAQADAgADeQADNgQ"
-    }
-  ],
-  "top_tracks_by_plays": [
-    {
-      "rank": 1,
-      "artist": "Djo",
-      "track_name": "End of Beginning",
-      "album": "DECIDE",
-      "play_count": 13,
-      "total_hours": 0.5944444444444444,
-      "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJmj7qdR9L8t29wu4wcb6TGQXxoMnAAKgkQACbVfZS5DsrmCdY87RNgQ",
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
-    },
-    {
-      "rank": 2,
-      "artist": "Djo",
-      "track_name": "Change",
-      "album": "DECIDE",
-      "play_count": 8,
-      "total_hours": 0.3933333333333333,
-      "track_file_id": "CQACAgIAAyEGAASavGeAAAIwJ2j7qet94e9XJaj_HbFoi1TIPY_zAAKhkQACbVfZS1wPOCYVNafKNgQ",
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIwH2j7qVBliV9DgFs1pTu31EZLE5_gAAJKBzIbbVfZSy7ujCivrl6-AQADAgADeQADNgQ"
-    },
-    {
-      "rank": 3,
-      "artist": "Numano",
-      "track_name": "Distance",
-      "album": "Mirage",
-      "play_count": 6,
-      "total_hours": 0.41944444444444445,
-      "track_file_id": "CQACAgIAAyEGAASavGeAAAIuMmjr-EBeT0Jb9zbyTr6kZwlC6wmEAAK5jQACecJgS3QnZQljzV-aNgQ",
-      "cover_file_id": "AgACAgIAAyEGAASavGeAAAIuMGjr-BNsnHoBlTrebK94suY1hYonAAJyAAEyG3nCYEve8_OvvSl5VgEAAwIAA3kAAzYE"
-    }
-  ]
+  }
 }
